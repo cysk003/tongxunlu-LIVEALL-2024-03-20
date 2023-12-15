@@ -8,6 +8,6 @@
         {"url":"http://xhdwc.tk/0","name":"纯一骚零.TK"},
         {"url":"https://tvbox.cainisi.cf","name":"菜妮丝 XBPQ.CF"},
         {"url":"https://anaer.github.io/Meow/meow.json","name":"喵喵.GIT"}
-
+        {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json","name":"香雅情.GIT"}
         ]
 }
