@@ -39,7 +39,7 @@ TVBox配置文件。所有资源均来自于各路大神无私分享，如有侵
 
 （4）饭太硬：http://饭太硬.top/tv
 
-（5）肥猫：http://我不是.肥猫.love:63/接口禁止贩卖
+（5）肥猫：http://肥猫.live
 
 （6）霜辉月明py：https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json
 
