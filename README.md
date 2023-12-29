@@ -4,8 +4,6 @@
 
 https://get.66a.zone/https://raw.githubusercontent.com/Crap996/TV_Box/main/Clod.TV
 
-https://get.66a.zone/https://raw.githubusercontent.com/Crap996/TVBox/main/Qiu.TV
-
 TVBox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。 
 
 TVBox配置文件。所有资源均来自于各路大神无私分享，如有侵权，请联系删除。
