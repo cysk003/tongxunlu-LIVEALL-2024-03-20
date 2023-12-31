@@ -4,7 +4,7 @@
 
 https://raw.gitmirror.com/Crap996/TV_Box/main/ClodQiu.TV
 
-https://git.clod.cloudns.org/https://raw.githubusercontent.com/Crap996/TVBox/main/ClodQiu.TV
+https://git.669.cloudns.org/https://raw.githubusercontent.com/Crap996/TVBox/main/ClodQiu.TV
 
 TVBox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。 
 
