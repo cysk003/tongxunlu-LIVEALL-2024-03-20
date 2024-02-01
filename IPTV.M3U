@@ -584,17 +584,17 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807203543e3/index.m
 #EXTINF:-1 tvg-id="HB07" tvg-name="湖北垄上" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hubei7.png" group-title="湖北频道",湖北垄上
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072463c333/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNL%2Be1h4FfA5QqwJ7IPOz3p2qIS7djSxm17Htd%2FckZkm%2FVqsKHEJFJt26ju9iibzMEo
 
-#EXTINF:-1 group-title="湖北台" tvg-id="十堰新闻综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0122/small79fbbbee9c138ff4f1e86b66057643761516627169.jpg",十堰新闻综合频道
+#EXTINF:-1 group-title="湖北频道" tvg-id="十堰新闻综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0122/small79fbbbee9c138ff4f1e86b66057643761516627169.jpg",十堰新闻综合频道
 https://p8.vzan.com/slowlive/034028687228317362/live.m3u8
-#EXTINF:-1 group-title="湖北台" tvg-id="十堰经济旅游频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0122/small193b32fa2d1271472f445dcf09df360a1516627348.jpg",十堰经济旅游频道
+#EXTINF:-1 group-title="湖北频道" tvg-id="十堰经济旅游频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0122/small193b32fa2d1271472f445dcf09df360a1516627348.jpg",十堰经济旅游频道
 https://p8.vzan.com/slowlive/701367497774448672/live.m3u8
-#EXTINF:-1 group-title="湖北台" tvg-id="荆门新闻频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/1019/00ce7db73be380982d4177b395225dec.jpg",荆门新闻频道
+#EXTINF:-1 group-title="湖北频道" tvg-id="荆门新闻频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/1019/00ce7db73be380982d4177b395225dec.jpg",荆门新闻频道
 http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
-#EXTINF:-1 group-title="湖北台" tvg-id="荆门公共频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/1019/2dee4a2bde22c0a663f6fda95e18d7c6.jpg",荆门公共频道
+#EXTINF:-1 group-title="湖北频道" tvg-id="荆门公共频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/1019/2dee4a2bde22c0a663f6fda95e18d7c6.jpg",荆门公共频道
 http://stream.jmtv.com.cn/ngpd/sd/live.m3u8
-#EXTINF:-1 group-title="湖北台" tvg-id="荆门教育频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/1019/ef25af68af87269fe0a1200b4501213c.jpg",荆门教育频道
+#EXTINF:-1 group-title="湖北频道" tvg-id="荆门教育频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/1019/ef25af68af87269fe0a1200b4501213c.jpg",荆门教育频道
 http://stream.jmtv.com.cn/ggsh/sd/live.m3u8
-#EXTINF:-1 group-title="湖北台" tvg-id="孝感公共频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0123/small574b18f327b12aa6bb6173a88466fbb81516684871.jpg",孝感公共频道
+#EXTINF:-1 group-title="湖北频道" tvg-id="孝感公共频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0123/small574b18f327b12aa6bb6173a88466fbb81516684871.jpg",孝感公共频道
 http://live.yingxi.tv/channel1/sd/live.m3u8
 
 
