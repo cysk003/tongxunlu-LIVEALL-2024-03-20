@@ -852,11 +852,11 @@ http://jiawang-tv-hls.cm.jstv.com/jiawang-tv/jwxw.m3u8
 #EXTINF:-1 group-title="江苏频道" tvg-id="贾汪旅游频道" tvg-logo="http://tv.haoqu99.com/e/data/images/notemp.gif",贾汪旅游频道
 http://jiawang-tv-hls.cm.jstv.com/jiawang-tv/jwly.m3u8
 #EXTINF:-1 group-title="江苏频道" tvg-id="南通电视台一套" tvg-logo="http://tv.haoqu99.com/d/file/2016/0616/20160616053949523.jpg",南通电视台一套
-http://nttv-wshls.homecdn.com/live/7cc9.m3u8?t=1706326209&k=5f0b836a00bdf0a69da8a476e9fb9e64
+https://nt-hls.ntjoy.com/live/4f1.m3u8
 #EXTINF:-1 group-title="江苏频道" tvg-id="南通二套社教频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0616/20160616053856615.jpg",南通二套社教频道
-http://nttv-wshls.homecdn.com/live/7cc7.m3u8?t=1706326387&k=39c719e13af4e756fc1e6cbd570f7f9f
+http://nttv-wshls.homecdn.com/live//4f3.m3u8
 #EXTINF:-1 group-title="江苏频道" tvg-id="南通三套公共频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/0911/smallbca09b75371a77ce204514e5e77a57711505098629.jpg",南通三套公共频道
-http://nttv-wshls.homecdn.com/live/7cc5.m3u8?t=1706326396&k=57eda70bcbfb9641041154e3bf5f04c0
+http://nttv-wshls.homecdn.com/live//4f5.m3u8
 #EXTINF:-1 group-title="江苏频道" tvg-id="如东一套新闻综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0616/small-rudongysyl27492.jpg",如东一套新闻综合频道
 http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8
 #EXTINF:-1 group-title="江苏频道" tvg-id="海安新闻综合频道" tvg-logo="http://tv.haoqu99.com/e/data/images/notemp.gif",海安新闻综合频道
