@@ -7,9 +7,28 @@ https://raw.gitmirror.com/Crap996/TVBox/main/5iClub.TV
 ```yaml
 https://raw.gitmirror.com/Crap996/TVBox/main/IPTV.M3U
 ```
-TVBox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。 
+#📖说明
 
-TVBox配置文件。所有资源均来自于各路大神无私分享，如有侵权，请联系删除。
+所有播放源均收集于互联网🌐，仅供测试研究使用，不得商用。
+
+本项目不存储任何的流媒体内容，所有的法律责任与后果应由使用者自行承担。
+
+
+
+#🎬IPTV播放器
+
+📺Android TV：Tivimate[强烈推荐✨✨app付费，但体验极好]，Televizo
+
+💻Windows：Potplayer[Windows上最好用的本地视频播放器]，VLC[开源神器]
+
+📱IOS：APTV[推荐✨]，ntPlayer[不限制订阅数量、良心，有内购去广告]
+
+📡MAC：APTV[推荐✨]，IINA[Mac上最好用的本地视频播放器]
+
+💽Apple TV：APTV[推荐✨体验好，跨平台]
+
+📲Android：Televizo [推荐✨手机上体验不错、有广告、有内购]
+
 
 所有以任何方式查看本仓库内容的人、或直接或间接使用本仓库内容的使用者都应仔细阅读此声明。本仓库管理者保留随时更改或补充此免责声明的权利。一旦使用、复制、修改了本仓库内容，则视为您已接受此免责声明。
 
