@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://url.5iclub.cloudns.org/TVXML.XML,https://url.5iclub.cloudns.org/TVXML.XML.GZ" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTM3U x-tvg-url="https://raw.gitmirror.com/Meroser/IPTV/main/tvxml.xml,https://raw.gitmirror.com/Meroser/Meroser/EPG-test/main/tvxml-test.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 
 #央视频道
