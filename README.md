@@ -2,7 +2,7 @@
 
 本仓库多仓线路
 
-https://raw.gitmirror.com/Crap996/TV_Box/main/5iClub.TV
+https://raw.gitmirror.com/Crap996/TVBox/main/5iClub.TV
 
 https://git.669.cloudns.org/https://raw.githubusercontent.com/Crap996/TVBox/main/5iClub.TV
 
