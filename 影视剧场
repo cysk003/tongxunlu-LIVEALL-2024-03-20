@@ -1,82 +1,472 @@
-#🎞️电影联通线路
+#🎞️影视剧场
 #EXTM3U
-#EXTINF:-1,tvg-id="华语经典" tvg-name="华语经典" tvg-logo="https://epg.112114.xyz/logo/华语经典.png" group-title="影视剧场",华语经典
-http://epg.112114.xyz/douyu/434971
-#EXTINF:-1,tvg-id="华语电影HD" tvg-name="华语电影HD" tvg-logo="https://epg.112114.xyz/logo/华语电影HD.png" group-title="影视剧场",华语电影HD
-http://epg.112114.xyz/douyu/3928
+#EXTINF:-1,tvg-id="经典功夫" tvg-name="经典功夫" tvg-logo="https://epg.112114.xyz/logo/经典功夫.png" group-title="影视剧场",经典功夫
+http://43.138.170.29:35455/douyu/11566286
+#EXTINF:-1,tvg-id="超清港剧3" tvg-name="超清港剧3" tvg-logo="https://epg.112114.xyz/logo/港剧3.png" group-title="影视剧场",超清港剧3
+http://lxajh.top/tv/douyu.php?id=5261342
+#EXTINF:-1,tvg-id="片源多多" tvg-name="片源多多" tvg-logo="https://epg.112114.xyz/logo/片源多多.png" group-title="影视剧场",片源多多
+http://lxajh.top/tv/douyu.php?id=7476264
+#EXTINF:-1,tvg-id="港剧天地" tvg-name="港剧天地" tvg-logo="https://epg.112114.xyz/logo/港剧天地.png" group-title="影视剧场",港剧天地
+http://lxajh.top/tv/douyu.php?id=4290711
+#EXTINF:-1,tvg-id="港剧天地2" tvg-name="港剧天地2" tvg-logo="https://epg.112114.xyz/logo/港剧天地2.png" group-title="影视剧场",港剧天地2
+http://lxajh.top/tv/douyu.php?id=5522351
+#EXTINF:-1,tvg-id="橙记港剧" tvg-name="橙记港剧" tvg-logo="https://epg.112114.xyz/logo/橙记港剧.png" group-title="影视剧场",橙记港剧
+http://lxajh.top/tv/douyu.php?id=4549169
+#EXTINF:-1,tvg-id="邵氏电影" tvg-name="邵氏电影" tvg-logo="https://epg.112114.xyz/logo/邵氏电影.png" group-title="影视剧场",邵氏电影
+http://lxajh.top/tv/douyu.php?id=4246519
+#EXTINF:-1,tvg-id="老妖电影" tvg-name="老妖电影" tvg-logo="https://epg.112114.xyz/logo/老妖电影.png" group-title="影视剧场",老妖电影
+http://tv.yszlm.top/yy.php?id=14057
+#EXTINF:-1,tvg-id="路飞电影" tvg-name="路飞电影" tvg-logo="https://epg.112114.xyz/logo/路飞电影.png" group-title="影视剧场",路飞电影
+http://tv.yszlm.top/yy.php?id=18312
+#EXTINF:-1,tvg-id="喜剧电影1" tvg-name="喜剧电影1" tvg-logo="https://epg.112114.xyz/logo/喜剧电影1.png" group-title="影视剧场",喜剧电影1
+http://tv.yszlm.top/yy.php?id=1382851598
+#EXTINF:-1,tvg-id="邦德影院" tvg-name="邦德影院" tvg-logo="https://epg.112114.xyz/logo/邦德影院.png" group-title="影视剧场",邦德影院
+http://epg.112114.xyz/douyu/9292499
+#EXTINF:-1,tvg-id="国语港片" tvg-name="国语港片" tvg-logo="https://epg.112114.xyz/logo/国语港片.png" group-title="影视剧场",国语港片
+http://lxajh.top/tv/douyu.php?id=434971
+#EXTINF:-1,tvg-id="冰冰港片" tvg-name="冰冰港片" tvg-logo="https://epg.112114.xyz/logo/冰冰港片.png" group-title="影视剧场",冰冰港片
+http://lxajh.top/tv/douyu.php?id=74374
+#EXTINF:-1,tvg-id="冰冰经典" tvg-name="冰冰经典" tvg-logo="https://epg.112114.xyz/logo/冰冰经典.png" group-title="影视剧场",冰冰经典
+http://lxajh.top/tv/douyu.php?id=3928
+#EXTINF:-1,tvg-id="恐怖电影4" tvg-name="恐怖电影4" tvg-logo="https://epg.112114.xyz/logo/恐怖电影4.png" group-title="影视剧场",恐怖电影4
+http://diyp.112114.xyz/douyu/310926
+#EXTINF:-1,tvg-id="欢乐综艺" tvg-name="欢乐综艺" tvg-logo="https://epg.112114.xyz/logo/欢乐综艺.png" group-title="影视剧场",欢乐综艺
+http://mmitv.top/test/douyu.php?id=131977
 #EXTINF:-1,tvg-id="吃米滴虫" tvg-name="吃米滴虫" tvg-logo="https://epg.112114.xyz/logo/吃米滴虫.png" group-title="影视剧场",吃米滴虫
-http://epg.112114.xyz/douyu/315457
-#EXTINF:-1,tvg-id="神乐华语" tvg-name="神乐华语" tvg-logo="https://epg.112114.xyz/logo/神乐华语.png" group-title="影视剧场",神乐华语
-http://epg.112114.xyz/douyu/85894
-#EXTINF:-1,tvg-id="吃奶滴虫" tvg-name="吃奶滴虫" tvg-logo="https://epg.112114.xyz/logo/吃奶滴虫.png" group-title="影视剧场",吃奶滴虫
-http://epg.112114.xyz/douyu/263824
-#EXTINF:-1,tvg-id="特辑影院" tvg-name="特辑影院" tvg-logo="https://epg.112114.xyz/logo/特辑影院.png" group-title="影视剧场",特辑影院
-http://epg.112114.xyz/douyu/3637778
-#EXTINF:-1,tvg-id="贝爷MAX厅" tvg-name="贝爷MAX厅" tvg-logo="https://epg.112114.xyz/logo/贝爷MAX厅.png" group-title="影视剧场",贝爷MAX厅
-http://epg.112114.xyz/douyu/4332
-#EXTINF:-1,tvg-id="漫威影片" tvg-name="漫威影片" tvg-logo="https://epg.112114.xyz/logo/漫威影片.png" group-title="影视剧场",漫威影片
-http://epg.112114.xyz/douyu/6140589
-#EXTINF:-1,tvg-id="周星驰电影" tvg-name="周星驰电影" tvg-logo="https://epg.112114.xyz/logo/周星驰电影.png" group-title="影视剧场",周星驰电影
-http://epg.112114.xyz/douyu/122402
-#EXTINF:-1,tvg-id="刘德华电影1" tvg-name="刘德华电影1" tvg-logo="https://epg.112114.xyz/logo/刘德华电影1.png" group-title="影视剧场",刘德华电影1
-http://epg.112114.xyz/douyu/2516864
+http://mmitv.top/test/douyu.php?id=315457
+#EXTINF:-1,tvg-id="高分电影" tvg-name="高分电影" tvg-logo="https://epg.112114.xyz/logo/高分电影.png" group-title="影视剧场",高分电影
+http://mmitv.top/test/douyu.php?id=7254536
 #EXTINF:-1,tvg-id="豆瓣高分" tvg-name="豆瓣高分" tvg-logo="https://epg.112114.xyz/logo/豆瓣高分.png" group-title="影视剧场",豆瓣高分
-http://epg.112114.xyz/douyu/8770422
-#EXTINF:-1,tvg-id="经典武侠" tvg-name="经典武侠" tvg-logo="https://epg.112114.xyz/logo/经典武侠.png" group-title="影视剧场",经典武侠
-http://epg.112114.xyz/douyu/4246519
-#EXTINF:-1,tvg-id="那些年的经典" tvg-name="那些年的经典" tvg-logo="https://epg.112114.xyz/logo/那些年的经典.png" group-title="影视剧场",那些年的经典
-http://epg.112114.xyz/douyu/1274132
-#EXTINF:-1,tvg-id="林正英电影1" tvg-name="林正英电影1" tvg-logo="https://epg.112114.xyz/logo/林正英电影1.png" group-title="影视剧场",林正英电影1
-http://epg.112114.xyz/douyu/218859
-#EXTINF:-1,tvg-id="林正英电影2" tvg-name="林正英电影2" tvg-logo="https://epg.112114.xyz/logo/林正英电影2.png" group-title="影视剧场",林正英电影2
-http://epg.112114.xyz/douyu/7356023
-#EXTINF:-1,tvg-id="女神金电影" tvg-name="女神金电影" tvg-logo="https://epg.112114.xyz/logo/女神金电影.png" group-title="影视剧场",女神金电影
-http://epg.112114.xyz/douyu/747764
-#EXTINF:-1,tvg-id="贝爷影厅1" tvg-name="贝爷影厅1" tvg-logo="https://epg.112114.xyz/logo/贝爷影厅1.png" group-title="影视剧场",贝爷影厅1
-http://epg.112114.xyz/douyu/252802
-#EXTINF:-1,tvg-id="贝爷影厅2" tvg-name="贝爷影厅2" tvg-logo="https://epg.112114.xyz/logo/贝爷影厅2.png" group-title="影视剧场",贝爷影厅2
-http://epg.112114.xyz/douyu/36337
-#EXTINF:-1,tvg-id="电影欧美" tvg-name="电影欧美" tvg-logo="https://epg.112114.xyz/logo/电影欧美.png" group-title="影视剧场",电影欧美
-http://epg.112114.xyz/douyu/20415
-#EXTINF:-1,tvg-id="冰冰经典电影" tvg-name="冰冰经典电影" tvg-logo="https://epg.112114.xyz/logo/冰冰经典电影.png" group-title="影视剧场",冰冰经典电影
-http://epg.112114.xyz/douyu/74374
-#EXTINF:-1,tvg-id="林林影院" tvg-name="林林影院" tvg-logo="https://epg.112114.xyz/logo/林林影院.png" group-title="影视剧场",林林影院
-http://epg.112114.xyz/douyu/9826611
-#EXTINF:-1,tvg-id="恐怖经典" tvg-name="恐怖经典" tvg-logo="https://epg.112114.xyz/logo/恐怖经典.png" group-title="影视剧场",恐怖经典
-http://epg.112114.xyz/douyu/1165374
-#EXTINF:-1,tvg-id="变种人电影" tvg-name="变种人电影" tvg-logo="https://epg.112114.xyz/logo/变种人电影.png" group-title="影视剧场",变种人电影
-http://epg.112114.xyz/douyu/9651304
-#EXTINF:-1,tvg-id="麓山迷踪" tvg-name="麓山迷踪" tvg-logo="https://epg.112114.xyz/logo/麓山迷踪.png" group-title="影视剧场",麓山迷踪
-http://epg.112114.xyz/douyu/4505431
-#EXTINF:-1,tvg-id="欧美大片" tvg-name="欧美大片" tvg-logo="https://epg.112114.xyz/logo/欧美大片.png" group-title="影视剧场",欧美大片
-http://epg.112114.xyz/douyu/2793084
-#EXTINF:-1,tvg-id="小宇60帧" tvg-name="小宇60帧" tvg-logo="https://epg.112114.xyz/logo/小宇60帧.png" group-title="影视剧场",小宇60帧
-http://epg.112114.xyz/douyu/323876
-#EXTINF:-1,tvg-id="4K综艺" tvg-name="4K综艺" tvg-logo="https://epg.112114.xyz/logo/4K综艺.png" group-title="影视剧场",4K HDR
-http://epg.112114.xyz/douyu/9249162
-#EXTINF:-1,tvg-id="喜剧电影专场" tvg-name="喜剧电影专场" tvg-logo="https://epg.112114.xyz/logo/喜剧电影专场.png" group-title="影视剧场",喜剧电影专场
-http://epg.112114.xyz/douyu/9292492
-#EXTINF:-1,tvg-id="恐怖影片" tvg-name="恐怖影片" tvg-logo="https://epg.112114.xyz/logo/恐怖影片.png" group-title="影视剧场",恐怖影片
-http://43.138.170.29:35455/huya/11602075
-#EXTINF:-1,tvg-id="師落" tvg-name="師落" tvg-logo="https://epg.112114.xyz/logo/師落.png" group-title="影视剧场",師落
-http://epg.112114.xyz/douyu/6582435
-#EXTINF:-1,tvg-id="赵本山小品" tvg-name="赵本山小品" tvg-logo="https://epg.112114.xyz/logo/赵本山小品.png" group-title="影视剧场",赵本山小品
-http://epg.112114.xyz/douyu/9817716
-#EXTINF:-1,tvg-id="宋小宝小品" tvg-name="宋小宝小品" tvg-logo="https://epg.112114.xyz/logo/宋小宝小品.png" group-title="影视剧场",宋小宝小品
-http://epg.112114.xyz/douyu/9817729
-#EXTINF:-1,tvg-id="经典小品" tvg-name="经典小品" tvg-logo="https://epg.112114.xyz/logo/经典小品.png" group-title="影视剧场",经典小品
-http://epg.112114.xyz/douyu/9067836
-#EXTINF:-1,tvg-id="情景喜剧" tvg-name="情景喜剧" tvg-logo="https://epg.112114.xyz/logo/情景喜剧.png" group-title="影视剧场",情景喜剧
-http://epg.112114.xyz/douyu/3980787
-#EXTINF:-1,tvg-id="经典电视剧" tvg-name="经典电视剧" tvg-logo="https://epg.112114.xyz/logo/经典电视剧.png" group-title="影视剧场",经典电视剧
-http://epg.112114.xyz/douyu/7459925
-#EXTINF:-1,tvg-id="连续剧1" tvg-name="连续剧1" tvg-logo="https://epg.112114.xyz/logo/连续剧1.png" group-title="影视剧场",连续剧1
-http://epg.112114.xyz/douyu/4549169
-#EXTINF:-1,tvg-id="连续剧2" tvg-name="连续剧2" tvg-logo="https://epg.112114.xyz/logo/连续剧2.png" group-title="影视剧场",连续剧2
-http://epg.112114.xyz/douyu/7623292
-#EXTINF:-1,tvg-id="连续剧3" tvg-name="连续剧3" tvg-logo="https://epg.112114.xyz/logo/连续剧3.png" group-title="影视剧场",连续剧3
-http://epg.112114.xyz/douyu/7476264
-#EXTINF:-1,tvg-id="看剧" tvg-name="看剧" tvg-logo="https://epg.112114.xyz/logo/看剧.png" group-title="影视剧场",看剧
-http://epg.112114.xyz/douyu/431460
-#EXTINF:-1,tvg-id="武侠剧" tvg-name="武侠剧" tvg-logo="https://epg.112114.xyz/logo/武侠剧.png" group-title="影视剧场",武侠剧
-http://epg.112114.xyz/douyu/7655471
+http://mmitv.top/test/douyu.php?id=8770422
+#EXTINF:-1,tvg-id="漫威影院" tvg-name="漫威影院" tvg-logo="https://epg.112114.xyz/logo/漫威影院.png" group-title="影视剧场",漫威影院
+http://mmitv.top/test/douyu.php?id=6140589
+#EXTINF:-1,tvg-id="恐怖鬼怪" tvg-name="恐怖鬼怪" tvg-logo="https://epg.112114.xyz/logo/恐怖鬼怪.png" group-title="影视剧场",恐怖鬼怪
+http://mmitv.top/test/douyu.php?id=1165374
+#EXTINF:-1,tvg-id="童年阴影" tvg-name="童年阴影" tvg-logo="https://epg.112114.xyz/logo/童年阴影.png" group-title="影视剧场",童年阴影
+http://mmitv.top/test/douyu.php?id=2935323
+#EXTINF:-1,tvg-id="惊悚电影" tvg-name="惊悚电影" tvg-logo="https://epg.112114.xyz/logo/惊悚电影.png" group-title="影视剧场",惊悚电影
+http://mmitv.top/test/douyu.php?id=96577
+#EXTINF:-1,tvg-id="粤语电影" tvg-name="粤语电影" tvg-logo="https://epg.112114.xyz/logo/粤语电影.png" group-title="影视剧场",粤语电影
+http://mmitv.top/test/douyu.php?id=6566671
+#EXTINF:-1,tvg-id="华语影视" tvg-name="华语影视" tvg-logo="https://epg.112114.xyz/logo/华语影视.png" group-title="影视剧场",华语影视
+http://mmitv.top/test/douyu.php?id=3928
+#EXTINF:-1,tvg-id="冰冰影厅" tvg-name="冰冰影厅" tvg-logo="https://epg.112114.xyz/logo/冰冰影厅.png" group-title="影视剧场",冰冰影厅
+http://mmitv.top/test/douyu.php?id=74374
+#EXTINF:-1,tvg-id="YY電影-電影輪播01" tvg-name="YY電影-電影輪播01" tvg-logo="https://epg.112114.xyz/logo/YY電影電影輪播01.png" group-title="影视剧场",YY電影-電影輪播01
+http://mmitv.top/pltv/yy.php?id=1353059120
+#EXTINF:-1,tvg-id="yy经典怀旧" tvg-name="yy经典怀旧" tvg-logo="https://epg.112114.xyz/logo/YY经典怀旧.png" group-title="影视剧场",yy经典怀旧
+http://mmitv.top/pltv/yy.php?id=1382627144
+#EXTINF:-1,tvg-id="射雕英雄" tvg-name="射雕英雄" tvg-logo="https://epg.112114.xyz/logo/射雕英雄.png" group-title="影视剧场",射雕英雄
+http://mmitv.top/pltv/yy.php?id=1354210357
+#EXTINF:-1,tvg-id="YY东北二人转" tvg-name="YY东北二人转" tvg-logo="https://epg.112114.xyz/logo/YY东北二人转.png" group-title="影视剧场",YY东北二人转
+http://mmitv.top/pltv/yy.php?id=1356033451
+#EXTINF:-1,tvg-id="下饭神剧" tvg-name="下饭神剧" tvg-logo="https://epg.112114.xyz/logo/下饭神剧.png" group-title="影视剧场",下饭神剧
+http://mmitv.top/pltv/yy.php?id=23512910&uid=2244321222
+#EXTINF:-1,tvg-id="武林外传" tvg-name="武林外传" tvg-logo="https://epg.112114.xyz/logo/武林外传.png" group-title="影视剧场",武林外传
+http://mmitv.top/pltv/yy.php?id=1355914397&uid=1634911740
+#EXTINF:-1,tvg-id="神医喜来乐" tvg-name="神医喜来乐" tvg-logo="https://epg.112114.xyz/logo/神医喜来乐.png" group-title="影视剧场",神医喜来乐
+http://mmitv.top/pltv/yy.php?id=1382714119&uid=2244059750
+#EXTINF:-1,tvg-id="热舞不断" tvg-name="热舞不断" tvg-logo="https://epg.112114.xyz/logo/热舞不断.png" group-title="影视剧场",热舞不断
+http://mmitv.top/pltv/yy.php?id=22490906
+#EXTINF:-1,tvg-id="狂飙" tvg-name="狂飙" tvg-logo="https://epg.112114.xyz/logo/狂飙.png" group-title="影视剧场",狂飙
+http://mmitv.top/pltv/yy.php?id=1382690078
+#EXTINF:-1,tvg-id="纪晓岚" tvg-name="纪晓岚" tvg-logo="https://epg.112114.xyz/logo/纪晓岚.png" group-title="影视剧场",纪晓岚
+http://mmitv.top/pltv/yy.php?id=1382781415
+#EXTINF:-1,tvg-id="武林外传" tvg-name="武林外传" tvg-logo="https://epg.112114.xyz/logo/武林外传.png" group-title="影视剧场",武林外传
+http://mmitv.top/pltv/yy.php?id=1355652820
+#EXTINF:-1,tvg-id="武林外传" tvg-name="武林外传" tvg-logo="https://epg.112114.xyz/logo/武林外传.png" group-title="影视剧场",武林外传
+http://mmitv.top/pltv/yy.php?id=1353852605
+#EXTINF:-1,tvg-id="武林外传 超清" tvg-name="武林外传 超清" tvg-logo="https://epg.112114.xyz/logo/武林外传.png" group-title="影视剧场",武林外传 超清
+http://mmitv.top/pltv/yy.php?id=21092633
+#EXTINF:-1,tvg-id="幸福满院" tvg-name="幸福满院" tvg-logo="https://epg.112114.xyz/logo/幸福满院.png" group-title="影视剧场",幸福满院
+http://mmitv.top/pltv/yy.php?id=1382737886
+#EXTINF:-1,tvg-id="【狂飙2老默】首播" tvg-name="【狂飙2老默】首播" tvg-logo="https://epg.112114.xyz/logo/【狂飙2老默】首播.png" group-title="影视剧场",【狂飙2老默】首播
+http://mmitv.top/pltv/yy.php?id=1354790484
+#EXTINF:-1,tvg-id="【战狼3吴京】独播" tvg-name="【战狼3吴京】独播" tvg-logo="https://epg.112114.xyz/logo/【战狼3吴京】独播.png" group-title="影视剧场",【战狼3吴京】独播
+http://mmitv.top/pltv/yy.php?id=37999586
+#EXTINF:-1,tvg-id="豪哥带我们发财" tvg-name="豪哥带我们发财" tvg-logo="https://epg.112114.xyz/logo/豪哥带我们发财.png" group-title="影视剧场",豪哥带我们发财
+http://mmitv.top/pltv/yy.php?id=23402146
+#EXTINF:-1,tvg-id="【鹿鼎记】金庸经典" tvg-name="【鹿鼎记】金庸经典" tvg-logo="https://epg.112114.xyz/logo/【鹿鼎记】金庸经典.png" group-title="影视剧场",【鹿鼎记】金庸经典
+http://mmitv.top/pltv/yy.php?id=28265277
+#EXTINF:-1,tvg-id="【战狼4】吴京老师" tvg-name="【战狼4】吴京老师" tvg-logo="https://epg.112114.xyz/logo/【战狼4】吴京老师.png" group-title="影视剧场",【战狼4】吴京老师
+http://mmitv.top/pltv/yy.php?id=1354784284
+#EXTINF:-1,tvg-id="封神榜" tvg-name="封神榜" tvg-logo="https://epg.112114.xyz/logo/封神榜.png" group-title="影视剧场",封神榜
+http://mmitv.top/pltv/yy.php?id=1353426319
+#EXTINF:-1,tvg-id="正阳门下" tvg-name="正阳门下" tvg-logo="https://epg.112114.xyz/logo/正阳门下.png" group-title="影视剧场",正阳门下
+http://mmitv.top/pltv/yy.php?id=1354931580
+#EXTINF:-1,tvg-id="正阳门下" tvg-name="正阳门下" tvg-logo="https://epg.112114.xyz/logo/正阳门下.png" group-title="影视剧场",正阳门下
+http://mmitv.top/pltv/yy.php?id=1382851588
+#EXTINF:-1,tvg-id="超喜剧地下交通站男神贾贵" tvg-name="超喜剧地下交通站男神贾贵" tvg-logo="https://epg.112114.xyz/logo/超喜剧地下交通站男神贾贵.png" group-title="影视剧场",超喜剧地下交通站男神贾贵
+http://mmitv.top/pltv/yy.php?id=1353428972
+#EXTINF:-1,tvg-id="【赌神片 动作片 港片】" tvg-name="【赌神片 动作片 港片】" tvg-logo="https://epg.112114.xyz/logo/【赌神片动作片港片】.png" group-title="影视剧场",【赌神片 动作片 港片】
+http://mmitv.top/pltv/yy.php?id=1355112116
+#EXTINF:-1,tvg-id="弹幕天团 下饭神剧" tvg-name="弹幕天团 下饭神剧" tvg-logo="https://epg.112114.xyz/logo/弹幕天团下饭神剧.png" group-title="影视剧场",弹幕天团 下饭神剧
+http://mmitv.top/pltv/yy.php?id=23512910
+#EXTINF:-1,tvg-id="赵本山《蓝光版》" tvg-name="赵本山《蓝光版》" tvg-logo="https://epg.112114.xyz/logo/赵本山《版》.png" group-title="影视剧场",赵本山《蓝光版》
+http://mmitv.top/pltv/yy.php?id=32160832
+#EXTINF:-1,tvg-id="少年包青天1~3蓝光版" tvg-name="少年包青天1~3蓝光版" tvg-logo="https://epg.112114.xyz/logo/少年包青天1~3版.png" group-title="影视剧场",少年包青天1~3蓝光版
+http://mmitv.top/pltv/yy.php?id=38498680
+#EXTINF:-1,tvg-id="知否" tvg-name="知否" tvg-logo="https://epg.112114.xyz/logo/知否.png" group-title="影视剧场",知否
+http://mmitv.top/pltv/yy.php?id=1351537467
+#EXTINF:-1,tvg-id="神医喜来乐" tvg-name="神医喜来乐" tvg-logo="https://epg.112114.xyz/logo/神医喜来乐.png" group-title="影视剧场",神医喜来乐
+http://mmitv.top/pltv/yy.php?id=1382714119
+#EXTINF:-1,tvg-id="雪中悍刀行" tvg-name="雪中悍刀行" tvg-logo="https://epg.112114.xyz/logo/雪中悍刀行.png" group-title="影视剧场",雪中悍刀行
+http://mmitv.top/pltv/yy.php?id=1382660835
+#EXTINF:-1,tvg-id="66车讯" tvg-name="66车讯" tvg-logo="https://epg.112114.xyz/logo/66车讯.png" group-title="影视剧场",66车讯
+http://mmitv.top/pltv/yy.php?id=1382571192
+#EXTINF:-1,tvg-id="鹿鼎记-周星驰版" tvg-name="鹿鼎记-周星驰版" tvg-logo="https://epg.112114.xyz/logo/鹿鼎记周星驰版.png" group-title="影视剧场",鹿鼎记-周星驰版
+http://mmitv.top/pltv/yy.php?id=1354658049
+#EXTINF:-1,tvg-id="系列电视剧" tvg-name="系列电视剧" tvg-logo="https://epg.112114.xyz/logo/系列电视剧.png" group-title="影视剧场",系列电视剧
+http://mmitv.top/pltv/yy.php?id=1458015189
+#EXTINF:-1,tvg-id="康熙王朝" tvg-name="康熙王朝" tvg-logo="https://epg.112114.xyz/logo/康熙王朝.png" group-title="影视剧场",康熙王朝
+http://mmitv.top/pltv/yy.php?id=1382851583
+#EXTINF:-1,tvg-id="康熙王朝" tvg-name="康熙王朝" tvg-logo="https://epg.112114.xyz/logo/康熙王朝.png" group-title="影视剧场",康熙王朝
+http://mmitv.top/pltv/yy.php?id=1382736818
+#EXTINF:-1,tvg-id="火凤凰之战狼七" tvg-name="火凤凰之战狼七" tvg-logo="https://epg.112114.xyz/logo/火凤凰之战狼七.png" group-title="香港",火凤凰之战狼七
+http://mmitv.top/pltv/yy.php?id=1463088777
+#EXTINF:-1,tvg-id="天龙八部集" tvg-name="天龙八部集" tvg-logo="https://epg.112114.xyz/logo/天龙八部集.png" group-title="影视剧场",天龙八部
+http://mmitv.top/pltv/yy.php?id=1351814644
+#EXTINF:-1,tvg-id="天龙八部集" tvg-name="天龙八部集" tvg-logo="https://epg.112114.xyz/logo/天龙八部集.png" group-title="影视剧场",天龙八部
+http://mmitv.top/pltv/yy.php?id=1382749944
+#EXTINF:-1,tvg-id="燕双鹰" tvg-name="燕双鹰" tvg-logo="https://epg.112114.xyz/logo/燕双鹰.png" group-title="影视剧场",燕双鹰
+http://mmitv.top/pltv/yy.php?id=1354143942
+#EXTINF:-1,tvg-id="燕双鹰" tvg-name="燕双鹰" tvg-logo="https://epg.112114.xyz/logo/燕双鹰.png" group-title="影视剧场",燕双鹰
+http://mmitv.top/pltv/yy.php?id=1352227153
+#EXTINF:-1,tvg-id="神探狄仁杰2" tvg-name="神探狄仁杰2" tvg-logo="https://epg.112114.xyz/logo/神探狄仁杰2.png" group-title="影视剧场",神探狄仁杰2
+http://mmitv.top/pltv/yy.php?id=1382828767
+#EXTINF:-1,tvg-id="神探狄仁杰2" tvg-name="神探狄仁杰2" tvg-logo="https://epg.112114.xyz/logo/神探狄仁杰2.png" group-title="影视剧场",神探狄仁杰2
+http://mmitv.top/pltv/yy.php?id=1382851146
+#EXTINF:-1,tvg-id="二龙湖浩哥【经典搞笑】" tvg-name="二龙湖浩哥【经典搞笑】" tvg-logo="https://epg.112114.xyz/logo/二龙湖浩哥【经典搞笑】.png" group-title="影视剧场",二龙湖浩哥【经典搞笑】
+http://mmitv.top/pltv/yy.php?id=28205255
+#EXTINF:-1,tvg-id="炊事班的故事III" tvg-name="炊事班的故事III" tvg-logo="https://epg.112114.xyz/logo/炊事班的故事III.png" group-title="影视剧场",炊事班的故事III
+http://mmitv.top/pltv/yy.php?id=1382736716
+#EXTINF:-1,tvg-id="新水浒 蓝光版" tvg-name="新水浒 蓝光版" tvg-logo="https://epg.112114.xyz/logo/新水浒版.png" group-title="影视剧场",新水浒 蓝光版
+http://mmitv.top/pltv/yy.php?id=23206872
+#EXTINF:-1,tvg-id="地下交通站" tvg-name="地下交通站" tvg-logo="https://epg.112114.xyz/logo/地下交通站.png" group-title="影视剧场",地下交通站
+http://mmitv.top/pltv/yy.php?id=1382736795
+#EXTINF:-1,tvg-id="雪儿 正在直播" tvg-name="雪儿 正在直播" tvg-logo="https://epg.112114.xyz/logo/雪儿正在直播.png" group-title="影视剧场",雪儿 正在直播
+http://mmitv.top/pltv/yy.php?id=1354143938
+#EXTINF:-1,tvg-id="经典鬼片3000部" tvg-name="经典鬼片3000部" tvg-logo="https://epg.112114.xyz/logo/经典鬼片部.png" group-title="影视剧场",经典鬼片3000部
+http://mmitv.top/pltv/yy.php?id=29460894
+#EXTINF:-1,tvg-id="绝版恐怖鬼片" tvg-name="绝版恐怖鬼片" tvg-logo="https://epg.112114.xyz/logo/绝版恐怖鬼片.png" group-title="影视剧场",绝版恐怖鬼片
+http://mmitv.top/pltv/yy.php?id=1382748585
+#EXTINF:-1,tvg-id="我的兄弟叫宝强" tvg-name="我的兄弟叫宝强" tvg-logo="https://epg.112114.xyz/logo/我的兄弟叫宝强.png" group-title="影视剧场",我的兄弟叫宝强
+http://mmitv.top/pltv/yy.php?id=1354752117
+#EXTINF:-1,tvg-id="新白娘子传奇" tvg-name="新白娘子传奇" tvg-logo="https://epg.112114.xyz/logo/新白娘子传奇.png" group-title="影视剧场",新白娘子传奇
+http://mmitv.top/pltv/yy.php?id=1354490667
+#EXTINF:-1,tvg-id="新三国24小时播放" tvg-name="新三国24小时播放" tvg-logo="https://epg.112114.xyz/logo/新三国24小时播放.png" group-title="影视剧场",新三国24小时播放
+http://mmitv.top/pltv/yy.php?id=1354555195
+#EXTINF:-1,tvg-id="经典动漫" tvg-name="经典动漫" tvg-logo="https://epg.112114.xyz/logo/经典动漫.png" group-title="影视剧场",经典动漫
+http://mmitv.top/pltv/yy.php?id=22777075
+#EXTINF:-1,tvg-id="经典动漫" tvg-name="经典动漫" tvg-logo="https://epg.112114.xyz/logo/经典动漫.png" group-title="影视剧场",经典动漫
+http://mmitv.top/pltv/yy.php?id=24180320
+#EXTINF:-1,tvg-id="港片赌片 3000部" tvg-name="港片赌片 3000部" tvg-logo="https://epg.112114.xyz/logo/港片赌片部.png" group-title="影视剧场",港片赌片 3000部
+http://mmitv.top/pltv/yy.php?id=1355076627
+#EXTINF:-1,tvg-id="破案港剧" tvg-name="破案港剧" tvg-logo="https://epg.112114.xyz/logo/破案港剧.png" group-title="影视剧场",破案港剧
+http://mmitv.top/pltv/yy.php?id=1350670730
+#EXTINF:-1,tvg-id="神探狄仁杰" tvg-name="神探狄仁杰" tvg-logo="https://epg.112114.xyz/logo/神探狄仁杰.png" group-title="影视剧场",神探狄仁杰
+http://mmitv.top/pltv/yy.php?id=38338029
+#EXTINF:-1,tvg-id="二号交通站" tvg-name="二号交通站" tvg-logo="https://epg.112114.xyz/logo/二号交通站.png" group-title="影视剧场",二号交通站
+http://mmitv.top/pltv/yy.php?id=1382735582
+#EXTINF:-1,tvg-id="二号交通站" tvg-name="二号交通站" tvg-logo="https://epg.112114.xyz/logo/二号交通站.png" group-title="影视剧场",二号交通站
+http://mmitv.top/pltv/yy.php?id=1382851582
+#EXTINF:-1,tvg-id="风筝" tvg-name="风筝" tvg-logo="https://epg.112114.xyz/logo/风筝.png" group-title="影视剧场",风筝
+http://mmitv.top/pltv/yy.php?id=1382828770
+#EXTINF:-1,tvg-id="交友林正英女鬼电影" tvg-name="交友林正英女鬼电影" tvg-logo="https://epg.112114.xyz/logo/交友林正英女鬼电影.png" group-title="影视剧场",交友林正英女鬼电影
+http://mmitv.top/pltv/yy.php?id=1453996620
+#EXTINF:-1,tvg-id="狄仁杰" tvg-name="狄仁杰" tvg-logo="https://epg.112114.xyz/logo/狄仁杰.png" group-title="影视剧场",狄仁杰
+http://mmitv.top/pltv/yy.php?id=1351755386
+#EXTINF:-1,tvg-id="花千骨超清版" tvg-name="花千骨超清版" tvg-logo="https://epg.112114.xyz/logo/花千骨版.png" group-title="影视剧场",花千骨超清版
+http://mmitv.top/pltv/yy.php?id=1356245009
+#EXTINF:-1,tvg-id="24H地下交通站全" tvg-name="24H地下交通站全" tvg-logo="https://epg.112114.xyz/logo/24H地下交通站全.png" group-title="影视剧场",24H地下交通站全
+http://mmitv.top/pltv/yy.php?id=37880083
+#EXTINF:-1,tvg-id="济公游记" tvg-name="济公游记" tvg-logo="https://epg.112114.xyz/logo/济公游记.png" group-title="影视剧场",济公游记
+http://mmitv.top/pltv/yy.php?id=1355265814
+#EXTINF:-1,tvg-id="新三国" tvg-name="新三国" tvg-logo="https://epg.112114.xyz/logo/新三国.png" group-title="影视剧场",新三国
+http://mmitv.top/pltv/yy.php?id=26744898
+#EXTINF:-1,tvg-id="宰相刘罗锅" tvg-name="宰相刘罗锅" tvg-logo="https://epg.112114.xyz/logo/宰相刘罗锅.png" group-title="影视剧场",宰相刘罗锅
+http://mmitv.top/pltv/yy.php?id=1353892468
+#EXTINF:-1,tvg-id="宰相刘罗锅" tvg-name="宰相刘罗锅" tvg-logo="https://epg.112114.xyz/logo/宰相刘罗锅.png" group-title="影视剧场",宰相刘罗锅
+http://mmitv.top/pltv/yy.php?id=1382745191
+#EXTINF:-1,tvg-id="鹿鼎记-高清全集" tvg-name="鹿鼎记-高清全集" tvg-logo="https://epg.112114.xyz/logo/鹿鼎记高清全集.png" group-title="影视剧场",鹿鼎记-高清全集
+http://mmitv.top/pltv/yy.php?id=1382704650
+#EXTINF:-1,tvg-id="港剧悬疑破案" tvg-name="港剧悬疑破案" tvg-logo="https://epg.112114.xyz/logo/港剧悬疑破案.png" group-title="影视剧场",港剧悬疑破案
+http://mmitv.top/pltv/yy.php?id=10425097
+#EXTINF:-1,tvg-id="斗罗斗破" tvg-name="斗罗斗破" tvg-logo="https://epg.112114.xyz/logo/斗罗斗破.png" group-title="影视剧场",斗罗斗破
+http://mmitv.top/pltv/yy.php?id=1354768828
+#EXTINF:-1,tvg-id="斗罗斗破" tvg-name="斗罗斗破" tvg-logo="https://epg.112114.xyz/logo/斗罗斗破.png" group-title="影视剧场",斗罗斗破
+http://mmitv.top/pltv/yy.php?id=1354768831
+#EXTINF:-1,tvg-id="玲宝陪你看" tvg-name="玲宝陪你看" tvg-logo="https://epg.112114.xyz/logo/玲宝陪你看.png" group-title="影视剧场",玲宝陪你看
+http://mmitv.top/pltv/yy.php?id=1353215589
+#EXTINF:-1,tvg-id="父母爱情" tvg-name="父母爱情" tvg-logo="https://epg.112114.xyz/logo/父母爱情.png" group-title="影视剧场",父母爱情
+http://mmitv.top/pltv/yy.php?id=1354926650
+#EXTINF:-1,tvg-id="父母爱情" tvg-name="父母爱情" tvg-logo="https://epg.112114.xyz/logo/父母爱情.png" group-title="影视剧场",父母爱情
+http://mmitv.top/pltv/yy.php?id=1382851594
+#EXTINF:-1,tvg-id="父母爱情" tvg-name="父母爱情" tvg-logo="https://epg.112114.xyz/logo/父母爱情.png" group-title="影视剧场",父母爱情
+http://mmitv.top/pltv/yy.php?id=1382746276
+#EXTINF:-1,tvg-id="港片 喜剧 动作" tvg-name="港片 喜剧 动作" tvg-logo="https://epg.112114.xyz/logo/港片喜剧动作.png" group-title="影视剧场",港片 喜剧 动作
+http://mmitv.top/pltv/yy.php?id=1355480591
+#EXTINF:-1,tvg-id="燕双鹰专场" tvg-name="燕双鹰专场" tvg-logo="https://epg.112114.xyz/logo/燕双鹰专场.png" group-title="影视剧场",燕双鹰专场
+http://mmitv.top/pltv/yy.php?id=23026835
+#EXTINF:-1,tvg-id="康熙微服私访记" tvg-name="康熙微服私访记" tvg-logo="https://epg.112114.xyz/logo/康熙微服私访记.png" group-title="影视剧场",康熙微服私访记
+http://mmitv.top/pltv/yy.php?id=1352811698
+#EXTINF:-1,tvg-id="神探狄仁杰1—5部全集" tvg-name="神探狄仁杰1—5部全集" tvg-logo="https://epg.112114.xyz/logo/神探狄仁杰1—5部全集.png" group-title="影视剧场",神探狄仁杰1—5部全集
+http://mmitv.top/pltv/yy.php?id=1382705592
+#EXTINF:-1,tvg-id="炊事班的故事II" tvg-name="炊事班的故事II" tvg-logo="https://epg.112114.xyz/logo/炊事班的故事II.png" group-title="影视剧场",炊事班的故事II
+http://mmitv.top/pltv/yy.php?id=1382736885
+#EXTINF:-1,tvg-id="炊事班的故事II" tvg-name="炊事班的故事II" tvg-logo="https://epg.112114.xyz/logo/炊事班的故事II.png" group-title="影视剧场",炊事班的故事II
+http://mmitv.top/pltv/yy.php?id=1382851579
+#EXTINF:-1,tvg-id="天龙神雕经典回忆" tvg-name="天龙神雕经典回忆" tvg-logo="https://epg.112114.xyz/logo/天龙神雕经典回忆.png" group-title="影视剧场",天龙神雕经典回忆
+http://mmitv.top/pltv/yy.php?id=68260522
+#EXTINF:-1,tvg-id="【成龙经典】动作" tvg-name="【成龙经典】动作" tvg-logo="https://epg.112114.xyz/logo/【成龙经典】动作.png" group-title="影视剧场",【成龙经典】动作
+http://mmitv.top/pltv/yy.php?id=34460526
+#EXTINF:-1,tvg-id="家花与野花" tvg-name="家花与野花" tvg-logo="https://epg.112114.xyz/logo/家花与野花.png" group-title="影视剧场",家花与野花
+http://mmitv.top/pltv/yy.php?id=1354420982
+#EXTINF:-1,tvg-id="鹊刀门传奇" tvg-name="鹊刀门传奇" tvg-logo="https://epg.112114.xyz/logo/鹊刀门传奇.png" group-title="影视剧场",鹊刀门传奇
+http://mmitv.top/pltv/yy.php?id=1382765507
+#EXTINF:-1,tvg-id="鹊刀门传奇" tvg-name="鹊刀门传奇" tvg-logo="https://epg.112114.xyz/logo/鹊刀门传奇.png" group-title="影视剧场",鹊刀门传奇
+http://mmitv.top/pltv/yy.php?id=1450556636
+#EXTINF:-1,tvg-id="港片电影" tvg-name="港片电影" tvg-logo="https://epg.112114.xyz/logo/港片电影.png" group-title="影视剧场",港片电影
+http://mmitv.top/pltv/yy.php?id=33897188
+#EXTINF:-1,tvg-id="赵本山《超清版》" tvg-name="赵本山《超清版》" tvg-logo="https://epg.112114.xyz/logo/赵本山《版》.png" group-title="影视剧场",赵本山《超清版》
+http://mmitv.top/pltv/yy.php?id=1382683959
+#EXTINF:-1,tvg-id="倚天屠龙记" tvg-name="倚天屠龙记" tvg-logo="https://epg.112114.xyz/logo/倚天屠龙记.png" group-title="影视剧场",倚天屠龙记
+http://mmitv.top/pltv/yy.php?id=1449856066
+#EXTINF:-1,tvg-id="倚天屠龙记" tvg-name="倚天屠龙记" tvg-logo="https://epg.112114.xyz/logo/倚天屠龙记.png" group-title="影视剧场",倚天屠龙记
+http://mmitv.top/pltv/yy.php?id=1354755003
+#EXTINF:-1,tvg-id="倚天屠龙记" tvg-name="倚天屠龙记" tvg-logo="https://epg.112114.xyz/logo/倚天屠龙记.png" group-title="影视剧场",倚天屠龙记
+http://mmitv.top/pltv/yy.php?id=33300793
+#EXTINF:-1,tvg-id="24灌篮高手正在直播" tvg-name="24灌篮高手正在直播" tvg-logo="https://epg.112114.xyz/logo/24灌篮高手正在直播.png" group-title="影视剧场",24灌篮高手正在直播
+http://mmitv.top/pltv/yy.php?id=1350984033
+#EXTINF:-1,tvg-id="东北一家人" tvg-name="东北一家人" tvg-logo="https://epg.112114.xyz/logo/东北一家人.png" group-title="影视剧场",东北一家人
+http://mmitv.top/pltv/yy.php?id=1355273385
+#EXTINF:-1,tvg-id="《武林外传》武侠" tvg-name="《武林外传》武侠" tvg-logo="https://epg.112114.xyz/logo/《武林外传》武侠.png" group-title="影视剧场",《武林外传》武侠
+http://mmitv.top/pltv/yy.php?id=1394000563
+#EXTINF:-1,tvg-id="皮蛋影视 正在直播" tvg-name="皮蛋影视 正在直播" tvg-logo="https://epg.112114.xyz/logo/皮蛋影视正在直播.png" group-title="影视剧场",皮蛋影视 正在直播
+http://mmitv.top/pltv/yy.php?id=23055599
+#EXTINF:-1,tvg-id="真实案件系列" tvg-name="真实案件系列" tvg-logo="https://epg.112114.xyz/logo/真实案件系列.png" group-title="影视剧场",真实案件系列
+http://mmitv.top/pltv/yy.php?id=1382671124
+#EXTINF:-1,tvg-id="【荒野求生】德爷贝爷各种" tvg-name="【荒野求生】德爷贝爷各种" tvg-logo="https://epg.112114.xyz/logo/【荒野求生】德爷贝爷各种.png" group-title="影视剧场",【荒野求生】德爷贝爷各种
+http://mmitv.top/pltv/yy.php?id=21831828
+#EXTINF:-1,tvg-id="为什么你一直是单身" tvg-name="为什么你一直是单身" tvg-logo="https://epg.112114.xyz/logo/为什么你一直是单身.png" group-title="影视剧场",为什么你一直是单身
+http://mmitv.top/pltv/yy.php?id=89431014
+#EXTINF:-1,tvg-id="93版包青天" tvg-name="93版包青天" tvg-logo="https://epg.112114.xyz/logo/93版包青天.png" group-title="影视剧场",93版包青天
+http://mmitv.top/pltv/yy.php?id=1353259053
+#EXTINF:-1,tvg-id="【雪豹】超经典" tvg-name="【雪豹】超经典" tvg-logo="https://epg.112114.xyz/logo/【雪豹】超经典.png" group-title="影视剧场",【雪豹】超经典
+http://mmitv.top/pltv/yy.php?id=1450496699
+#EXTINF:-1,tvg-id="兔牙妹吖正在直播" tvg-name="兔牙妹吖正在直播" tvg-logo="https://epg.112114.xyz/logo/兔牙妹吖正在直播.png" group-title="影视剧场",兔牙妹吖正在直播
+http://mmitv.top/pltv/yy.php?id=1353782648
+#EXTINF:-1,tvg-id="神探狄仁杰1" tvg-name="神探狄仁杰1" tvg-logo="https://epg.112114.xyz/logo/神探狄仁杰1.png" group-title="影视剧场",神探狄仁杰1
+http://mmitv.top/pltv/yy.php?id=1382851575
+#EXTINF:-1,tvg-id="神探狄仁杰1" tvg-name="神探狄仁杰1" tvg-logo="https://epg.112114.xyz/logo/神探狄仁杰1.png" group-title="影视剧场",神探狄仁杰1
+http://mmitv.top/pltv/yy.php?id=1354930934
+#EXTINF:-1,tvg-id="笑傲江湖 4K超清" tvg-name="笑傲江湖 4K超清" tvg-logo="https://epg.112114.xyz/logo/笑傲江湖4K.png" group-title="影视剧场",笑傲江湖 4K超清
+http://mmitv.top/pltv/yy.php?id=1354282410
+#EXTINF:-1,tvg-id="超级吓人鬼片 恐怖片" tvg-name="超级吓人鬼片 恐怖片" tvg-logo="https://epg.112114.xyz/logo/超级吓人鬼片恐怖片.png" group-title="影视剧场",超级吓人鬼片 恐怖片
+http://mmitv.top/pltv/yy.php?id=1355641195
+#EXTINF:-1,tvg-id="泡芙陪你看电影" tvg-name="泡芙陪你看电影" tvg-logo="https://epg.112114.xyz/logo/泡芙陪你看电影.png" group-title="影视剧场",泡芙陪你看电影
+http://mmitv.top/pltv/yy.php?id=24407222
+#EXTINF:-1,tvg-id="情满四合院" tvg-name="情满四合院" tvg-logo="https://epg.112114.xyz/logo/情满四合院.png" group-title="影视剧场",情满四合院
+http://mmitv.top/pltv/yy.php?id=1382736888
+#EXTINF:-1,tvg-id="情满四合院" tvg-name="情满四合院" tvg-logo="https://epg.112114.xyz/logo/情满四合院.png" group-title="影视剧场",情满四合院
+http://mmitv.top/pltv/yy.php?id=1382736848
+#EXTINF:-1,tvg-id="情满四合院" tvg-name="情满四合院" tvg-logo="https://epg.112114.xyz/logo/情满四合院.png" group-title="影视剧场",情满四合院
+http://mmitv.top/pltv/yy.php?id=1382851524
+#EXTINF:-1,tvg-id="情满四合院" tvg-name="情满四合院" tvg-logo="https://epg.112114.xyz/logo/情满四合院.png" group-title="影视剧场",情满四合院
+http://mmitv.top/pltv/yy.php?id=1382851601
+#EXTINF:-1,tvg-id="读心神探" tvg-name="读心神探" tvg-logo="https://epg.112114.xyz/logo/读心神探.png" group-title="影视剧场",读心神探
+http://mmitv.top/pltv/yy.php?id=1382736875
+#EXTINF:-1,tvg-id="读心神探" tvg-name="读心神探" tvg-logo="https://epg.112114.xyz/logo/读心神探.png" group-title="影视剧场",读心神探
+http://mmitv.top/pltv/yy.php?id=1382851589
+#EXTINF:-1,tvg-id="24小时小雅陪你看" tvg-name="24小时小雅陪你看" tvg-logo="https://epg.112114.xyz/logo/24小时小雅陪你看.png" group-title="影视剧场",24小时小雅陪你看
+http://mmitv.top/pltv/yy.php?id=1331686180
+#EXTINF:-1,tvg-id="花儿开心吧" tvg-name="花儿开心吧" tvg-logo="https://epg.112114.xyz/logo/花儿开心吧.png" group-title="影视剧场",花儿开心吧
+http://mmitv.top/pltv/yy.php?id=1354930984
+#EXTINF:-1,tvg-id="经典港片电影" tvg-name="经典港片电影" tvg-logo="https://epg.112114.xyz/logo/经典港片电影.png" group-title="影视剧场",经典港片电影
+http://mmitv.top/pltv/yy.php?id=1382793140
+#EXTINF:-1,tvg-id="24小时播放" tvg-name="24小时播放" tvg-logo="https://epg.112114.xyz/logo/24小时播放.png" group-title="影视剧场",24小时播放
+http://mmitv.top/pltv/yy.php?id=29067083
+#EXTINF:-1,tvg-id="林正英 僵尸鬼片" tvg-name="林正英 僵尸鬼片" tvg-logo="https://epg.112114.xyz/logo/林正英僵尸鬼片.png" group-title="影视剧场",林正英 僵尸鬼片
+http://mmitv.top/pltv/yy.php?id=1459714870
+#EXTINF:-1,tvg-id="举起手来-惊险抗日" tvg-name="举起手来-惊险抗日" tvg-logo="https://epg.112114.xyz/logo/举起手来惊险抗日.png" group-title="影视剧场",举起手来-惊险抗日
+http://mmitv.top/pltv/yy.php?id=1382736877
+#EXTINF:-1,tvg-id="大话西游至尊宝" tvg-name="大话西游至尊宝" tvg-logo="https://epg.112114.xyz/logo/大话西游至尊宝.png" group-title="影视剧场",大话西游至尊宝
+http://mmitv.top/pltv/yy.php?id=1382736910
+#EXTINF:-1,tvg-id="大话西游至尊宝" tvg-name="大话西游至尊宝" tvg-logo="https://epg.112114.xyz/logo/大话西游至尊宝.png" group-title="影视剧场",大话西游至尊宝
+http://mmitv.top/pltv/yy.php?id=1382851590
+#EXTINF:-1,tvg-id="笑傲江湖" tvg-name="笑傲江湖" tvg-logo="https://epg.112114.xyz/logo/笑傲江湖.png" group-title="影视剧场",笑傲江湖
+http://mmitv.top/pltv/yy.php?id=1354930909
+#EXTINF:-1,tvg-id="《仙侠》开局无敌了" tvg-name="《仙侠》开局无敌了" tvg-logo="https://epg.112114.xyz/logo/《仙侠》开局无敌了.png" group-title="影视剧场",《仙侠》开局无敌了
+http://mmitv.top/pltv/yy.php?id=29600150
+#EXTINF:-1,tvg-id="【经典港片】佟瑶" tvg-name="【经典港片】佟瑶" tvg-logo="https://epg.112114.xyz/logo/【经典港片】佟瑶.png" group-title="影视剧场",【经典港片】佟瑶
+http://mmitv.top/pltv/yy.php?id=23531261
+#EXTINF:-1,tvg-id="寻秦记-穿越剧经典" tvg-name="寻秦记-穿越剧经典" tvg-logo="https://epg.112114.xyz/logo/寻秦记穿越剧经典.png" group-title="影视剧场",寻秦记-穿越剧经典
+http://mmitv.top/pltv/yy.php?id=1382749900
+#EXTINF:-1,tvg-id="寻秦记-穿越剧经典" tvg-name="寻秦记-穿越剧经典" tvg-logo="https://epg.112114.xyz/logo/寻秦记穿越剧经典.png" group-title="影视剧场",寻秦记-穿越剧经典
+http://mmitv.top/pltv/yy.php?id=1382851591
+#EXTINF:-1,tvg-id="少年包青天第三部" tvg-name="少年包青天第三部" tvg-logo="https://epg.112114.xyz/logo/少年包青天第三部.png" group-title="影视剧场",少年包青天第三部
+http://mmitv.top/pltv/yy.php?id=1382736814
+#EXTINF:-1,tvg-id="少年包青天第三部" tvg-name="少年包青天第三部" tvg-logo="https://epg.112114.xyz/logo/少年包青天第三部.png" group-title="影视剧场",少年包青天第三部
+http://mmitv.top/pltv/yy.php?id=1382851540
+#EXTINF:-1,tvg-id="星爷经典-百看不厌" tvg-name="星爷经典-百看不厌" tvg-logo="https://epg.112114.xyz/logo/星爷经典百看不厌.png" group-title="影视剧场",星爷经典-百看不厌
+http://mmitv.top/pltv/yy.php?id=1382736808
+#EXTINF:-1,tvg-id="天道-9.2高分好剧" tvg-name="天道-9.2高分好剧" tvg-logo="https://epg.112114.xyz/logo/天道9.2高分好剧.png" group-title="影视剧场",天道-9.2高分好剧
+http://mmitv.top/pltv/yy.php?id=1382735574
+#EXTINF:-1,tvg-id="惊恐盗暮鬼怪" tvg-name="惊恐盗暮鬼怪" tvg-logo="https://epg.112114.xyz/logo/惊恐盗暮鬼怪.png" group-title="影视剧场",惊恐盗暮鬼怪
+http://mmitv.top/pltv/yy.php?id=1382749525
+#EXTINF:-1,tvg-id="军旅电视剧" tvg-name="军旅电视剧" tvg-logo="https://epg.112114.xyz/logo/军旅电视剧.png" group-title="影视剧场",军旅电视剧
+http://mmitv.top/pltv/yy.php?id=1352575322
+#EXTINF:-1,tvg-id="小兵张嘎" tvg-name="小兵张嘎" tvg-logo="https://epg.112114.xyz/logo/小兵张嘎.png" group-title="影视剧场",小兵张嘎
+http://mmitv.top/pltv/yy.php?id=1354930225
+#EXTINF:-1,tvg-id="炊事班的故事" tvg-name="炊事班的故事" tvg-logo="https://epg.112114.xyz/logo/炊事班的故事.png" group-title="影视剧场",炊事班的故事
+http://mmitv.top/pltv/yy.php?id=1382749901
+#EXTINF:-1,tvg-id="今夜欢乐颂" tvg-name="今夜欢乐颂" tvg-logo="https://epg.112114.xyz/logo/今夜欢乐颂.png" group-title="影视剧场",今夜欢乐颂
+http://mmitv.top/pltv/yy.php?id=1382735572
+#EXTINF:-1,tvg-id="经典鬼片" tvg-name="经典鬼片" tvg-logo="https://epg.112114.xyz/logo/经典鬼片.png" group-title="影视剧场",经典鬼片
+http://mmitv.top/pltv/yy.php?id=1508828185
+#EXTINF:-1,tvg-id="绝版鬼片港片" tvg-name="绝版鬼片港片" tvg-logo="https://epg.112114.xyz/logo/绝版鬼片港片.png" group-title="影视剧场",绝版鬼片港片
+http://mmitv.top/pltv/yy.php?id=1382743247
+#EXTINF:-1,tvg-id="24h 我爱我家 纯音频" tvg-name="24h 我爱我家 纯音频" tvg-logo="https://epg.112114.xyz/logo/24H我爱我家纯音频.png" group-title="影视剧场",24h 我爱我家 纯音频
+http://mmitv.top/pltv/yy.php?id=1356212303
+#EXTINF:-1,tvg-id="抗战！抗战！" tvg-name="抗战！抗战！" tvg-logo="https://epg.112114.xyz/logo/抗战！抗战！.png" group-title="影视剧场",抗战！抗战！
+http://mmitv.top/pltv/yy.php?id=1507704566
+#EXTINF:-1,tvg-id="燕双鹰系列" tvg-name="燕双鹰系列" tvg-logo="https://epg.112114.xyz/logo/燕双鹰系列.png" group-title="影视剧场",燕双鹰系列
+http://mmitv.top/pltv/yy.php?id=1457622044
+#EXTINF:-1,tvg-id="法证先锋" tvg-name="法证先锋" tvg-logo="https://epg.112114.xyz/logo/法证先锋.png" group-title="影视剧场",法证先锋
+http://mmitv.top/pltv/yy.php?id=1354930939
+#EXTINF:-1,tvg-id="法证先锋" tvg-name="法证先锋" tvg-logo="https://epg.112114.xyz/logo/法证先锋.png" group-title="影视剧场",法证先锋
+http://mmitv.top/pltv/yy.php?id=1382851599
+#EXTINF:-1,tvg-id="斗罗斗破精彩动漫" tvg-name="斗罗斗破精彩动漫" tvg-logo="https://epg.112114.xyz/logo/斗罗斗破精彩动漫.png" group-title="影视剧场",斗罗斗破精彩动漫
+http://mmitv.top/pltv/yy.php?id=1507304388
+#EXTINF:-1,tvg-id="【神雕侠侣】金庸经典" tvg-name="【神雕侠侣】金庸经典" tvg-logo="https://epg.112114.xyz/logo/【神雕侠侣】金庸经典.png" group-title="影视剧场",【神雕侠侣】金庸经典
+http://mmitv.top/pltv/yy.php?id=1382704651
+#EXTINF:-1,tvg-id="放羊的星星" tvg-name="放羊的星星" tvg-logo="https://epg.112114.xyz/logo/放羊的星星.png" group-title="影视剧场",放羊的星星
+http://mmitv.top/pltv/yy.php?id=1355260662
+#EXTINF:-1,tvg-id="神笔书生吕落第" tvg-name="神笔书生吕落第" tvg-logo="https://epg.112114.xyz/logo/神笔书生吕落第.png" group-title="影视剧场",神笔书生吕落第
+http://mmitv.top/pltv/yy.php?id=1382851723
+#EXTINF:-1,tvg-id="电影电影" tvg-name="电影电影" tvg-logo="https://epg.112114.xyz/logo/电影电影.png" group-title="影视剧场",电影电影
+http://mmitv.top/pltv/yy.php?id=1458819360
+#EXTINF:-1,tvg-id="三国演义" tvg-name="三国演义" tvg-logo="https://epg.112114.xyz/logo/三国演义.png" group-title="影视剧场",三国演义
+http://mmitv.top/pltv/yy.php?id=32788000
+#EXTINF:-1,tvg-id="【新三国】日版" tvg-name="【新三国】日版" tvg-logo="https://epg.112114.xyz/logo/【新三国】日版.png" group-title="影视剧场",【新三国】日版
+http://mmitv.top/pltv/yy.php?id=1382851457
+#EXTINF:-1,tvg-id="无敌燕双鹰" tvg-name="无敌燕双鹰" tvg-logo="https://epg.112114.xyz/logo/无敌燕双鹰.png" group-title="影视剧场",无敌燕双鹰
+http://mmitv.top/pltv/yy.php?id=1354825244
+#EXTINF:-1,tvg-id="奇缘39262港台影院" tvg-name="奇缘39262港台影院" tvg-logo="https://epg.112114.xyz/logo/奇缘2港台影院.png" group-title="影视剧场",奇缘39262港台影院
+http://mmitv.top/pltv/yy.php?id=1354889234
+#EXTINF:-1,tvg-id="(周星驰)超经典搞笑电影" tvg-name="(周星驰)超经典搞笑电影" tvg-logo="https://epg.112114.xyz/logo/(周星驰)超经典搞笑电影.png" group-title="影视剧场",(周星驰)超经典搞笑电影
+http://mmitv.top/pltv/yy.php?id=29945997
+#EXTINF:-1,tvg-id="正阳门下 正在直播" tvg-name="正阳门下 正在直播" tvg-logo="https://epg.112114.xyz/logo/正阳门下正在直播.png" group-title="影视剧场",正阳门下 正在直播
+http://mmitv.top/pltv/yy.php?id=1453059740
+#EXTINF:-1,tvg-id="澳门风云" tvg-name="澳门风云" tvg-logo="https://epg.112114.xyz/logo/澳门风云.png" group-title="影视剧场",澳门风云
+http://mmitv.top/pltv/yy.php?id=1459243913
+#EXTINF:-1,tvg-id="情满四合院-高分电视剧" tvg-name="情满四合院-高分电视剧" tvg-logo="https://epg.112114.xyz/logo/情满四合院高分电视剧.png" group-title="影视剧场",情满四合院-高分电视剧
+http://mmitv.top/pltv/yy.php?id=1382735541
+#EXTINF:-1,tvg-id="风云电视剧" tvg-name="风云电视剧" tvg-logo="https://epg.112114.xyz/logo/风云电视剧.png" group-title="影视剧场",风云电视剧
+http://mmitv.top/pltv/yy.php?id=1459331991
+#EXTINF:-1,tvg-id="【杉杉来了】赵丽颖" tvg-name="【杉杉来了】赵丽颖" tvg-logo="https://epg.112114.xyz/logo/【杉杉来了】赵丽颖.png" group-title="影视剧场",【杉杉来了】赵丽颖
+http://mmitv.top/pltv/yy.php?id=23458682
+#EXTINF:-1,tvg-id="伪装者" tvg-name="伪装者" tvg-logo="https://epg.112114.xyz/logo/伪装者.png" group-title="影视剧场",伪装者
+http://mmitv.top/pltv/yy.php?id=1382851593
+#EXTINF:-1,tvg-id="伪装者" tvg-name="伪装者" tvg-logo="https://epg.112114.xyz/logo/伪装者.png" group-title="影视剧场",伪装者
+http://mmitv.top/pltv/yy.php?id=1354936244
+#EXTINF:-1,tvg-id="洪金宝福星系列" tvg-name="洪金宝福星系列" tvg-logo="https://epg.112114.xyz/logo/洪金宝福星系列.png" group-title="影视剧场",洪金宝福星系列
+http://mmitv.top/pltv/yy.php?id=1354924839
+#EXTINF:-1,tvg-id="?逋鞠盗?-国产喜剧" tvg-name="?逋鞠盗?-国产喜剧" tvg-logo="https://epg.112114.xyz/logo/?逋鞠盗?国产喜剧.png" group-title="影视剧场",?逋鞠盗?-国产喜剧
+http://mmitv.top/pltv/yy.php?id=1382736856
+#EXTINF:-1,tvg-id="特种兵系列" tvg-name="特种兵系列" tvg-logo="https://epg.112114.xyz/logo/特种兵系列.png" group-title="影视剧场",特种兵系列
+http://mmitv.top/pltv/yy.php?id=1508456184
+#EXTINF:-1,tvg-id="动作大片-热血开打" tvg-name="动作大片-热血开打" tvg-logo="https://epg.112114.xyz/logo/动作大片热血开打.png" group-title="影视剧场",动作大片-热血开打
+http://mmitv.top/pltv/yy.php?id=1354936168
+#EXTINF:-1,tvg-id="燃爆动作片" tvg-name="燃爆动作片" tvg-logo="https://epg.112114.xyz/logo/燃爆动作片.png" group-title="影视剧场",燃爆动作片
+http://mmitv.top/pltv/yy.php?id=1382736801
+#EXTINF:-1,tvg-id="火蓝刀锋" tvg-name="火蓝刀锋" tvg-logo="https://epg.112114.xyz/logo/火蓝刀锋.png" group-title="影视剧场",火蓝刀锋
+http://mmitv.top/pltv/yy.php?id=1382737892
+#EXTINF:-1,tvg-id="小敏" tvg-name="小敏" tvg-logo="https://epg.112114.xyz/logo/小敏.png" group-title="影视剧场",小敏
+http://mmitv.top/pltv/yy.php?id=1382736890
+#EXTINF:-1,tvg-id="【林正英】僵尸 鬼片" tvg-name="【林正英】僵尸 鬼片" tvg-logo="https://epg.112114.xyz/logo/【林正英】僵尸鬼片.png" group-title="影视剧场",【林正英】僵尸 鬼片
+http://mmitv.top/pltv/yy.php?id=30668277
+#EXTINF:-1,tvg-id="法证先锋Ⅱ" tvg-name="法证先锋Ⅱ" tvg-logo="https://epg.112114.xyz/logo/法证先锋Ⅱ.png" group-title="影视剧场",法证先锋Ⅱ
+http://mmitv.top/pltv/yy.php?id=1382851597
+#EXTINF:-1,tvg-id="法证先锋Ⅱ" tvg-name="法证先锋Ⅱ" tvg-logo="https://epg.112114.xyz/logo/法证先锋Ⅱ.png" group-title="影视剧场",法证先锋Ⅱ
+http://mmitv.top/pltv/yy.php?id=1354888736
+#EXTINF:-1,tvg-id="刑事侦缉档案I" tvg-name="刑事侦缉档案I" tvg-logo="https://epg.112114.xyz/logo/刑事侦缉档案I.png" group-title="影视剧场",刑事侦缉档案I
+http://mmitv.top/pltv/yy.php?id=1382851585
+#EXTINF:-1,tvg-id="国内科幻" tvg-name="国内科幻" tvg-logo="https://epg.112114.xyz/logo/国内科幻.png" group-title="影视剧场",国内科幻
+http://mmitv.top/pltv/yy.php?id=1354936170
+#EXTINF:-1,tvg-id="新白娘子传奇-女神赵雅芝" tvg-name="新白娘子传奇-女神赵雅芝" tvg-logo="https://epg.112114.xyz/logo/新白娘子传奇女神赵雅芝.png" group-title="影视剧场",新白娘子传奇-女神赵雅芝
+http://mmitv.top/pltv/yy.php?id=1354930969
+#EXTINF:-1,tvg-id="经典大片合集" tvg-name="经典大片合集" tvg-logo="https://epg.112114.xyz/logo/经典大片合集.png" group-title="影视剧场",经典大片合集
+http://mmitv.top/pltv/yy.php?id=1382749895
+#EXTINF:-1,tvg-id="张国荣与周润发的兄弟情" tvg-name="张国荣与周润发的兄弟情" tvg-logo="https://epg.112114.xyz/logo/张国荣与周润发的兄弟情.png" group-title="影视剧场",张国荣与周润发的兄弟情
+http://mmitv.top/pltv/yy.php?id=1354930961
+#EXTINF:-1,tvg-id="国内经典动作电影" tvg-name="国内经典动作电影" tvg-logo="https://epg.112114.xyz/logo/国内经典动作电影.png" group-title="影视剧场",国内经典动作电影
+http://mmitv.top/pltv/yy.php?id=1382851522
+#EXTINF:-1,tvg-id="宝莲灯前传" tvg-name="宝莲灯前传" tvg-logo="https://epg.112114.xyz/logo/宝莲灯前传.png" group-title="影视剧场",宝莲灯前传
+http://mmitv.top/pltv/yy.php?id=1354931631
+#EXTINF:-1,tvg-id="国内喜剧" tvg-name="国内喜剧" tvg-logo="https://epg.112114.xyz/logo/国内喜剧.png" group-title="影视剧场",国内喜剧
+http://mmitv.top/pltv/yy.php?id=1382735563
+#EXTINF:-1,tvg-id="国内喜剧" tvg-name="国内喜剧" tvg-logo="https://epg.112114.xyz/logo/国内喜剧.png" group-title="影视剧场",国内喜剧
+http://mmitv.top/pltv/yy.php?id=1382736862
+#EXTINF:-1,tvg-id="国内喜剧" tvg-name="国内喜剧" tvg-logo="https://epg.112114.xyz/logo/国内喜剧.png" group-title="影视剧场",国内喜剧
+http://mmitv.top/pltv/yy.php?id=1382851598
+#EXTINF:-1,tvg-id="笑声传奇" tvg-name="笑声传奇" tvg-logo="https://epg.112114.xyz/logo/笑声传奇.png" group-title="影视剧场",笑声传奇
+http://mmitv.top/pltv/yy.php?id=1382736880
+#EXTINF:-1,tvg-id="第一滴血全集" tvg-name="第一滴血全集" tvg-logo="https://epg.112114.xyz/logo/第一滴血全集.png" group-title="影视剧场",第一滴血全集
+http://mmitv.top/pltv/yy.php?id=1354932355
+#EXTINF:-1,tvg-id="西游记张卫健版" tvg-name="西游记张卫健版" tvg-logo="https://epg.112114.xyz/logo/西游记张卫健版.png" group-title="影视剧场",西游记张卫健版
+http://mmitv.top/pltv/yy.php?id=1354936155
+#EXTINF:-1,tvg-id="欢乐集结号" tvg-name="欢乐集结号" tvg-logo="https://epg.112114.xyz/logo/欢乐集结号.png" group-title="影视剧场",欢乐集结号
+http://mmitv.top/pltv/yy.php?id=1354931582
+#EXTINF:-1,tvg-id="欢乐集结号" tvg-name="欢乐集结号" tvg-logo="https://epg.112114.xyz/logo/欢乐集结号.png" group-title="影视剧场",欢乐集结号
+http://mmitv.top/pltv/yy.php?id=1382735550
+#EXTINF:-1,tvg-id="欢乐集结号" tvg-name="欢乐集结号" tvg-logo="https://epg.112114.xyz/logo/欢乐集结号.png" group-title="影视剧场",欢乐集结号
+http://mmitv.top/pltv/yy.php?id=1382749911
+#EXTINF:-1,tvg-id="鬼片.惊悚.港片" tvg-name="鬼片.惊悚.港片" tvg-logo="https://epg.112114.xyz/logo/鬼片.惊悚.港片.png" group-title="影视剧场",鬼片.惊悚.港片
+http://mmitv.top/pltv/yy.php?id=1355497884
+#EXTINF:-1,tvg-id="法证先锋Ⅲ" tvg-name="法证先锋Ⅲ" tvg-logo="https://epg.112114.xyz/logo/法证先锋Ⅲ.png" group-title="影视剧场",法证先锋Ⅲ
+http://mmitv.top/pltv/yy.php?id=1382736802
+#EXTINF:-1,tvg-id="林正英经典" tvg-name="林正英经典" tvg-logo="https://epg.112114.xyz/logo/林正英经典.png" group-title="影视剧场",林正英经典
+http://mmitv.top/pltv/yy.php?id=1353312849
+#EXTINF:-1,tvg-id="大进军全集：红色系列电影" tvg-name="大进军全集：红色系列电影" tvg-logo="https://epg.112114.xyz/logo/大进军全集：红色系列电影.png" group-title="影视剧场",大进军全集：红色系列电影
+http://mmitv.top/pltv/yy.php?id=1382745083
+#EXTINF:-1,tvg-id="三国演义94年经典版" tvg-name="三国演义94年经典版" tvg-logo="https://epg.112114.xyz/logo/三国演义94年经典版.png" group-title="影视剧场",三国演义94年经典版
+http://mmitv.top/pltv/yy.php?id=1354936241
+#EXTINF:-1,tvg-id="欢乐颂" tvg-name="欢乐颂" tvg-logo="https://epg.112114.xyz/logo/欢乐颂.png" group-title="影视剧场",欢乐颂
+http://mmitv.top/pltv/yy.php?id=1382735624
+#EXTINF:-1,tvg-id="欢乐集结号2" tvg-name="欢乐集结号2" tvg-logo="https://epg.112114.xyz/logo/欢乐集结号2.png" group-title="影视剧场",欢乐集结号2
+http://mmitv.top/pltv/yy.php?id=1354930919
+#EXTINF:-1,tvg-id="天下第一" tvg-name="天下第一" tvg-logo="https://epg.112114.xyz/logo/天下第一.png" group-title="影视剧场",天下第一
+http://mmitv.top/pltv/yy.php?id=1382736838
+#EXTINF:-1,tvg-id="赌神-发哥" tvg-name="赌神-发哥" tvg-logo="https://epg.112114.xyz/logo/赌神发哥.png" group-title="影视剧场",赌神-发哥
+http://mmitv.top/pltv/yy.php?id=1354889044
+#EXTINF:-1,tvg-id="亲爱的热爱的" tvg-name="亲爱的热爱的" tvg-logo="https://epg.112114.xyz/logo/亲爱的热爱的.png" group-title="影视剧场",亲爱的热爱的
+http://mmitv.top/pltv/yy.php?id=1354932433
+#EXTINF:-1,tvg-id="我的前半生" tvg-name="我的前半生" tvg-logo="https://epg.112114.xyz/logo/我的前半生.png" group-title="影视剧场",我的前半生
+http://mmitv.top/pltv/yy.php?id=1382735564
+#EXTINF:-1,tvg-id="夏洛特烦恼-国内电影-喜剧" tvg-name="夏洛特烦恼-国内电影-喜剧" tvg-logo="https://epg.112114.xyz/logo/夏洛特烦恼国内电影喜剧.png" group-title="影视剧场",夏洛特烦恼-国内电影-喜剧
+http://mmitv.top/pltv/yy.php?id=1354936201
+#EXTINF:-1,tvg-id="粟裕大将-影视" tvg-name="粟裕大将-影视" tvg-logo="https://epg.112114.xyz/logo/粟裕大将影视.png" group-title="影视剧场",粟裕大将-影视
+http://mmitv.top/pltv/yy.php?id=1354926542
+#EXTINF:-1,tvg-id="秀秀港片 绝版好看" tvg-name="秀秀港片 绝版好看" tvg-logo="https://epg.112114.xyz/logo/秀秀港片绝版好看.png" group-title="影视剧场",秀秀港片 绝版好看
+http://mmitv.top/pltv/yy.php?id=1353850051
+#EXTINF:-1,tvg-id="我的体育老师" tvg-name="我的体育老师" tvg-logo="https://epg.112114.xyz/logo/我的体育老师.png" group-title="影视剧场",我的体育老师
+http://mmitv.top/pltv/yy.php?id=1382745169
+#EXTINF:-1,tvg-id="宫心计" tvg-name="宫心计" tvg-logo="https://epg.112114.xyz/logo/宫心计.png" group-title="影视剧场",宫心计
+http://mmitv.top/pltv/yy.php?id=1382828769
+#EXTINF:-1,tvg-id="宫心计" tvg-name="宫心计" tvg-logo="https://epg.112114.xyz/logo/宫心计.png" group-title="影视剧场",宫心计
+http://mmitv.top/pltv/yy.php?id=1354932429
+#EXTINF:-1,tvg-id="小欢喜" tvg-name="小欢喜" tvg-logo="https://epg.112114.xyz/logo/小欢喜.png" group-title="影视剧场",小欢喜
+http://mmitv.top/pltv/yy.php?id=1382737888
+#EXTINF:-1,tvg-id="平凡岁月" tvg-name="平凡岁月" tvg-logo="https://epg.112114.xyz/logo/平凡岁月.png" group-title="影视剧场",平凡岁月
+http://mmitv.top/pltv/yy.php?id=1382745117
+#EXTINF:-1,tvg-id="【电影】超然巨作" tvg-name="【电影】超然巨作" tvg-logo="https://epg.112114.xyz/logo/【电影】超然巨作.png" group-title="影视剧场",【电影】超然巨作
+http://mmitv.top/pltv/yy.php?id=29170933
+#EXTINF:-1,tvg-id="【电影】超然巨作" tvg-name="【电影】超然巨作" tvg-logo="https://epg.112114.xyz/logo/【电影】超然巨作.png" group-title="影视剧场",【电影】超然巨作
+http://mmitv.top/pltv/yy.php?id=26623173
+#EXTINF:-1,tvg-id="降服魔女的手段-泰剧" tvg-name="降服魔女的手段-泰剧" tvg-logo="https://epg.112114.xyz/logo/降服魔女的手段泰剧.png" group-title="影视剧场",降服魔女的手段-泰剧
+http://mmitv.top/pltv/yy.php?id=1354932405
+#EXTINF:-1,tvg-id="我爱我家" tvg-name="我爱我家" tvg-logo="https://epg.112114.xyz/logo/我爱我家.png" group-title="影视剧场",我爱我家
+http://mmitv.top/pltv/yy.php?id=1382735557
+#EXTINF:-1,tvg-id="我爱我家" tvg-name="我爱我家" tvg-logo="https://epg.112114.xyz/logo/我爱我家.png" group-title="影视剧场",我爱我家
+http://mmitv.top/pltv/yy.php?id=1382851580
