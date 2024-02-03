@@ -1,0 +1,25 @@
+#贵州频道
+#EXTINF:-1 group-title="贵州频道" tvg-id="贵州2频道公共频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/1110/8e4826603195100506c56fb1ab73acde.jpg",贵州2频道公共频道
+http://9bwaz8y2.gzstv.com/live/CH02_lo.m3u8?txSecret=72104d9b4d4405e730672e7871e7a1f0&txTime=65B49B1D
+#EXTINF:-1 group-title="贵州频道" tvg-id="贵州3频道影视文艺频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/1110/6378dad13276e68479c13259aa6fc6f6.jpg",贵州3频道影视文艺频道
+https://9bwaz8y2.gzstv.com/live/CH03_lo.m3u8?txSecret=e15f0b9b362cb9eda05ee0bfbf561a7f&txTime=65B49AC2
+#EXTINF:-1 group-title="贵州频道" tvg-id="贵州4频道大众生活频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/1110/039d05b523f5d1ba6b86352ffa4d48c0.jpg",贵州4频道大众生活频道
+http://9bwaz8y2.gzstv.com/live/CH04_lo.m3u8?txSecret=4ca5022cde5401c7d2689d1b62247f84&txTime=65B49B29
+#EXTINF:-1 group-title="贵州频道" tvg-id="贵州5频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/1110/06b043eeaa407fbc7f185b43b4158cf1.jpg",贵州5频道
+http://9bwaz8y2.gzstv.com/live/CH05_lo.m3u8?txSecret=304b288695f6812432fd88943ec8a173&txTime=65B49B30
+#EXTINF:-1 group-title="贵州频道" tvg-id="贵州6频道科教健康频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/1110/a828f7a915e6ef311134491fe741f41d.jpg",贵州6频道科教健康频道
+http://9bwaz8y2.gzstv.com/live/CH06_lo.m3u8?txSecret=c23b506c77412388180e159d029a7541&txTime=65B49B36
+#EXTINF:-1 group-title="贵州频道" tvg-id="贵州家有购物" tvg-logo="http://tv.haoqu99.com/d/file/2016/1110/081450c798b12c327b47d4d0417969a3.jpg",贵州家有购物
+http://stream1.jlntv.cn/jygw/playlist.m3u8
+#EXTINF:-1 group-title="贵州频道" tvg-id="贵州移动电视频道" tvg-logo="http://tv.haoqu99.com/d/file/2019/0712/small7c48b8b5ed5bd3e718c8d550c985f0fb1562919977.jpg",贵州移动电视频道
+https://9bwaz8y2.gzstv.com/live/CH13_lo.m3u8?txSecret=33fdf4aca40717395cd2e3bc50673e23&txTime=65B49B42
+#EXTINF:-1 group-title="贵州频道" tvg-id="遵义新闻综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0320/smallc46e9e6fb96a821ded677d2b8234895e1521541273.jpg",遵义新闻综合频道
+http://pluslive.zunyifb.com/xwpd/playlist.m3u8?_upt=b652263f1706342271
+#EXTINF:-1 group-title="贵州频道" tvg-id="遵义都市频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0320/small27dbec7c469b1db6721230f55078b2031521541360.jpg",遵义都市频道
+http://pluslive.zunyifb.com/dspd/playlist.m3u8?_upt=41a20aec1706342277
+#EXTINF:-1 group-title="贵州频道" tvg-id="遵义公共频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0320/small468cb6267f3f7862f55682a9282a22b81521541449.jpg",遵义公共频道
+http://pluslive.zunyifb.com/ggpd/playlist.m3u8?_upt=a22ce2b81706342282
+#EXTINF:-1 group-title="贵州频道" tvg-id="安顺一套新闻综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0320/small659f2c9ea29bd45e83a9e7b482b8fd561521556469.jpg",安顺一套新闻综合频道
+http://hplayer1.juyun.tv/camera/133635181.m3u8
+#EXTINF:-1 group-title="贵州频道" tvg-id="安顺二套公共频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0320/small140b5313357b9c25b6861c8fe9b4c8e61521556569.jpg",安顺二套公共频道
+http://hplayer1.juyun.tv/camera/116587130.m3u8
