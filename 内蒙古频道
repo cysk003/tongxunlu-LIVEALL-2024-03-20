@@ -1,0 +1,17 @@
+#内蒙古频道
+#EXTINF:-1 group-title="内蒙古频道" tvg-id="鄂尔多斯四套蒙语频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0319/smalldd41713ec7696efa88458b0d54aa867f1521469682.jpg",鄂尔多斯四套蒙语频道
+http://live.erdszs.org.cn/lsdream/3lZr8dK/1000/live.m3u8
+#EXTINF:-1 group-title="内蒙古频道" tvg-id="鄂尔多斯一套汉语新闻综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0319/small13a5fc7a0e7f651f99b80e72f76a82b61521469830.jpg",鄂尔多斯一套汉语新闻综合频道
+http://live.erdszs.org.cn/lsdream/h2mxgj4/1000/live.m3u8
+#EXTINF:-1 group-title="内蒙古频道" tvg-id="鄂尔多斯二套经济服务频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0319/smallb51726bca91bd002a5fbdbb4a1b254cc1521469951.jpg",鄂尔多斯二套经济服务频道
+http://live.erdszs.org.cn/lsdream/ogvfqcp/1000/live.m3u8
+#EXTINF:-1 group-title="内蒙古频道" tvg-id="伊金霍洛旗电视台" tvg-logo="http://tv.haoqu99.com/e/data/images/notemp.gif",伊金霍洛旗电视台
+https://cms-play.yjhlnews.cn/live/vedio.m3u8
+#EXTINF:-1 group-title="内蒙古频道" tvg-id="鄂托克旗电视台" tvg-logo="http://tv.haoqu99.com/e/data/images/notemp.gif",鄂托克旗电视台
+http://110.19.181.138:10080/hls/F509Rh7GR/F509Rh7GR_live.m3u8
+#EXTINF:-1 group-title="内蒙古频道" tvg-id="赤峰新闻综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0319/small841040df903351338be11f80f1a95c521521472688.jpg",赤峰新闻综合频道
+http://stream.cfrtv.cn/cfzh/sd/live.m3u8?_upt=6cde47af1706337063
+#EXTINF:-1 group-title="内蒙古频道" tvg-id="赤峰影视娱乐频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0319/smallc6b18be3cdb737361b025be88ef4ed951521472789.jpg",赤峰影视娱乐频道
+http://stream.cfrtv.cn/cfys/sd/live.m3u8?_upt=811d556f1706335495
+#EXTINF:-1 group-title="内蒙古频道" tvg-id="赤峰经济服务频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0319/small1119d27fa7bacc89911fc4e1c5c6007a1521472871.jpg",赤峰经济服务频道
+http://stream.cfrtv.cn/cfjj/sd/live.m3u8?_upt=584974891706341986
