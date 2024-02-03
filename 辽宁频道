@@ -1,0 +1,7 @@
+#辽宁频道
+#EXTINF:-1 group-title="辽宁频道" tvg-id="大连新闻综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0621/20160621010441802.jpg",大连新闻综合频道
+http://live.dltv.cn/tcb3IB5/m67txb0.m3u8
+#EXTINF:-1 group-title="辽宁频道" tvg-id="大连生活频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0621/20160621010247354.jpg",大连生活频道
+http://live.dltv.cn/JzcFkF4/p64Jxc0.m3u8
+#EXTINF:-1 group-title="辽宁频道" tvg-id="大连电视台文体频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0621/20160621122127784.jpg",大连电视台文体频道
+http://live.dltv.cn/hxT7Fc3/56olxT0.m3u8
