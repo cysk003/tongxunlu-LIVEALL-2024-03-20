@@ -1,0 +1,13 @@
+#福建频道
+#EXTINF:-1 group-title="福建频道" tvg-id="三明一套新闻综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0123/small58feb455be207c2800179927dae0a27a1516719412.jpg",三明一套新闻综合频道
+http://stream.smntv.cn/smtv1/sd/live.m3u8
+#EXTINF:-1 group-title="福建频道" tvg-id="三明二套公共频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0123/small954b52895793e4971dc23231b5d83dc11516719502.jpg",三明二套公共频道
+http://stream.smntv.cn/smtv2/sd/live.m3u8
+#EXTINF:-1 group-title="福建频道" tvg-id="龙岩新闻综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0123/smallb2260843a08358f2fa48f62a89c382b81516721159.jpg",龙岩新闻综合频道
+http://stream.lytv.net.cn/2/sd/live.m3u8
+#EXTINF:-1 group-title="福建频道" tvg-id="龙岩公共频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0123/smalle7e86195c671879b37f80745c32d92f81516721262.jpg",龙岩公共频道
+http://live.lytv.net.cn/ggpd/sd/live.m3u8
+#EXTINF:-1 group-title="福建频道" tvg-id="新罗TV频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0707/small856547735983c8fab42f9d2ac46dfbd41530976848.jpg",新罗TV频道
+http://stream.lyxltv.com/xltv/sd/live.m3u8
+#EXTINF:-1 group-title="福建频道" tvg-id="漳州一套新闻综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0124/small4ea2cbef483f43fa87812b2afd0756ac1516774297.jpg",漳州一套新闻综合频道
+http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8
