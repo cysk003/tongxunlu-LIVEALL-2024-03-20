@@ -1,7 +1,6 @@
 #EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml,https://epg.112114.xyz/pp.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 #🐼熊猫频道
-#EXTM3U
 #EXTINF:-1,tvg-id="熊猫频道" tvg-name="熊猫频道" tvg-logo="https://epg.112114.xyz/logo/熊猫.png" group-title="🐼熊猫频道",熊猫频道
 https://gcwbndks.v.kcdnvip.com/gcwbnd/ipanda1000_2/index.m3u8
 #EXTINF:-1,tvg-id="熊猫频道" tvg-name="熊猫频道" tvg-logo="https://epg.112114.xyz/logo/熊猫.png" group-title="🐼熊猫频道",熊猫频道
@@ -674,7 +673,6 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 
 
 #📺TVB·埋堆堆
-#EXTM3U
 #EXTINF:-1,tvg-id="埋堆堆1" tvg-name="埋堆堆1" tvg-logo="https://epg.112114.xyz/logo/埋堆堆1.png" group-title="TVB·埋堆堆",埋堆堆1
 https://epg.112114.xyz/huya/23735126
 #EXTINF:-1,tvg-id="埋堆堆2" tvg-name="埋堆堆2" tvg-logo="https://epg.112114.xyz/logo/埋堆堆2.png" group-title="TVB·埋堆堆",埋堆堆2
@@ -728,7 +726,6 @@ https://epg.112114.xyz/huya/23734176
 
 
 #🎞️影视剧场
-#EXTM3U
 #EXTINF:-1,tvg-id="经典功夫" tvg-name="经典功夫" tvg-logo="https://epg.112114.xyz/logo/经典功夫.png" group-title="影视剧场",经典功夫
 http://43.138.170.29:35455/douyu/11566286
 #EXTINF:-1,tvg-id="超清港剧3" tvg-name="超清港剧3" tvg-logo="https://epg.112114.xyz/logo/港剧3.png" group-title="影视剧场",超清港剧3
