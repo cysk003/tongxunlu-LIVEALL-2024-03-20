@@ -1,0 +1,17 @@
+#四川频道
+#EXTINF:-1 group-title="四川频道" tvg-id="德阳公共频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0119/small5678afc05c7bbdbb7a8fc2821c0b71dc1516349647.jpg",德阳公共频道
+http://scdytv.cn:1935/live/m_ggpd_livevideo/playlist.m3u8
+#EXTINF:-1 group-title="四川频道" tvg-id="广安新闻综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0119/smallbcc0164044a54a4ccf90c32eaf904fd31516354774.jpg",广安新闻综合频道
+http://live1.gatv.com.cn:85/live/XWZH.m3u8
+#EXTINF:-1 group-title="四川频道" tvg-id="广安公共频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0119/smallecdf931f3ab319cad5df7d6381c315001516354852.jpg",广安公共频道
+http://live1.gatv.com.cn:85/live/GGPD.m3u8
+#EXTINF:-1 group-title="四川频道" tvg-id="眉山新闻综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0120/small3ab4de21e687c2a9f91275c4d2bc42ee1516417919.jpg",眉山新闻综合频道
+https://live1.scmstv.cn/gqpd/playlist.m3u8?_upt=224434091706334927
+#EXTINF:-1 group-title="四川频道" tvg-id="眉山公共频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0120/smallb45a622339d96c003dc8bb9a4417fe451516418086.jpg",眉山公共频道
+http://live2.scmstv.cn/ggpd/sd/live.m3u8
+#EXTINF:-1 group-title="四川频道" tvg-id="内江综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0727/small4bd87cec0691dc544136715e19b3b64b1532658872.jpg",内江综合频道
+http://njzb.scnj.tv:90/live/xwzh_xwzh800.m3u8
+#EXTINF:-1 group-title="四川频道" tvg-id="泸州公共频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0120/small24dff4032a35a2a680b02aab330af7b31516423781.jpg",泸州公共频道
+http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel102221/playlist.m3u8
+#EXTINF:-1 group-title="四川频道" tvg-id="泸州科教频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0120/smallc63c71efa3c24aa2187c9fcfc9ed6cef1516423857.jpg",泸州科教频道
+http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8
