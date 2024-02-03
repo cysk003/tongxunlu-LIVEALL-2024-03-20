@@ -1,0 +1,31 @@
+#安徽频道
+#EXTINF:-1 group-title="安徽频道" tvg-id="安徽公共频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0711/small47cb2897ce48359a240732038bb517ad.jpg",安徽公共频道
+http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829349154529.m3u8
+#EXTINF:-1 group-title="安徽频道" tvg-id="安徽国际频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0711/small48e2ff4f1f40f559b726c8bfdf960784.jpg",安徽国际频道
+http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829422933950.m3u8
+#EXTINF:-1 group-title="安徽频道" tvg-id="芜湖新闻综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0620/20160620112948260.jpg",芜湖新闻综合频道
+https://live3.wuhunews.cn/news/playlist.m3u8?_upt=b1bb222f1706333913
+#EXTINF:-1 group-title="安徽频道" tvg-id="芜湖生活频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0620/20160620113238602.jpg",芜湖生活频道
+https://live3.wuhunews.cn/channel2/playlist.m3u8?_upt=bab9f8351706333919
+#EXTINF:-1 group-title="安徽频道" tvg-id="芜湖公共频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/0913/small6cc48f42abf2cbe3a1006896171f06531505265375.jpg",芜湖公共频道
+https://live3.wuhunews.cn/channel3/playlist.m3u8?_upt=f8b742281706332584
+#EXTINF:-1 group-title="安徽频道" tvg-id="岳西综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0301/20160301101914522.jpg",岳西综合频道
+http://112.30.194.221:20080/live/b62955a9283f4c2ea8ccb96e8ac468bc/hls.m3u8
+#EXTINF:-1 group-title="安徽频道" tvg-id="宿州新闻综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/1004/e3ec2b38258f467e0fe074e33654a5c8.jpg",宿州新闻综合频道
+http://live.ahsz.tv/video/s10001-szzh/index.m3u8
+#EXTINF:-1 group-title="安徽频道" tvg-id="宿州公共频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/1004/e3ec2b38258f467e0fe074e33654a5c8.jpg",宿州公共频道
+http://live.ahsz.tv/video/s10001-ggpd/index.m3u8
+#EXTINF:-1 group-title="安徽频道" tvg-id="宿州科教频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/1004/e3ec2b38258f467e0fe074e33654a5c8.jpg",宿州科教频道
+http://live.ahsz.tv/video/s10001-kxjy/index.m3u8
+#EXTINF:-1 group-title="安徽频道" tvg-id="滁州新闻综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0619/small-3943790278.jpg",滁州新闻综合频道
+http://live.cztv.cc:85/live/xwpd.m3u8
+#EXTINF:-1 group-title="安徽频道" tvg-id="滁州科教频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/0915/small1e13492406026e47512b4d1370f4748e1505481616.jpg",滁州科教频道
+http://live.cztv.cc:85/live/sjpd.m3u8
+#EXTINF:-1 group-title="安徽频道" tvg-id="滁州公共频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/0915/smallb782467c6fb906bfa1e5a2ed023761551505481741.jpg",滁州公共频道
+http://live.cztv.cc:85/live/ggpd.m3u8
+#EXTINF:-1 group-title="安徽频道" tvg-id="亳州新闻综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0126/20160126100805977.jpg",亳州新闻综合频道
+http://bzlivetv1.ahbztv.com/live/416.m3u8?t=1706326890&k=6ab380d1a7e317b05776f0dd8adb35b1
+#EXTINF:-1 group-title="安徽频道" tvg-id="池州新闻综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2014/0116/20140116071106168.jpg",池州新闻综合频道
+http://cm-wshls.homecdn.com/live/4abdd.m3u8
+#EXTINF:-1 group-title="安徽频道" tvg-id="池州公共频道" tvg-logo="http://tv.haoqu99.com/d/file/2014/0116/20140116071240303.jpg",池州公共频道
+http://cm.wshls.homecdn.com/live/4abdf.m3u8
