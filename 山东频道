@@ -1,0 +1,55 @@
+#山东频道
+#EXTINF:-1 group-title="山东频道" tvg-id="济南都市频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0625/20160625034626152.jpg",济南都市频道
+https://ts1.ijntv.cn/jnds/playlist.m3u8?_upt=997d39681706335703
+#EXTINF:-1 group-title="山东频道" tvg-id="济南鲁中频道" tvg-logo="http://tv.haoqu99.com/d/file/2019/1206/smallb8c24520b20b1754fac84bd4d09456341575636815.jpg",济南鲁中频道
+https://ts4.ijntv.cn/ltv1/playlist.m3u8?_upt=027470751706335765
+#EXTINF:-1 group-title="山东频道" tvg-id="淄博生活频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/1120/small2b15a3263defaff9c948036520a0a0a21511186807.gif",淄博生活频道
+https://live.cbbn.net/zbsh/playlist.m3u8?_upt=563557391706335900
+#EXTINF:-1 group-title="山东频道" tvg-id="淄博都市频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/1120/small3c317db502ffa6c96c749d81523bd4501511187274.gif",淄博都市频道
+https://live2.cbbn.net/zbdspd/playlist.m3u8?_upt=0eb590011706335907
+#EXTINF:-1 group-title="山东频道" tvg-id="青州电视台新闻综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/1018/small4406764b889fff28d1e186e000c1be0e1539830690.jpg",青州电视台新闻综合频道
+http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8
+#EXTINF:-1 group-title="山东频道" tvg-id="青州电视台生活频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/1018/small8509c9f1ee0686d45ed03128d61f18c91539830945.jpg",青州电视台生活频道
+http://sdqz.chinashadt.com:2036/live/stream:2.stream/playlist.m3u8
+#EXTINF:-1 group-title="山东频道" tvg-id="青州电视台文化旅游频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/1018/smalld09089c79d43926fd828b285171ba9e61539831276.jpg",青州电视台文化旅游频道
+http://sdqz.chinashadt.com:2036/live/stream:3.stream/playlist.m3u8
+#EXTINF:-1 group-title="山东频道" tvg-id="济宁新闻综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/1121/small267cc5c3dada1d4cccffada8da5c13641511246949.jpg",济宁新闻综合频道
+http://lives.jnnews.tv/video/s10001-JNTV-1/index.m3u8
+#EXTINF:-1 group-title="山东频道" tvg-id="济宁图文频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/1121/small852be60175742dc5139c5dd5b4bf78ec1511247386.jpg",济宁图文频道
+http://lives.jnnews.tv/video/s10001-SDTV/index.m3u8
+#EXTINF:-1 group-title="山东频道" tvg-id="济宁公共频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/1121/small174f71253553c480ec8eba61c3f86416.jpg",济宁公共频道
+http://lives.jnnews.tv/video/s10001-JNTV3/index.m3u8
+#EXTINF:-1 group-title="山东频道" tvg-id="济宁教育频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/1121/smallecfed3b0728336efb4b0fe6b43f5e2ad1511247832.jpg",济宁教育频道
+http://lives.jnnews.tv/video/s10001-SDTV/index.m3u8
+#EXTINF:-1 group-title="山东频道" tvg-id="菏泽一套新闻综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/1121/smallbf7bee559d00a283fc008e28cd04d66d1511274224.jpg",菏泽一套新闻综合频道
+http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8
+#EXTINF:-1 group-title="山东频道" tvg-id="菏泽二套经济生活频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/1121/small93ef2fb81a8bbdffc43eaa85ca52ffe61511274337.jpg",菏泽二套经济生活频道
+http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8
+#EXTINF:-1 group-title="山东频道" tvg-id="菏泽三套影视频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/1121/small3b337a98db6f2164b63c27391ca585a21511274444.jpg",菏泽三套影视频道
+http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8
+#EXTINF:-1 group-title="山东频道" tvg-id="烟台公共频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/1122/small5a551979a4de45711a674809ce8f6fe31511321665.jpg",烟台公共频道
+http://live.yantaitv.cn/live/e50f104a4ffe4a41b2217cbda534146f/d86092e69df94668b33390278b061700-1.m3u8
+#EXTINF:-1 group-title="山东频道" tvg-id="烟台影视频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/1122/small2c63a6fe7b351d57c0b1eaa53460c5471511321759.jpg",烟台影视频道
+http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129-1.m3u8
+#EXTINF:-1 group-title="山东频道" tvg-id="威海一套新闻综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0624/20160624105408278.jpg",威海一套新闻综合频道
+http://l1.weihai.tv:8081/hls/969O76hb21.m3u8
+#EXTINF:-1 group-title="山东频道" tvg-id="威海二套公共频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0624/20160624104746966.jpg",威海二套公共频道
+http://l1.weihai.tv:8081/hls/969O76hb21.m3u8
+#EXTINF:-1 group-title="山东频道" tvg-id="威海三套海洋频道" tvg-logo="http://tv.haoqu99.com/d/file/2020/0524/small3866d97a63fbf2a4821f68de82e656a91590309656.jpg",威海三套海洋频道
+http://l1.weihai.tv:8081/hls/969O76hb21.m3u8
+#EXTINF:-1 group-title="山东频道" tvg-id="新泰电视台综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/1012/small455714d029443bcfbe7abe289cc626f91539335940.jpg",新泰电视台综合频道
+http://live.xtgdw.cn:1935/live/xtzh/playlist.m3u8
+#EXTINF:-1 group-title="山东频道" tvg-id="新泰乡村党建频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/1012/smallc58e58767dd19c44b811e5a2c3c67bf81539336034.jpg",新泰乡村党建频道
+http://live.xtgdw.cn:1935/live/xtxc/playlist.m3u8
+#EXTINF:-1 group-title="山东频道" tvg-id="新泰生活频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/1012/small2a370d743b7ecbdf1b51371d254d76ff1539336121.jpg",新泰生活频道
+http://live.xtgdw.cn:1935/live/xtsh/playlist.m3u8
+#EXTINF:-1 group-title="山东频道" tvg-id="新泰影视频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/1012/smallfd8167c0d388cdbd07b4f29133d1f9091539336196.jpg",新泰影视频道
+http://live.xtgdw.cn:1935/live/xtys/playlist.m3u8
+#EXTINF:-1 group-title="山东频道" tvg-id="临沂新闻综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/1122/small453f8c94e42b110ca9d6c59b24ed841a1511330710.jpg",临沂新闻综合频道
+https://m3u8-channel.lytv.tv/nmip-media/channellive/channel111841/playlist.m3u8
+#EXTINF:-1 group-title="山东频道" tvg-id="临沂公共频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/1122/small9209424334b1b8964825f75a91322db71511330890.jpg",临沂公共频道
+https://m3u8-channel.lytv.tv/nmip-media/channellive/channel113571/playlist.m3u8
+#EXTINF:-1 group-title="山东频道" tvg-id="临沂农科频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/1122/smalld57fa920f60359a272b80d1dfcea2bd41511330982.jpg",临沂农科频道
+https://m3u8-channel.lytv.tv/nmip-media/channellive/channel115062/playlist.m3u8
+#EXTINF:-1 group-title="山东频道" tvg-id="枣庄公共频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0705/small235d6de058f24b51c4547975a421e3c51530760909.jpg",枣庄公共频道
+http://stream.zztvzd.com/3/sd/live.m3u8
