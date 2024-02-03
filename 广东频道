@@ -1,0 +1,23 @@
+#广东频道
+#EXTINF:-1 group-title="广东频道" tvg-id="深圳电视台都市频道" tvg-logo="http://tv.haoqu99.com/d/file/2014/0512/20140512040002347.jpg",深圳电视台都市频道
+http://livepull-tcyzb.sztv.com.cn/live/dushi01.m3u8
+#EXTINF:-1 group-title="广东频道" tvg-id="梅州一套综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/0109/small-74835kejia.jpg",梅州一套综合频道
+http://pili-live-hls.xianchangliving.gdmztv.com/meizhou-xianchangliving/mztv1.m3u8
+#EXTINF:-1 group-title="广东频道" tvg-id="梅州二套公共频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/0109/small-74835kejia.jpg",梅州二套公共频道
+http://pili-live-hls.xianchangliving.gdmztv.com/meizhou-xianchangliving/mztv2.m3u8
+#EXTINF:-1 group-title="广东频道" tvg-id="河源综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0611/20160611061323486.jpg",河源综合频道
+http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
+#EXTINF:-1 group-title="广东频道" tvg-id="河源公共频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0611/20160611061323486.jpg",河源公共频道
+http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
+#EXTINF:-1 group-title="广东频道" tvg-id="清远综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0926/83b9eaaf3ff05700d065793708e7d8c5.jpg",清远综合频道
+https://huodong.zuiqingyuan.com/dianshi/newxinwenpingdao.m3u8?token=B86ouFGGfrmwNY9CDr8t
+#EXTINF:-1 group-title="广东频道" tvg-id="清远文旅生活频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0926/83b9eaaf3ff05700d065793708e7d8c5.jpg",清远文旅生活频道
+https://huodong.zuiqingyuan.com/dianshi/newwenlvshenghuo.m3u8?token=B86ouFGGfrmwNY9CDr8t932
+#EXTINF:-1 group-title="广东频道" tvg-id="汕头一套综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/0109/small-75748548.jpg",汕头一套综合频道
+https://sttv-tsl.cutv.com/lKGXIQa/17slxG0.m3u8
+#EXTINF:-1 group-title="广东频道" tvg-id="江门综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/0109/small90352a8c6b1e34024b372108de4ed86a.jpg",江门综合频道
+http://tidelive.jmtv.cn/lsdream/4x3T0dO/993/q934x00.m3u8
+#EXTINF:-1 group-title="广东频道" tvg-id="江门公共频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/0109/smallf11f3c8e03ffd63f6b427d2578deac981483937114.jpg",江门公共频道
+http://tidelive.jmtv.cn/lsdream/qzohscw/993/82lqxo0.m3u8
+#EXTINF:-1 group-title="广东频道" tvg-id="台山电视台" tvg-logo="http://tv.haoqu99.com/d/file/2016/0611/20160611051957836.jpg",台山电视台
+https://stream.tvod.tsbtv.tv/tstv/sd/live.m3u8?_upt=2882ef761706332785
