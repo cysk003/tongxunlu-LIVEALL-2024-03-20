@@ -1,0 +1,43 @@
+#云南频道
+#EXTINF:-1 group-title="云南频道" tvg-id="云南都市频道yntv2" tvg-logo="http://tv.haoqu99.com/d/file/2016/0706/20160706014025815.jpg",云南都市频道yntv2
+http://tvlive.ynradio.com/live/yunnandushi/chunks.m3u8
+#EXTINF:-1 group-title="云南频道" tvg-id="云南娱乐频道yntv3" tvg-logo="http://tv.haoqu99.com/d/file/2016/0706/20160706013916898.jpg",云南娱乐频道yntv3
+http://tvlive.ynradio.com/live/yunnanyule/chunks.m3u8
+#EXTINF:-1 group-title="云南频道" tvg-id="云南澜湄国际频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/1013/28246fa822e2d3c9dd1956857d280451.jpg",云南澜湄国际频道
+http://tvlive.ynradio.com/live/yunnanguoji/chunks.m3u8
+#EXTINF:-1 group-title="云南频道" tvg-id="云南少儿频道yntv7" tvg-logo="http://tv.haoqu99.com/d/file/2018/0401/smallaa748a627103482f926ef9747cea22d81522588987.jpg",云南少儿频道yntv7
+http://tvlive.ynradio.com/live/yunnanshaoer/chunks.m3u8
+#EXTINF:-1 group-title="云南频道" tvg-id="丽江新闻综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/1219/small8686913c74108e4cb3e48c6d70a0f60a1513657451.jpg",丽江新闻综合频道
+https://play.live.lijiangtv.com/live/tvzh_720p.m3u8
+#EXTINF:-1 group-title="云南频道" tvg-id="红河一套新闻频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0722/small0967e5bfd5407063464a72bdb2d82f04.jpg",红河一套新闻频道
+http://file.hhtv.cc/cms/videos/nmip-media/channellive/channel1/playlist.m3u8
+#EXTINF:-1 group-title="云南频道" tvg-id="红河经济生活频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0722/small041a2f35ce8b619cf4a306a8b508836f.jpg",红河经济生活频道
+http://file.hhtv.cc/cms/videos/nmip-media/channellive/channel1/playlist.m3u8
+#EXTINF:-1 group-title="云南频道" tvg-id="红河县电视台" tvg-logo="http://tv.haoqu99.com/d/file/2019/0123/smalleee9fcb7d67adb0819a86e15f5da3add1548213462.jpg",红河县电视台
+http://file.hhtv.cc/cms/videos/nmip-media/channellive/channel3/playlist.m3u8
+#EXTINF:-1 group-title="云南频道" tvg-id="个旧电视台" tvg-logo="http://tv.haoqu99.com/d/file/2019/0123/small7ccfeeca87f520956e5f62f34a4263091548216169.jpg",个旧电视台
+http://file.hhtv.cc/cms/videos/nmip-media/channellive/channel6/playlist.m3u8
+#EXTINF:-1 group-title="云南频道" tvg-id="屏边电视台" tvg-logo="http://tv.haoqu99.com/d/file/2019/0123/smallddfd704a4d89c1483997f4f948eae0db1548216322.jpg",屏边电视台
+http://file.hhtv.cc/cms/videos/nmip-media/channellive/channel5/playlist.m3u8
+#EXTINF:-1 group-title="云南频道" tvg-id="德宏公共频道" tvg-logo="http://tv.haoqu99.com/d/file/2019/0122/small7811e6782fe4768b515affe1efd177f81548149728.jpg",德宏公共频道
+https://ali-play.lezhibo.com/lezhibo/e6a8b2ecf53b4ea4b0aef1e91d20cd51.m3u8
+#EXTINF:-1 group-title="云南频道" tvg-id="文山新闻综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0118/0d540a82f3447b1b48a820e86b51da22.jpg",文山新闻综合频道
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
+#EXTINF:-1 group-title="云南频道" tvg-id="文山公共频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0118/small109d58d2b22d79227720fa33948f47de1516273121.jpg",文山公共频道
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8
+#EXTINF:-1 group-title="云南频道" tvg-id="砚山电视台" tvg-logo="http://tv.haoqu99.com/d/file/2018/0118/small90601303a2aca7e7584430e3835befe91516284236.jpg",砚山电视台
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel16/playlist.m3u8
+#EXTINF:-1 group-title="云南频道" tvg-id="西畴电视台" tvg-logo="http://tv.haoqu99.com/d/file/2018/0118/small8b70ef4f03cc505a622334737fe730f51516284386.jpg",西畴电视台
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel11/playlist.m3u8
+#EXTINF:-1 group-title="云南频道" tvg-id="麻栗坡电视台" tvg-logo="http://tv.haoqu99.com/d/file/2018/0119/smallf546e6dc7064692a520d3ad2b280d6231516331629.jpg",麻栗坡电视台
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8
+#EXTINF:-1 group-title="云南频道" tvg-id="广南电视台" tvg-logo="http://tv.haoqu99.com/d/file/2018/0119/small1274a79d858f4de9d2f27f13c7bbec3f1516331889.jpg",广南电视台
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel19/playlist.m3u8
+#EXTINF:-1 group-title="云南频道" tvg-id="富宁电视台" tvg-logo="http://tv.haoqu99.com/d/file/2018/0119/small9a1330a08d4fac732a173b6103fe2bfb1516332162.jpg",富宁电视台
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel13/playlist.m3u8
+#EXTINF:-1 group-title="云南频道" tvg-id="丘北电视台" tvg-logo="http://tv.haoqu99.com/d/file/2018/0119/small8d32f908800cb0f2b7d9956d833b6ebf1516332349.jpg",丘北电视台
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel14/playlist.m3u8
+#EXTINF:-1 group-title="云南频道" tvg-id="西双版纳一套" tvg-logo="http://tv.haoqu99.com/d/file/2018/0119/smallff90d28bfd4bddffcb34f5f0a73250861516333371.jpg",西双版纳一套
+http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel1/playlist.m3u8
+#EXTINF:-1 group-title="云南频道" tvg-id="西双版纳二套" tvg-logo="http://tv.haoqu99.com/d/file/2018/0119/smallfa90b3a11b479ff175407cbf05ea4a711516333444.jpg",西双版纳二套
+http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel3/playlist.m3u8
