@@ -1,0 +1,9 @@
+#黑龙江频道
+#EXTINF:-1 group-title="黑龙江频道" tvg-id="哈尔滨新闻综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/1011/4ae5cacd4a79528b86f631ef4646d404.jpg",哈尔滨新闻综合频道
+http://stream.hrbtv.net/xwzh/sd/live.m3u8
+#EXTINF:-1 group-title="黑龙江频道" tvg-id="哈尔滨生活频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/1011/7c1c8279c7433182e47a6aaefa3d3687.jpg",哈尔滨生活频道
+http://stream.hrbtv.net/shpd/sd/live.m3u8
+#EXTINF:-1 group-title="黑龙江频道" tvg-id="哈尔滨娱乐频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/1011/4425495cfbd41d874278baa443b2668b.jpg",哈尔滨娱乐频道
+http://stream.hrbtv.net/ylpd/sd/live.m3u8
+#EXTINF:-1 group-title="黑龙江频道" tvg-id="哈尔滨影视频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/1011/95f38e639def77b673a8f409db85d7c2.jpg",哈尔滨影视频道
+http://stream.hrbtv.net/yspd/sd/live.m3u8
