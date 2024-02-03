@@ -1,0 +1,31 @@
+#河北频道
+#EXTINF:-1 group-title="河北频道" tvg-id="石家庄新闻综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0930/c5dba1a54ef3c23ffcd953a8ee32d5be.jpg",石家庄新闻综合频道
+http://pluslive1.sjzntv.cn/xmzh/playlist.m3u8
+#EXTINF:-1 group-title="河北频道" tvg-id="石家庄娱乐频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0930/fa9df07f7ee6768fc0746f379b631d4d.jpg",石家庄娱乐频道
+http://pluslive1.sjzntv.cn/yule/playlist.m3u8
+#EXTINF:-1 group-title="河北频道" tvg-id="石家庄生活频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0930/f4ad96370c67264049703a52ab29b4eb.jpg",石家庄生活频道
+http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8
+#EXTINF:-1 group-title="河北频道" tvg-id="石家庄都市频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0930/c697c19d2839fbcaaabba76acd4cb01c.jpg",石家庄都市频道
+http://pluslive1.sjzntv.cn/dushi/playlist.m3u8
+#EXTINF:-1 group-title="河北频道" tvg-id="邯郸新闻综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0124/small84e71978b5de8a35bf9689f38dae8d9f1516807053.jpg",邯郸新闻综合频道
+http://live.hd.hdbs.cn/video/s10001-2021hdxwzh/index.m3u8
+#EXTINF:-1 group-title="河北频道" tvg-id="邯郸公共频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0124/small3d6bd355a48f690c379b28771faf32051516807150.jpg",邯郸公共频道
+https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8
+#EXTINF:-1 group-title="河北频道" tvg-id="邯郸科教频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0124/small6183e5527c98a64d383eea785568d9a61516807252.jpg",邯郸科教频道
+https://jwliveqxzb.hebyun.com.cn/hdkj/hdkj.m3u8
+#EXTINF:-1 group-title="河北频道" tvg-id="保定一套" tvg-logo="http://tv.haoqu99.com/d/file/2018/0125/small85accb8b06a8ffe41f15e0937dd1b8131516856684.jpg",保定一套
+http://live.bdgdw.com/channel1/playlist.m3u8?_upt=1207a2a01706339997
+#EXTINF:-1 group-title="河北频道" tvg-id="保定二套公共频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0125/small1cb121a976f246a6a6db472ffe7ad5f61516856814.jpg",保定二套公共频道
+http://live.bdgdw.com/channel2/playlist.m3u8?_upt=8263d2671706340003
+#EXTINF:-1 group-title="河北频道" tvg-id="保定三套" tvg-logo="http://tv.haoqu99.com/d/file/2018/0125/small09ae4c62cba3b2e23f13d4bc1f0c40311516857402.jpg",保定三套
+http://live.bdgdw.com/channel3/playlist.m3u8?_upt=76e209231706340010
+#EXTINF:-1 group-title="河北频道" tvg-id="沧州电视台一套" tvg-logo="http://tv.haoqu99.com/d/file/2018/0125/smallc658beb1adbf8b3f444e4647448645c51516861066.jpg",沧州电视台一套
+http://czlive.czgd.tv:85/live/xnyt.m3u8
+#EXTINF:-1 group-title="河北频道" tvg-id="沧州电视台二套" tvg-logo="http://tv.haoqu99.com/d/file/2018/0125/smallfe0bee57d4a48ca48939f91d8673ff791516861179.jpg",沧州电视台二套
+http://czlive.czgd.tv:85/live/xnet.m3u8
+#EXTINF:-1 group-title="河北频道" tvg-id="沧州电视台三套" tvg-logo="http://tv.haoqu99.com/d/file/2018/0125/small4b06dbb813889b1e8ccdea1f5269b6cb1516861237.jpg",沧州电视台三套
+http://czlive.czgd.tv:85/live/xnst.m3u8
+#EXTINF:-1 group-title="河北频道" tvg-id="张家口一套新闻综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0125/small6f71e70d9174827f5bc4aedea5c34bf61516865505.jpg",张家口一套新闻综合频道
+http://nlive.zjkgdcs.com:8091/live/xwzhpd.m3u8
+#EXTINF:-1 group-title="河北频道" tvg-id="张家口二套公共频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0125/small6f71e70d9174827f5bc4aedea5c34bf61516865505.jpg",张家口二套公共频道
+http://nlive.zjkgdcs.com:8091/live/zjktv2.m3u8
