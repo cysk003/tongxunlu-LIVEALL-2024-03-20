@@ -816,7 +816,8 @@ http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
 http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8
 #EXTINF:-1 group-title="湖南频道" tvg-id="邵阳新闻综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/0124/small7bdcdcab71d106293264a70dda47f6891485270148.png",邵阳新闻综合频道
 http://live2.sytv.net.cn/xwzh/playlist.m3u8?sign=02a852882e45e79a5f2091e9c90ad9ac&t=1706330332
-#EXTINF:-1 group-title="湖南频道" tvg-id="邵阳公共频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/0124/small63e2e4e074a3ab8a8a1494e634f9615a1485270341.png",邵阳公共频道http://live2.sytv.net.cn/ggpd/playlist.m3u8?sign=52e2ec9b49cd8a9d3f1e8d32619efec2&t=1706333216
+#EXTINF:-1 group-title="湖南频道" tvg-id="邵阳公共频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/0124/small63e2e4e074a3ab8a8a1494e634f9615a1485270341.png",邵阳公共频道
+http://live2.sytv.net.cn/ggpd/playlist.m3u8?sign=52e2ec9b49cd8a9d3f1e8d32619efec2&t=1706333216
 
 
 #📺江苏频道
