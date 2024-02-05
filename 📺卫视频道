@@ -81,7 +81,7 @@ http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001307/index.m3
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001306/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 
-#卫视频道·IPV4
+#📺卫视频道·IPV4
 #EXTINF:-1 group-title="卫视频道·IPV4" tvg-id="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png",北京卫视
 http://58.19.13.92:9901/tsfile/live/1017_1.m3u8
 #EXTINF:-1 group-title="卫视频道·IPV4" tvg-id="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png",东方卫视
