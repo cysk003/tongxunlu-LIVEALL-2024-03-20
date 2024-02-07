@@ -836,67 +836,6 @@ http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001322/index.m3
 #EXTINF:-1 tvg-id="jbty" tvg-name="劲爆体育" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jbty.png" group-title="数字频道",劲爆体育
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001326/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 logo="" group-title="数字频道" ,iHOT爱悬疑 
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000050630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000050630&livemode=1&stbId=3
-#EXTINF:-1 logo="" group-title="数字频道" ,iHOT爱电竞 
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000230630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000230630&livemode=1&stbId=3
-#EXTINF:-1 logo="" group-title="数字频道" ,iHOT爱谍战 
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000070630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000070630&livemode=1&stbId=3
-#EXTINF:-1 logo="" group-title="数字频道" ,iHOT爱动漫 
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
-#EXTINF:-1 logo="" group-title="数字频道" ,iHOT爱都市 
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000080630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000080630&livemode=1&stbId=3
-#EXTINF:-1 logo="" group-title="数字频道" ,iHOT爱怀旧 
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000260630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000260630&livemode=1&stbId=3
-#EXTINF:-1 logo="" group-title="数字频道" ,iHOT爱极限 
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000170630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000170630&livemode=1&stbId=3
-#EXTINF:-1 logo="" group-title="数字频道" ,iHOT爱家庭 
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000090630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000090630&livemode=1&stbId=3
-#EXTINF:-1 logo="" group-title="数字频道" ,iHOT爱江湖 
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000110630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000110630&livemode=1&stbId=3
-#EXTINF:-1 logo="" group-title="数字频道" ,iHOT爱解密 
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000200630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000200630&livemode=1&stbId=3
-#EXTINF:-1 logo="" group-title="数字频道" ,iHOT爱经典 
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000060630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000060630&livemode=1&stbId=3
-#EXTINF:-1 logo="" group-title="数字频道" ,iHOT爱科幻 
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000020630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000020630&livemode=1&stbId=3
-#EXTINF:-1 logo="" group-title="数字频道" ,iHOT爱科学 
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000160630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000160630&livemode=1&stbId=3
-#EXTINF:-1 logo="" group-title="数字频道" ,iHOT爱浪漫 
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000040630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000040630&livemode=1&stbId=3
-#EXTINF:-1 logo="" group-title="数字频道" ,iHOT爱历史 
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000150630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000150630&livemode=1&stbId=3
-#EXTINF:-1 logo="" group-title="数字频道" ,iHOT爱猎奇 
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000190630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000190630&livemode=1&stbId=3
-#EXTINF:-1 logo="" group-title="数字频道" ,iHOT爱旅行 
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000250630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000250630&livemode=1&stbId=3
-#EXTINF:-1 logo="" group-title="数字频道" ,iHOT爱美食 
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000120630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000120630&livemode=1&stbId=3
-#EXTINF:-1 logo="" group-title="数字频道" ,iHOT爱奇谈 
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000270630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000270630&livemode=1&stbId=3
-#EXTINF:-1 logo="" group-title="数字频道" ,iHOT爱青春 
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000100630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000100630&livemode=1&stbId=3
-#EXTINF:-1 logo="" group-title="数字频道" ,iHOT爱赛车 
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000240630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000240630&livemode=1&stbId=3
-#EXTINF:-1 logo="" group-title="数字频道" ,iHOT爱时尚 
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000140630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000140630&livemode=1&stbId=3
-#EXTINF:-1 logo="" group-title="数字频道" ,iHOT爱世界 
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000210630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000210630&livemode=1&stbId=3
-#EXTINF:-1 logo="" group-title="数字频道" ,iHOT爱探索 
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000300630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000300630&livemode=1&stbId=3
-#EXTINF:-1 logo="" group-title="数字频道" ,iHOT爱体育 
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000290630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=3
-#EXTINF:-1 logo="" group-title="数字频道" ,iHOT爱玩具 
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000220630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000220630&livemode=1&stbId=3
-#EXTINF:-1 logo="" group-title="数字频道" ,iHOT爱喜剧 
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000010630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000010630&livemode=1&stbId=3
-#EXTINF:-1 logo="" group-title="数字频道" ,iHOT爱幼教 
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000180630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000180630&livemode=1&stbId=3
-#EXTINF:-1 logo="" group-title="数字频道" ,iHOT爱娱乐 
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000130630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000130630&livemode=1&stbId=3
-#EXTINF:-1 logo="" group-title="数字频道" ,iHOT爱院线 
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
-
 
 #📺国际频道
 #EXTINF:-1 tvg-id="D01" tvg-name="凤凰中文" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix1.png" group-title="国际频道",凤凰中文
@@ -968,6 +907,93 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226009/index.m3u8
 #EXTINF:-1 tvg-id="N25" tvg-name="NewTV超级电视剧" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV25.png" group-title="NewTV",NewTV超级电视剧
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
+
+#📺iHOT频道
+#EXTINF:-1 logo="" group-title="iHOT频道" ,iHOT爱悬疑 
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000050630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000050630&livemode=1&stbId=3
+#EXTINF:-1 logo="" group-title="iHOT频道" ,iHOT爱电竞 
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000230630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000230630&livemode=1&stbId=3
+#EXTINF:-1 logo="" group-title="iHOT频道" ,iHOT爱谍战 
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000070630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000070630&livemode=1&stbId=3
+#EXTINF:-1 logo="" group-title="iHOT频道" ,iHOT爱动漫 
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
+#EXTINF:-1 logo="" group-title="iHOT频道" ,iHOT爱都市 
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000080630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000080630&livemode=1&stbId=3
+#EXTINF:-1 logo="" group-title="iHOT频道" ,iHOT爱怀旧 
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000260630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000260630&livemode=1&stbId=3
+#EXTINF:-1 logo="" group-title="iHOT频道" ,iHOT爱极限 
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000170630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000170630&livemode=1&stbId=3
+#EXTINF:-1 logo="" group-title="iHOT频道" ,iHOT爱家庭 
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000090630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000090630&livemode=1&stbId=3
+#EXTINF:-1 logo="" group-title="iHOT频道" ,iHOT爱江湖 
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000110630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000110630&livemode=1&stbId=3
+#EXTINF:-1 logo="" group-title="iHOT频道" ,iHOT爱解密 
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000200630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000200630&livemode=1&stbId=3
+#EXTINF:-1 logo="" group-title="iHOT频道" ,iHOT爱经典 
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000060630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000060630&livemode=1&stbId=3
+#EXTINF:-1 logo="" group-title="iHOT频道" ,iHOT爱科幻 
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000020630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000020630&livemode=1&stbId=3
+#EXTINF:-1 logo="" group-title="iHOT频道" ,iHOT爱科学 
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000160630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000160630&livemode=1&stbId=3
+#EXTINF:-1 logo="" group-title="iHOT频道" ,iHOT爱浪漫 
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000040630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000040630&livemode=1&stbId=3
+#EXTINF:-1 logo="" group-title="iHOT频道" ,iHOT爱历史 
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000150630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000150630&livemode=1&stbId=3
+#EXTINF:-1 logo="" group-title="iHOT频道" ,iHOT爱猎奇 
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000190630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000190630&livemode=1&stbId=3
+#EXTINF:-1 logo="" group-title="iHOT频道" ,iHOT爱旅行 
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000250630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000250630&livemode=1&stbId=3
+#EXTINF:-1 logo="" group-title="iHOT频道" ,iHOT爱美食 
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000120630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000120630&livemode=1&stbId=3
+#EXTINF:-1 logo="" group-title="iHOT频道" ,iHOT爱奇谈 
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000270630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000270630&livemode=1&stbId=3
+#EXTINF:-1 logo="" group-title="iHOT频道" ,iHOT爱青春 
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000100630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000100630&livemode=1&stbId=3
+#EXTINF:-1 logo="" group-title="iHOT频道" ,iHOT爱赛车 
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000240630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000240630&livemode=1&stbId=3
+#EXTINF:-1 logo="" group-title="iHOT频道" ,iHOT爱时尚 
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000140630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000140630&livemode=1&stbId=3
+#EXTINF:-1 logo="" group-title="iHOT频道" ,iHOT爱世界 
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000210630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000210630&livemode=1&stbId=3
+#EXTINF:-1 logo="" group-title="iHOT频道" ,iHOT爱探索 
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000300630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000300630&livemode=1&stbId=3
+#EXTINF:-1 logo="" group-title="iHOT频道" ,iHOT爱体育 
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000290630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=3
+#EXTINF:-1 logo="" group-title="iHOT频道" ,iHOT爱玩具 
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000220630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000220630&livemode=1&stbId=3
+#EXTINF:-1 logo="" group-title="iHOT频道" ,iHOT爱喜剧 
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000010630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000010630&livemode=1&stbId=3
+#EXTINF:-1 logo="" group-title="iHOT频道" ,iHOT爱幼教 
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000180630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000180630&livemode=1&stbId=3
+#EXTINF:-1 logo="" group-title="iHOT频道" ,iHOT爱娱乐 
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000130630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000130630&livemode=1&stbId=3
+#EXTINF:-1 logo="" group-title="iHOT频道" ,iHOT爱院线 
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
+
+
+#📺SITV频道
+#EXTINF:-1 group-title="SITV频道",SITV乐游
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002157/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="SITV频道",SITV游戏风云
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226579/index.m3u8
+#EXTINF:-1 group-title="SITV频道",SITV欢笑剧场4K
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="SITV频道",SITV动漫秀场
+http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000009/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000009&livemode=1&stbId=3
+#EXTINF:-1 group-title="SITV频道",SITV游戏风云
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031114/1.m3u8?channel-id=bestzb&Contentid=5000000011000031114&livemode=1&stbId=3
+#EXTINF:-1 group-title="SITV频道",SITV法治天地
+http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000014/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000014&livemode=1&stbId=3
+#EXTINF:-1 group-title="SITV频道",SITV魅力足球
+http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000068/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000068&livemode=1&stbId=3
+#EXTINF:-1 group-title="SITV频道",SITV七彩戏剧
+http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000010/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000010&livemode=1&stbId=3
+#EXTINF:-1 group-title="SITV频道",SITV生活时尚
+http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000006/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000006&livemode=1&stbId=3
+#EXTINF:-1 group-title="SITV频道",SITV都市剧场
+http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000015/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000015&livemode=1&stbId=3
+#EXTINF:-1 group-title="SITV频道",SITV东方财经
+http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000090/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000090&livemode=1&stbId=3
 
 
 #📺超清频道
