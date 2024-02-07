@@ -1,4 +1,5 @@
 #📺地方频道·IPv4/IPv6
+#IPV6
 #EXTINF:-1 group-title="地方频道·IPv4/IPv6",东方卫视
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001336/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="地方频道·IPv4/IPv6",上海新闻
@@ -341,3 +342,152 @@ http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322122
 #EXTINF:-1 group-title="地方频道·IPv4/IPv6",「陕西」佛坪电视台「IPV6」
 http://[2409:8087:7002:20::3]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226454/index.m3u8
 
+#IPV4
+#EXTINF:-1 group-title="地方频道·IPv4/IPv6",上海炫动
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031123/1.m3u8?channel-id=bestzb&Contentid=5000000011000031123&livemode=1&stbId=3
+#EXTINF:-1 group-title="地方频道·IPv4/IPv6",上海五星体育
+http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000007/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000007&livemode=1&stbId=3
+#EXTINF:-1 group-title="地方频道·IPv4/IPv6",都市剧场
+http://180.158.146.27:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="地方频道·IPv4/IPv6",上海纪实
+http://180.158.146.27:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="地方频道·IPv4/IPv6",法制天地
+http://180.158.146.27:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="地方频道·IPv4/IPv6",上海教育
+http://180.158.146.27:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="地方频道·IPv4/IPv6",崇明综合
+http://180.158.146.27:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="地方频道·IPv4/IPv6",五星体育
+http://180.158.146.27:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="地方频道·IPv4/IPv6",上海电视剧
+http://180.158.146.27:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="地方频道·IPv4/IPv6",上海新闻综合
+http://180.158.146.27:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
+#EXTINF:-1 group-title="地方频道·IPv4/IPv6",大湾区卫视
+http://glive.grtn.cn/live/lizhi.m3u8
+#EXTINF:-1 group-title="地方频道·IPv4/IPv6",广东文化
+https://glive.grtn.cn/live/wenhua_test0203.m3u8
+#EXTINF:-1 group-title="地方频道·IPv4/IPv6",广州综合
+http://php.jdshipin.com:8880/gztv.php?id=zhonghe
+#EXTINF:-1 group-title="地方频道·IPv4/IPv6",广州新闻
+http://php.jdshipin.com:8880/gztv.php?id=xinwen
+#EXTINF:-1 group-title="地方频道·IPv4/IPv6",广州竞赛
+http://php.jdshipin.com:8880/gztv.php?id=jingsai
+#EXTINF:-1 group-title="地方频道·IPv4/IPv6",广州影视
+http://php.jdshipin.com:8880/gztv.php?id=yingshi
+#EXTINF:-1 group-title="地方频道·IPv4/IPv6",广州法治
+http://php.jdshipin.com:8880/gztv.php?id=fazhi
+#EXTINF:-1 group-title="地方频道·IPv4/IPv6",广东体育
+http://219.135.208.218:8083/tsfile/live/1000_1.m3u8
+#EXTINF:-1 group-title="地方频道·IPv4/IPv6",广州南国都市
+http://php.jdshipin.com:8880/gztv.php?id=shenghuo
+#EXTINF:-1 group-title="地方频道·IPv4/IPv6",广东体育
+https://skype.serv00.net/itouch.php?id=gdty
+#EXTINF:-1 group-title="地方频道·IPv4/IPv6",广东珠江
+http://php.jdshipin.com:8880/chudian.php?id=gdzj
+#EXTINF:-1 group-title="地方频道·IPv4/IPv6",大湾区卫视
+http://php.jdshipin.com:8880/chudian.php?id=nfws
+#EXTINF:-1 group-title="地方频道·IPv4/IPv6",广东民生
+http://php.jdshipin.com:8880/chudian.php?id=gdms
+#EXTINF:-1 group-title="地方频道·IPv4/IPv6",广东新闻
+http://php.jdshipin.com:8880/chudian.php?id=gdxw
+#EXTINF:-1 group-title="地方频道·IPv4/IPv6",广东体育
+http://php.jdshipin.com:8880/chudian.php?id=gdty
+#EXTINF:-1 group-title="地方频道·IPv4/IPv6",广东影视
+http://php.jdshipin.com:8880/chudian.php?id=gdys
+#EXTINF:-1 group-title="地方频道·IPv4/IPv6",广东国际
+http://php.jdshipin.com:8880/chudian.php?id=gdgj
+#EXTINF:-1 group-title="地方频道·IPv4/IPv6",广东移动
+http://php.jdshipin.com:8880/chudian.php?id=gdyd
+#EXTINF:-1 group-title="地方频道·IPv4/IPv6",汕头文旅体育
+http://211.97.63.3:801/hls/80/index.m3u8
+#EXTINF:-1 group-title="地方频道·IPv4/IPv6",汕头综合高清
+http://211.97.63.3:801/hls/81/index.m3u8
+#EXTINF:-1 group-title="地方频道·IPv4/IPv6",汕头经济生活
+http://211.97.63.3:801/hls/82/index.m3u8
+#EXTINF:-1 group-title="地方频道·IPv4/IPv6",潮州综合频道
+http://211.97.63.3:801/hls/503/index.m3u8
+#EXTINF:-1 group-title="地方频道·IPv4/IPv6",番禺电视台
+http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
+#EXTINF:-1 group-title="地方频道·IPv4/IPv6",深圳都市「官方」
+http://livepull-tcyzb.sztv.com.cn/live/dushi01.m3u8
+#EXTINF:-1 group-title="地方频道·IPv4/IPv6",东莞综合「官方」
+https://stream.sun0769.com/dgrtv1/mp4tv1_1500/index.m3u8
+#EXTINF:-1 group-title="地方频道·IPv4/IPv6",东莞生活「官方」
+https://stream.sun0769.com/dgrtv1/mp4tv2_1500/index.m3u8
+#EXTINF:-1 group-title="地方频道·IPv4/IPv6",河源综合「官方」
+http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
+#EXTINF:-1 group-title="地方频道·IPv4/IPv6",河源公共「官方」
+http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
+#EXTINF:-1 group-title="地方频道·IPv4/IPv6",韶关综合「官方」
+https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
+#EXTINF:-1 group-title="地方频道·IPv4/IPv6",韶关公共「官方」
+https://www.sgmsw.cn/videos/tv/201805/1308/9P424TC5M000AFO13CXK6GN6BOA889D2/hls/live.m3u8
+#EXTINF:-1 group-title="地方频道·IPv4/IPv6",佛山综合
+http://php.jdshipin.com:8880/fstv.php?id=fszh
+#EXTINF:-1 group-title="地方频道·IPv4/IPv6",佛山影视
+http://php.jdshipin.com:8880/fstv.php?id=fsys
+#EXTINF:-1 group-title="地方频道·IPv4/IPv6",佛山公共
+http://php.jdshipin.com:8880/fstv.php?id=fsgg
+#EXTINF:-1 group-title="地方频道·IPv4/IPv6",佛山南海
+http://php.jdshipin.com:8880/fstv.php?id=fsnh
+#EXTINF:-1 group-title="地方频道·IPv4/IPv6",佛山顺德
+http://php.jdshipin.com:8880/fstv.php?id=fssd
+#EXTINF:-1 group-title="地方频道·IPv4/IPv6",佛山高明
+http://php.jdshipin.com:8880/fstv.php?id=fsgm
+#EXTINF:-1 group-title="地方频道·IPv4/IPv6",佛山三水
+http://php.jdshipin.com:8880/fstv.php?id=fsss
+#EXTINF:-1 group-title="地方频道·IPv4/IPv6",云浮综合
+https://livestream.oeeee.com/slive/17806.m3u8
+#EXTINF:-1 group-title="地方频道·IPv4/IPv6",云浮文旅
+https://livestream.oeeee.com/slive/17807.m3u8
+#EXTINF:-1 group-title="地方频道·IPv4/IPv6",惠东综合
+http://php.jdshipin.com:8880/chudian.php?id=hdzh
+#EXTINF:-1 group-title="地方频道·IPv4/IPv6",开平综合
+http://php.jdshipin.com:8880/chudian.php?id=kpzh
+#EXTINF:-1 group-title="地方频道·IPv4/IPv6",工布江达县广播电视台
+http://php.jdshipin.com:8880/chudian.php?id=gbjd
+#EXTINF:-1 group-title="地方频道·IPv4/IPv6",化州综合
+http://php.jdshipin.com:8880/chudian.php?id=hzzh
+#EXTINF:-1 group-title="地方频道·IPv4/IPv6",鹤山综合
+http://php.jdshipin.com:8880/chudian.php?id=hszh
+#EXTINF:-1 group-title="地方频道·IPv4/IPv6",普宁综合
+http://php.jdshipin.com:8880/chudian.php?id=pnzh
+#EXTINF:-1 group-title="地方频道·IPv4/IPv6",紫金综合
+http://php.jdshipin.com:8880/chudian.php?id=zjzh
+#EXTINF:-1 group-title="地方频道·IPv4/IPv6",阳春综合
+http://php.jdshipin.com:8880/chudian.php?id=yczh
+#EXTINF:-1 group-title="地方频道·IPv4/IPv6",怀集综合
+http://php.jdshipin.com:8880/chudian.php?id=hjzh
+#EXTINF:-1 group-title="地方频道·IPv4/IPv6",惠阳电视台
+http://php.jdshipin.com:8880/chudian.php?id=hytv
+#EXTINF:-1 group-title="地方频道·IPv4/IPv6",阳西综合
+http://php.jdshipin.com:8880/chudian.php?id=yxzh
+#EXTINF:-1 group-title="地方频道·IPv4/IPv6",台山台
+http://php.jdshipin.com:8880/chudian.php?id=tstv
+#EXTINF:-1 group-title="地方频道·IPv4/IPv6",遂溪台
+http://php.jdshipin.com:8880/chudian.php?id=sxtv
+#EXTINF:-1 group-title="地方频道·IPv4/IPv6",新会综合
+http://php.jdshipin.com:8880/chudian.php?id=xhzh
+#EXTINF:-1 group-title="地方频道·IPv4/IPv6",罗定综合
+http://php.jdshipin.com:8880/chudian.php?id=ldzh
+#EXTINF:-1 group-title="地方频道·IPv4/IPv6",和平综合
+http://php.jdshipin.com:8880/chudian.php?id=hpzh
+#EXTINF:-1 group-title="地方频道·IPv4/IPv6",东源台
+http://php.jdshipin.com:8880/chudian.php?id=dytv
+#EXTINF:-1 group-title="地方频道·IPv4/IPv6",吴川综合
+http://php.jdshipin.com:8880/chudian.php?id=wczh
+#EXTINF:-1 group-title="地方频道·IPv4/IPv6",乐昌电视台
+http://php.jdshipin.com:8880/chudian.php?id=lctv
+#EXTINF:-1 group-title="地方频道·IPv4/IPv6",潮安综合
+http://php.jdshipin.com:8880/chudian.php?id=cazh
+#EXTINF:-1 group-title="地方频道·IPv4/IPv6",深圳都市
+http://livepull-tcyzb.sztv.com.cn/showto_live/dushi01.m3u8
+#EXTINF:-1 group-title="地方频道·IPv4/IPv6",河源综合
+https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8?_upt=f767206b1671099007
+#EXTINF:-1 group-title="地方频道·IPv4/IPv6",GRTN文化
+https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1612881417-0-0-bc7ddba066481bc805fc1e800654e721
+#EXTINF:-1 group-title="地方频道·IPv4/IPv6",GRTN文化
+https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935
