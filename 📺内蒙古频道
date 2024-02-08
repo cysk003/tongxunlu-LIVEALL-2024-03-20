@@ -10,8 +10,10 @@ https://cms-play.yjhlnews.cn/live/vedio.m3u8
 #EXTINF:-1 group-title="内蒙古频道" tvg-id="鄂托克旗电视台" tvg-logo="http://tv.haoqu99.com/e/data/images/notemp.gif",鄂托克旗电视台
 http://110.19.181.138:10080/hls/F509Rh7GR/F509Rh7GR_live.m3u8
 #EXTINF:-1 group-title="内蒙古频道" tvg-id="赤峰新闻综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0319/small841040df903351338be11f80f1a95c521521472688.jpg",赤峰新闻综合频道
-http://stream.cfrtv.cn/cfzh/sd/live.m3u8?_upt=6cde47af1706337063
+http://stream.cfrtv.cn/cfzh/sd/live.m3u8?_upt=485bf1651707377523
 #EXTINF:-1 group-title="内蒙古频道" tvg-id="赤峰影视娱乐频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0319/smallc6b18be3cdb737361b025be88ef4ed951521472789.jpg",赤峰影视娱乐频道
-http://stream.cfrtv.cn/cfys/sd/live.m3u8?_upt=811d556f1706335495
+http://stream.cfrtv.cn/cfys/sd/live.m3u8?_upt=4d785fac1707374122
 #EXTINF:-1 group-title="内蒙古频道" tvg-id="赤峰经济服务频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0319/small1119d27fa7bacc89911fc4e1c5c6007a1521472871.jpg",赤峰经济服务频道
-http://stream.cfrtv.cn/cfjj/sd/live.m3u8?_upt=584974891706341986
+http://stream.cfrtv.cn/cfjj/sd/live.m3u8?_upt=1953032c1707377535
+#EXTINF:-1 group-title="内蒙古频道" tvg-id="乌兰察布生活频道" tvg-logo="http://tv.haoqu99.com/d/file/2019/1229/smalleee1e4dd810fd0feed776eb045b922b61577586793.jpg",乌兰察布生活频道
+http://pluslive.wrbtv.cn/wrbtv3/sd/live.m3u8
