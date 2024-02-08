@@ -15,6 +15,8 @@ http://live.dxhmt.cn:9081/tv/10526-1.m3u8
 http://live.dxhmt.cn:9081/tv/10581-1.m3u8
 #EXTINF:-1 group-title="河南频道" tvg-id="内黄新闻综合频道" tvg-logo="http://tv.haoqu99.com/e/data/images/notemp.gif",内黄新闻综合频道
 http://live.dxhmt.cn:9081/tv/10527-1.m3u8
+#EXTINF:-1 group-title="河南频道" tvg-id="汤阴新闻综合频道" tvg-logo="http://tv.haoqu99.com/e/data/images/notemp.gif",汤阴新闻综合频道
+http://live.dxhmt.cn:9081/tv/10523-1.m3u8
 #EXTINF:-1 group-title="河南频道" tvg-id="洛阳一套综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/1016/ff9d6c28b4d33f8e2307c6e0948dbd61.jpg",洛阳一套综合频道
 http://wshls.live.migucloud.com/live/C788MHFD_C0/playlist.m3u8
 #EXTINF:-1 group-title="河南频道" tvg-id="洛阳二套科教频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/1016/b744c5bdeba1e543025a28d0d95aaa1f.jpg",洛阳二套科教频道
@@ -22,13 +24,13 @@ http://wshls.live.migucloud.com/live/CXGQPXRK_C0/playlist.m3u8
 #EXTINF:-1 group-title="河南频道" tvg-id="洛阳三套文旅频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/1016/8de48449ec75d1b2f1023a6efab52aa8.jpg",洛阳三套文旅频道
 http://wshls.live.migucloud.com/live/FJ7Q9PIT_C0/playlist.m3u8
 #EXTINF:-1 group-title="河南频道" tvg-id="汝阳综合频道" tvg-logo="http://tv.haoqu99.com/e/data/images/notemp.gif",汝阳综合频道
-http://live.dxhmt.cn:9081/tv/10326-1.m3u8
+http://tvpull.dxhmt.cn:9081/tv/10326-1.m3u8
 #EXTINF:-1 group-title="河南频道" tvg-id="宜阳综合频道" tvg-logo="http://tv.haoqu99.com/e/data/images/notemp.gif",宜阳综合频道
 http://tvpull.dxhmt.cn:9081/tv/10327-1.m3u8
 #EXTINF:-1 group-title="河南频道" tvg-id="栾川新闻综合频道" tvg-logo="http://tv.haoqu99.com/e/data/images/notemp.gif",栾川新闻综合频道
 http://live.dxhmt.cn:9081/tv/10324-1.m3u8
 #EXTINF:-1 group-title="河南频道" tvg-id="新安电视台综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2019/1219/small6d06f45dc8a4097cf59b76ce5f5b86b81576758998.jpg",新安电视台综合频道
-http://tvpull.dxhmt.cn/tv/10323-1.m3u8
+http://live.dxhmt.cn:9081/tv/10323-1.m3u8
 #EXTINF:-1 group-title="河南频道" tvg-id="伊川电视台" tvg-logo="http://tv.haoqu99.com/e/data/images/notemp.gif",伊川电视台
 http://tvpull.dxhmt.cn:9081/tv/10329-1.m3u8
 #EXTINF:-1 group-title="河南频道" tvg-id="淇县电视台" tvg-logo="http://tv.haoqu99.com/e/data/images/notemp.gif",淇县电视台
@@ -100,7 +102,7 @@ http://live.dxhmt.cn:9081/tv/10423-1.m3u8
 #EXTINF:-1 group-title="河南频道" tvg-id="汝州新闻综合频道" tvg-logo="http://tv.haoqu99.com/e/data/images/notemp.gif",汝州新闻综合频道
 http://live.dxhmt.cn:9081/tv/10482-1.m3u8
 #EXTINF:-1 group-title="河南频道" tvg-id="汝州科教频道" tvg-logo="http://tv.haoqu99.com/e/data/images/notemp.gif",汝州科教频道
-http://tvpull.dxhmt.cn:9081/tv/10482-2.m3u8
+http://live.dxhmt.cn:9081/tv/10482-2.m3u8
 #EXTINF:-1 group-title="河南频道" tvg-id="舞钢一套新闻综合频道" tvg-logo="http://tv.haoqu99.com/e/data/images/notemp.gif",舞钢一套新闻综合频道
 http://live.dxhmt.cn:9081/tv/10481-1.m3u8
 #EXTINF:-1 group-title="河南频道" tvg-id="叶县电视台一套" tvg-logo="http://tv.haoqu99.com/e/data/images/notemp.gif",叶县电视台一套
@@ -110,7 +112,7 @@ http://live.dxhmt.cn:9081/tv/11628-1.m3u8
 #EXTINF:-1 group-title="河南频道" tvg-id="项城综合频道" tvg-logo="http://tv.haoqu99.com/e/data/images/notemp.gif",项城综合频道
 http://live.dxhmt.cn:9081/tv/11681-1.m3u8
 #EXTINF:-1 group-title="河南频道" tvg-id="西华综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2019/0916/small5828996767422b33a05d9cc4d2211fe51568623914.jpg",西华综合频道
-http://live.dxhmt.cn:9081/tv/11622-1.m3u8
+http://tvpull.dxhmt.cn:9081/tv/11622-1.m3u8
 #EXTINF:-1 group-title="河南频道" tvg-id="沈丘新闻综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2019/0916/small0b03f9f13be42ae3ed24f626b71bd1bd1568625391.jpg",沈丘新闻综合频道
 http://live.dxhmt.cn:9081/tv/11624-1.m3u8
 #EXTINF:-1 group-title="河南频道" tvg-id="郸城新闻综合频道" tvg-logo="http://tv.haoqu99.com/e/data/images/notemp.gif",郸城新闻综合频道
@@ -133,6 +135,8 @@ http://live.dxhmt.cn:9081/tv/11324-1.m3u8
 http://live.dxhmt.cn:9081/tv/11726-1.m3u8
 #EXTINF:-1 group-title="河南频道" tvg-id="平舆新闻综合频道" tvg-logo="http://tv.haoqu99.com/e/data/images/notemp.gif",平舆新闻综合频道
 http://live.dxhmt.cn:9081/tv/11723-1.m3u8
+#EXTINF:-1 group-title="河南频道" tvg-id="确山新闻综合频道" tvg-logo="http://tv.haoqu99.com/e/data/images/notemp.gif",确山新闻综合频道
+http://live.dxhmt.cn:9081/tv/11725-1.m3u8
 #EXTINF:-1 group-title="河南频道" tvg-id="上蔡一套新闻综合频道" tvg-logo="http://tv.haoqu99.com/e/data/images/notemp.gif",上蔡一套新闻综合频道
 http://live.dxhmt.cn:9081/tv/11722-1.m3u8
 #EXTINF:-1 group-title="河南频道" tvg-id="遂平一套新闻综合频道" tvg-logo="http://tv.haoqu99.com/e/data/images/notemp.gif",遂平一套新闻综合频道
