@@ -1,8 +1,7 @@
 #🐼熊猫频道
-#EXTINF:-1,tvg-id="熊猫频道" tvg-name="熊猫频道" tvg-logo="https://epg.112114.xyz/logo/熊猫.png" group-title="🐼熊猫频道",熊猫频道 24H直播
+#EXTINF:-1,tvg-id="熊猫频道 24H直播" tvg-name="熊猫频道 24H直播" tvg-logo="https://epg.112114.xyz/logo/熊猫频道24H直播.png" group-title="🐼熊猫频道",熊猫频道 24H直播
 https://gcwbndks.v.kcdnvip.com/gcwbnd/ipanda1000_2/index.m3u8
 #EXTINF:-1,tvg-id="熊猫频道" tvg-name="熊猫频道" tvg-logo="https://epg.112114.xyz/logo/熊猫.png" group-title="🐼熊猫频道",熊猫频道
 http://171.214.202.74:4000/udp/239.93.0.211:9148
-
-#EXTINF:-1,tvg-id="熊猫频道" tvg-name="熊猫频道" tvg-logo="https://epg.112114.xyz/logo/熊猫.png" group-title="🐼熊猫频道",成都大熊貓繁育研究基地
+#EXTINF:-1,tvg-id="成都大熊貓繁育研究基地" tvg-name="成都大熊貓繁育研究基地" tvg-logo="https://epg.112114.xyz/logo/成都大熊貓繁育研究基地.png" group-title="🐼熊猫频道",成都大熊貓繁育研究基地
 https://gcwbcdtxy.liveplay.myqcloud.com/gcwbcd/cdrmipanda_1/index.m3u8
