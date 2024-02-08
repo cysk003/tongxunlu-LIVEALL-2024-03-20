@@ -18,3 +18,5 @@ https://iptv.luas.edu.cn/liverespath/89ed1379f4c4cc9a436aacabc882365f512a7595/b8
 https://live.funhillrm.com/5/sd/live.m3u8
 #EXTINF:-1 group-title="北京频道" tvg-id="石景山电视台" tvg-logo="http://tv.haoqu99.com/d/file/2018/0704/small45f8c0a862f56e1fb0a1740f5c628f751530693077.jpg",石景山电视台
 http://live.sjsrm.com/bjsjs/sd/live.m3u8
+#EXTINF:-1 group-title="北京频道" tvg-id="房山电视台" tvg-logo="http://tv.haoqu99.com/d/file/2022/0326/smallf7e7002ad94212bda9fa70cacc4482af1648266813.jpg",房山电视台
+http://live.funhillrm.com/2/sd/live.m3u8
