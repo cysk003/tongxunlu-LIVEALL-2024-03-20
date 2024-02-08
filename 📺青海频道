@@ -2,9 +2,9 @@
 #EXTINF:-1 group-title="青海频道" tvg-id="安多卫视" tvg-logo="http://tv.haoqu99.com/d/file/2016/1112/374a57994e7103ce8ef306c4d5238f23.jpg",安多卫视
 http://stream.qhbtv.com/adws/sd/live.m3u8
 #EXTINF:-1 group-title="青海频道" tvg-id="青海经视频道" tvg-logo="http://tv.haoqu99.com/d/file/2021/0320/small15bc421ea75393ad60b4604b2af8f4d3.jpg",青海经视频道
-http://stream.qhbtv.com/qhsh/sd/live.m3u8?_upt=14fd1cad1706341975
+http://stream.qhbtv.com/qhsh/sd/live.m3u8?_upt=0ca7de7f1707366913
 #EXTINF:-1 group-title="青海频道" tvg-id="青海都市频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/1112/70cfb982719ac176d2711b3693bad103.jpg",青海都市频道
-http://stream.qhbtv.com/qhds/sd/live.m3u8?_upt=cd7616d61706332174
+http://stream.qhbtv.com/qhds/sd/live.m3u8?_upt=efeefead1707378479
 #EXTINF:-1 group-title="青海频道" tvg-id="西宁新闻综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/1112/ce21f1bcfbd3fa4661423626bfa05ca1.jpg",西宁新闻综合频道
 https://liveout.xntv.tv/a65jur/96iln2.m3u8
 #EXTINF:-1 group-title="青海频道" tvg-id="西宁生活服务频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/1112/31c78e268aa487753cbbd410e7a5c4a5.jpg",西宁生活服务频道
