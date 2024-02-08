@@ -1,10 +1,14 @@
 #📺上海频道
+#EXTINF:-1 group-title="上海频道" tvg-id="上海新闻综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2014/0101/20140101121833107.jpg",上海新闻综合频道
+https://volc-stream.kksmg.com/live/xwzh/index.m3u8?volcSecret=0d9997de15886ede9548ac5d22a56def&volcTime=1707451886
 #EXTINF:-1 group-title="上海频道" tvg-id="上海第一财经频道" tvg-logo="http://tv.haoqu99.com/d/file/2014/0101/20140101122047673.jpg",上海第一财经频道
-https://tencent-stream.kksmg.com/live/dycj.m3u8?txSecret=7bda21ebbd31458c24e2af91a35dfe5d&txTime=65b5d88a
+https://tencent-stream.kksmg.com/live/dycj.m3u8?txSecret=d6b60f129d0144078b1cbb49d192f82c&txTime=65c5a5f3
 #EXTINF:-1 group-title="上海频道" tvg-id="上海纪实人文频道" tvg-logo="http://tv.haoqu99.com/d/file/2020/0503/smallb11e8a694bbc5dcbbbb25ba716462574.jpg",上海纪实人文频道
-https://iptv.luas.edu.cn/liverespath/98a578339579ce91ec2443bfbd1fc3af10ee02bd/d7eb6fd013-0-0-fcedc78dde09858aa82d4b3778d9de03/index.m3u8
+https://tencent-stream.kksmg.com/live/jspd.m3u8?txSecret=093c5164a827e0952be82fe8bc3d8471&txTime=65c5a600
 #EXTINF:-1 group-title="上海频道" tvg-id="上海东方购物频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/1012/46d6ac94062c0719114cd04412e89aad.jpg",上海东方购物频道
-http://ocj2.kksmg.com/ocj2/ocj2.m3u8
+http://ocj2.kksmg.com/ocj1/ocj1.m3u8
+#EXTINF:-1 group-title="上海频道" tvg-id="上海都市频道" tvg-logo="http://tv.haoqu99.com/d/file/2019/0227/small2a5d739b76dfc706cc7b8a27628c78ae1551276022.jpg",上海都市频道
+https://tencent-stream.kksmg.com/live/ylpd.m3u8?txSecret=6f9f55777cf12b797b3d888952ed2f1f&txTime=65c5a627
 #EXTINF:-1 group-title="上海频道" tvg-id="上海金山电视台" tvg-logo="http://tv.haoqu99.com/d/file/2019/0121/small1f81f481ac3b0f3a2ad54104300057b4.jpg",上海金山电视台
 http://livejs1.newsjs.net/jspd/playlist.m3u8
 #EXTINF:-1 group-title="上海频道" tvg-id="崇明电视台" tvg-logo="http://tv.haoqu99.com/e/data/images/notemp.gif",崇明电视台
