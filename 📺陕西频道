@@ -13,3 +13,10 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001739/index.m3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001594/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="I07" tvg-name="陕西西部电影" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanxi7.png" group-title="陕西频道",陕西西部电影
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001749/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
+#EXTINF:-1 group-title="陕西频道" tvg-id="陕西农林卫视" tvg-logo="http://tv.haoqu99.com/d/file/2020/0117/small2ea19a3b78ce992293bda6a20d7166c3.jpg",陕西农林卫视
+http://stream.snrtv.com/sxbc-nl-hsxO03.m3u8
+#EXTINF:-1 group-title="陕西频道" tvg-id="延安一套新闻综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0131/small1179b7772bea1ba44ce228b03be0ac5b1517369545.jpg",延安一套新闻综合频道
+http://lives.cloud.yanews.cn/video/s10001-YATV-2/index.m3u8
+#EXTINF:-1 group-title="陕西频道" tvg-id="延安二套公共频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0131/small5289e5916524b9f55012682b3539633a1517369638.jpg",延安二套公共频道
+http://lives.cloud.yanews.cn/video/s10001-YATV-1/index.m3u8
