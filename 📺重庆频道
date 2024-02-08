@@ -1,18 +1,18 @@
 #📺重庆频道
 #EXTINF:-1 group-title="重庆频道" tvg-id="重庆新闻频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0517/small3acb7e0038edfda279eb7887faf38af2.jpg",重庆新闻频道
-https://sjlivecdn9.cbg.cn/202401271313/app_2/_definst_/ls_3.stream/chunklist.m3u8
+https://sjlivecdn9.cbg.cn/202402081129/app_2/_definst_/ls_3.stream/chunklist.m3u8
 #EXTINF:-1 group-title="重庆频道" tvg-id="重庆时尚购物频道" tvg-logo="http://tv.haoqu99.com/d/file/2020/0625/small8b5734c458942546e61af25e3758e00e.jpg",重庆时尚购物频道
 https://tvlive.ugoshop.com/ugotvlive/ssgotv.m3u8?auth_key=2312509421-0-0-6642ec3645caa943da6855a9ef7e2129
 #EXTINF:-1 group-title="重庆频道" tvg-id="荣昌综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/0703/small557aaf1dc9baf1096d17e479c08b2e731499081843.jpg",荣昌综合频道
 http://183.64.181.25:40023/rongchang01.m3u8
 #EXTINF:-1 group-title="重庆频道" tvg-id="万州综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/0629/small658c1e2250d4a57ea9c3fe295777bfa91498719246.jpg",万州综合频道
-http://wanzhoulive.cbg.cn:8017/iTXwrGs/800/live.m3u8
+http://123.146.162.24:8017/iTXwrGs/800/live.m3u8
 #EXTINF:-1 group-title="重庆频道" tvg-id="万州三峡移民频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/0629/small658c1e2250d4a57ea9c3fe295777bfa91498719246.jpg",万州三峡移民频道
-http://wanzhoulive.cbg.cn:8017/c2F0hmi/1000/live.m3u8
+http://123.146.162.24:8017/c2F0hmi/1000/live.m3u8
 #EXTINF:-1 group-title="重庆频道" tvg-id="万州影视文艺频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/0629/small658c1e2250d4a57ea9c3fe295777bfa91498719246.jpg",万州影视文艺频道
 http://wanzhoulive.cbg.cn:8017/d4ceB1a/1000/live.m3u8
 #EXTINF:-1 group-title="重庆频道" tvg-id="万州科教频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/0629/small658c1e2250d4a57ea9c3fe295777bfa91498719246.jpg",万州科教频道
-http://123.146.162.24:8017/Cz7WPb8/800/live.m3u8
+http://wanzhoulive.cbg.cn:8017/Cz7WPb8/800/live.m3u8
 #EXTINF:-1 group-title="重庆频道" tvg-id="开州综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/0630/small907707fc279765f3aa9d3fc1246ba6001498798618.png",开州综合频道
 https://qxlmlive9.cbg.cn/applive/kzpd01/chunklist.m3u8
 #EXTINF:-1 group-title="重庆频道" tvg-id="忠县综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/0630/small6e79735514de66fb5657ab8f93ea27391498832153.jpg",忠县综合频道
