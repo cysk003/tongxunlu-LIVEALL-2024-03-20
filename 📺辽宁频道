@@ -1,7 +1,13 @@
 #📺辽宁频道
 #EXTINF:-1 group-title="辽宁频道" tvg-id="大连新闻综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0621/20160621010441802.jpg",大连新闻综合频道
-http://live.dltv.cn/tcb3IB5/m67txb0.m3u8
+http://live.dltv.cn/tcb3IB5/n27t5b0.m3u8
 #EXTINF:-1 group-title="辽宁频道" tvg-id="大连生活频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0621/20160621010247354.jpg",大连生活频道
-http://live.dltv.cn/JzcFkF4/p64Jxc0.m3u8
+http://live.dltv.cn/JzcFkF4/q24J5c0.m3u8
 #EXTINF:-1 group-title="辽宁频道" tvg-id="大连电视台文体频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0621/20160621122127784.jpg",大连电视台文体频道
-http://live.dltv.cn/hxT7Fc3/56olxT0.m3u8
+http://live.dltv.cn/hxT7Fc3/62ol5T0.m3u8
+#EXTINF:-1 group-title="辽宁频道" tvg-id="大连购物8频道dltv8" tvg-logo="http://tv.haoqu99.com/d/file/2016/1008/smalla131800b119d61a7b8e75d290cb410c61475935614.jpg",大连购物8频道dltv8
+http://live.dltv.cn/N4S4uAj/95lN5S0.m3u8
+#EXTINF:-1 group-title="辽宁频道" tvg-id="锦州一套新闻综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/1117/small59a5958261bb68599cf3b898b4d4c8ac1510898790.jpg",锦州一套新闻综合频道
+http://stream.jzgbdst.cn/1/sd/live.m3u8
+#EXTINF:-1 group-title="辽宁频道" tvg-id="锦州二套教育频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/1117/small59a5958261bb68599cf3b898b4d4c8ac1510898790.jpg",锦州二套教育频道
+http://stream.jzgbdst.cn/2/sd/live.m3u8
