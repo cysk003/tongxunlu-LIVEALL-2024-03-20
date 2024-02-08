@@ -1,14 +1,8 @@
 #📺云南频道
-#EXTINF:-1 group-title="云南频道" tvg-id="云南都市频道yntv2" tvg-logo="http://tv.haoqu99.com/d/file/2016/0706/20160706014025815.jpg",云南都市频道yntv2
-http://tvlive.ynradio.com/live/yunnandushi/chunks.m3u8
 #EXTINF:-1 group-title="云南频道" tvg-id="云南娱乐频道yntv3" tvg-logo="http://tv.haoqu99.com/d/file/2016/0706/20160706013916898.jpg",云南娱乐频道yntv3
 http://tvlive.ynradio.com/live/yunnanyule/chunks.m3u8
 #EXTINF:-1 group-title="云南频道" tvg-id="云南澜湄国际频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/1013/28246fa822e2d3c9dd1956857d280451.jpg",云南澜湄国际频道
 http://tvlive.ynradio.com/live/yunnanguoji/chunks.m3u8
-#EXTINF:-1 group-title="云南频道" tvg-id="云南少儿频道yntv7" tvg-logo="http://tv.haoqu99.com/d/file/2018/0401/smallaa748a627103482f926ef9747cea22d81522588987.jpg",云南少儿频道yntv7
-http://tvlive.ynradio.com/live/yunnanshaoer/chunks.m3u8
-#EXTINF:-1 group-title="云南频道" tvg-id="丽江新闻综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/1219/small8686913c74108e4cb3e48c6d70a0f60a1513657451.jpg",丽江新闻综合频道
-https://play.live.lijiangtv.com/live/tvzh_720p.m3u8
 #EXTINF:-1 group-title="云南频道" tvg-id="红河一套新闻频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0722/small0967e5bfd5407063464a72bdb2d82f04.jpg",红河一套新闻频道
 http://file.hhtv.cc/cms/videos/nmip-media/channellive/channel1/playlist.m3u8
 #EXTINF:-1 group-title="云南频道" tvg-id="红河经济生活频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0722/small041a2f35ce8b619cf4a306a8b508836f.jpg",红河经济生活频道
