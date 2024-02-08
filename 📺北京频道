@@ -4,15 +4,17 @@ http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-id="BJ08" tvg-name="卡酷少儿" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Beijing8.png" group-title="北京频道",卡酷少儿
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
 
+#EXTINF:-1 group-title="北京频道" tvg-id="北京电视台文艺频道" tvg-logo="http://tv.haoqu99.com/d/file/2014/0512/20140512033348836.jpg",北京电视台文艺频道
+https://iptv.luas.edu.cn/liverespath/df76b690ed09ed3949eb8579ea5a7728e6cbd03f/a4fab42741-0-0-685c959eee0061fcdee508a9eaf47232/index.m3u8
 #EXTINF:-1 group-title="北京频道" tvg-id="北京体育休闲频道" tvg-logo="http://tv.haoqu99.com/d/file/2022/1019/smalleaff23569497dc384636a9cafd917125.jpg",北京体育休闲频道
-https://iptv.luas.edu.cn/liverespath/f837576f59a881e17cdd29040feea764e8c6dfd0/587bf2500b-0-0-56cf84117da9fa8dcdd5007a852c66c9/index.m3u8
+https://iptv.luas.edu.cn/liverespath/f837576f59a881e17cdd29040feea764e8c6dfd0/42cb4eb14d-0-0-90e6ce74dade7a477e3269f0e4e0df95/index.m3u8
 #EXTINF:-1 group-title="北京频道" tvg-id="北京影视频道" tvg-logo="http://tv.haoqu99.com/d/file/2014/0512/20140512033629551.jpg",北京影视频道
-https://iptv.luas.edu.cn/liverespath/d68ca2a45a66f1289325852228ee748974c431ca/9bcafd4e4b-0-0-6330233de6fb5c0c501b7ade481185dd/index.m3u8
-#EXTINF:-1 group-title="北京频道" tvg-id="BTV北京生活频道" tvg-logo="http://tv.haoqu99.com/d/file/2014/0512/20140512033703686.jpg",btv北京生活频道
-https://iptv.luas.edu.cn/liverespath/89ed1379f4c4cc9a436aacabc882365f512a7595/efc99de71e-0-0-f050641c7ff11fec570bc02230c83bb0/index.m3u8
+https://iptv.luas.edu.cn/liverespath/d68ca2a45a66f1289325852228ee748974c431ca/6f563de219-0-0-858040e5943ade5e1122a54d12bb9733/index.m3u8
+#EXTINF:-1 group-title="北京频道" tvg-id="北京电视台财经频道" tvg-logo="http://tv.haoqu99.com/d/file/2014/0512/20140512032937619.jpg",北京电视台财经频道
+https://iptv.luas.edu.cn/liverespath/da4b2d170d47e48cfd4dcd6db27b7088a876aa30/3a831f97fe-0-0-f1586490f5b2a35b390eae3b4f68bd74/index.m3u8
+#EXTINF:-1 group-title="北京频道" tvg-id="btv北京生活频道" tvg-logo="http://tv.haoqu99.com/d/file/2014/0512/20140512033703686.jpg",btv北京生活频道
+https://iptv.luas.edu.cn/liverespath/89ed1379f4c4cc9a436aacabc882365f512a7595/b82b19248e-0-0-bacb14856901989d627f5d638b0f83dc/index.m3u8
 #EXTINF:-1 group-title="北京频道" tvg-id="北京新闻频道BTV9" tvg-logo="http://tv.haoqu99.com/d/file/2014/0512/20140512034324556.jpg",北京新闻频道BTV9
 https://live.funhillrm.com/5/sd/live.m3u8
 #EXTINF:-1 group-title="北京频道" tvg-id="石景山电视台" tvg-logo="http://tv.haoqu99.com/d/file/2018/0704/small45f8c0a862f56e1fb0a1740f5c628f751530693077.jpg",石景山电视台
 http://live.sjsrm.com/bjsjs/sd/live.m3u8
-#EXTINF:-1 group-title="北京频道" tvg-id="房山电视台" tvg-logo="http://tv.haoqu99.com/d/file/2022/0326/smallf7e7002ad94212bda9fa70cacc4482af1648266813.jpg",房山电视台
-http://live.funhillrm.com/5/sd/live.m3u8
