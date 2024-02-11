@@ -474,47 +474,47 @@ http://[2409:8087:7002:20::3]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322122
 #📺上海频道
 #EXTINF:-1 group-title="上海频道",「上海」上海新闻
 http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000011000031110/index.m3u8？channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
-#EXTINF:-1 group-title="上海频道"，「上海」上海都市
+#EXTINF:-1 group-title="上海频道",「上海」上海都市
 http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000010000018926/index.m3u8？channel-id=bestzb&Contentid=5000000010000018926&livemode=1&stbId=3
-#EXTINF:-1 group-title="上海频道"，「上海」上海ICS
+#EXTINF:-1 group-title="上海频道",「上海」上海ICS
 http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000010000030951/index.m3u8？channel-id=bestzb&Contentid=5000000010000030951&livemode=1&stbId=3
-#EXTINF:-1 group-title="上海频道"，「上海」七彩戏剧
+#EXTINF:-1 group-title="上海频道",「上海」七彩戏剧
 http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000011000031116/index.m3u8？channel-id=bestzb&Contentid=5000000011000031116&livemode=1&stbId=3
-#EXTINF:-1 group-title="上海频道"，「上海」五星体育
+#EXTINF:-1 group-title="上海频道",「上海」五星体育
 http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000010000017540/index.m3u8？channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
-#EXTINF:-1 group-title="上海频道"，「上海」东方影视
+#EXTINF:-1 group-title="上海频道",「上海」东方影视
 http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000010000032212/index.m3u8？channel-id=bestzb&Contentid=5000000010000032212&livemode=1&stbId=3
-#EXTINF:-1 group-title="上海频道"，「上海」东方财经
+#EXTINF:-1 group-title="上海频道",「上海」东方财经
 http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000007000010003/index.m3u8？channel-id=bestzb&Contentid=5000000007000010003&livemode=1&stbId=3
-#EXTINF:-1 group-title="上海频道"，「上海」法治天地
+#EXTINF:-1 group-title="上海频道",「上海」法治天地
 http://[2409:8087:7001:20:1000::88]:6610/000000001000/9001547084732463424/index.m3u8？channel-id=bestzb&Contentid=9001547084732463424&livemode=1&stbId=3
-#EXTINF:-1 group-title="上海频道"，「上海」第一财经
+#EXTINF:-1 group-title="上海频道",「上海」第一财经
 http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000010000027146/index.m3u8？channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3
-#EXTINF:-1 group-title="上海频道"，「上海」东方购物
+#EXTINF:-1 group-title="上海频道",「上海」东方购物
 http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000007000010004/index.m3u8？channel-id=bestzb&Contentid=5000000007000010004&livemode=1&stbId=3
-#EXTINF:-1 group-title="上海频道"，「上海」东方卫视
+#EXTINF:-1 group-title="上海频道",「上海」东方卫视
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001336/index.m3u8？virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="上海频道"，「上海」SiTV都市剧场
+#EXTINF:-1 group-title="上海频道",「上海」SiTV都市剧场
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000909900000002108/index.m3u8？virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="上海频道"」上海新闻
+#EXTINF:-1 group-title="上海频道",「上海」上海新闻
 http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000011000031110/index.m3u8？channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
-#EXTINF:-1 group-title="上海频道"」上海都市
+#EXTINF:-1 group-title="上海频道",「上海」上海都市
 http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000010000018926/index.m3u8？channel-id=bestzb&Contentid=5000000010000018926&livemode=1&stbId=3
-#EXTINF:-1 group-title="上海频道"」上海ICS
+#EXTINF:-1 group-title="上海频道",「上海」上海ICS
 http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000010000030951/index.m3u8？channel-id=bestzb&Contentid=5000000010000030951&livemode=1&stbId=3
-#EXTINF:-1 group-title="上海频道"，「上海」七彩戏剧
+#EXTINF:-1 group-title="上海频道",「上海」七彩戏剧
 http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000011000031116/index.m3u8？channel-id=bestzb&Contentid=5000000011000031116&livemode=1&stbId=3
-#EXTINF:-1 group-title="上海频道"，「上海」五星体育
+#EXTINF:-1 group-title="上海频道",「上海」五星体育
 http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000010000017540/index.m3u8？channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
-#EXTINF:-1 group-title="上海频道"，「上海」东方影视
+#EXTINF:-1 group-title="上海频道",「上海」东方影视
 http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000010000032212/index.m3u8？channel-id=bestzb&Contentid=5000000010000032212&livemode=1&stbId=3
-#EXTINF:-1 group-title="上海频道"，「上海」东方财经
+#EXTINF:-1 group-title="上海频道",「上海」东方财经
 http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000007000010003/index.m3u8？channel-id=bestzb&Contentid=5000000007000010003&livemode=1&stbId=3
-#EXTINF:-1 group-title="上海频道"，「上海」法治天地
+#EXTINF:-1 group-title="上海频道",「上海」法治天地
 http://[2409:8087:7001:20:1000::88]:6610/000000001000/9001547084732463424/index.m3u8？channel-id=bestzb&Contentid=9001547084732463424&livemode=1&stbId=3
-#EXTINF:-1 group-title="上海频道"，「上海」第一财经
+#EXTINF:-1 group-title="上海频道",「上海」第一财经
 http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000010000027146/index.m3u8？channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3
-#EXTINF:-1 group-title="上海频道"，「上海」东方购物
+#EXTINF:-1 group-title="上海频道",「上海」东方购物
 http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000007000010004/index.m3u8？channel-id=bestzb&Contentid=5000000007000010004&livemode=1&stbId=3
 
 
