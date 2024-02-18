@@ -345,11 +345,11 @@ http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw3005294665_-433598957/ot
 #EXTINF:-1 tvg-id="「江苏」贾汪旅游" tvg-name="「江苏」贾汪旅游" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/贾汪旅游.png" group-title="江苏频道",「江苏」贾汪旅游
 http://[2409:8087:2001:20:2800:0:df6e:eb08]/wh7f454c46tw3158177609_-1622861678/ott.mobaibox.com/PLTV/3/224/3221227389/index.m3u8
 
-#EXTINF:-1 group-title="「江苏」海安新闻综合" tvg-id="「江苏」海安新闻综合" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/海安新闻综合.png" group-title="江苏频道",「江苏」海安新闻综合
+#EXTINF:-1 tvg-id="「江苏」海安新闻综合" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/海安新闻综合.png" group-title="江苏频道",「江苏」海安新闻综合
 http://haian-tv-hls.cm.jstv.com/haian-tv/haaxwzh.m3u8
-#EXTINF:-1 group-title="「江苏」如东新闻综合" tvg-id="「江苏」如东新闻综合" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/如东新闻综合.png" group-title="江苏频道",「江苏」如东新闻综合
+#EXTINF:-1 tvg-id="「江苏」如东新闻综合" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/如东新闻综合.png" group-title="江苏频道",「江苏」如东新闻综合
 http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8
-#EXTINF:-1 group-title="「江苏」东海新闻综合" tvg-id="「江苏」东海新闻综合" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/东海新闻综合.png" group-title="江苏频道",「江苏」东海新闻综合
+#EXTINF:-1 tvg-id="「江苏」东海新闻综合" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/东海新闻综合.png" group-title="江苏频道",「江苏」东海新闻综合
 http://donghai-tv-hls.cm.jstv.com/donghai-tv/donghaixinwensp.m3u8
 
 
