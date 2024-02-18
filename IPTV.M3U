@@ -1,10 +1,8 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 #🐼熊猫频道
-#EXTINF:-1,tvg-id="熊猫频道 24H直播" tvg-name="熊猫频道 24H直播" tvg-logo="https://epg.112114.xyz/logo/熊猫频道24H直播.png" group-title="🐼熊猫频道",熊猫频道 24H直播
+#EXTINF:-1,tvg-id="熊猫频道 24H直播" tvg-name="熊猫频道 24H直播" tvg-logo="https://epg.112114.xyz/logo/熊猫.png" group-title="🐼熊猫频道",熊猫频道 24H直播
 https://gcwbndks.v.kcdnvip.com/gcwbnd/ipanda1000_2/index.m3u8
-#EXTINF:-1,tvg-id="熊猫频道" tvg-name="熊猫频道" tvg-logo="https://epg.112114.xyz/logo/熊猫.png" group-title="🐼熊猫频道",熊猫频道
-http://171.214.202.74:4000/udp/239.93.0.211:9148
 
 
 #📺央视频道
@@ -342,9 +340,9 @@ http://[2409:8087:2001:20:2800:0:df6e:eb23]/wh7f454c46tw2461344193_395316009/ott
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw2927670510_1843427486/ott.mobaibox.com/PLTV/3/224/3221227040/index.m3u8
 #EXTINF:-1 tvg-id="「江苏」无锡新闻综合" tvg-name="「江苏」无锡新闻综合" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/无锡新闻综合.png" group-title="江苏频道",「江苏」无锡新闻综合
 http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw3152427644_1112931372/ott.mobaibox.com/PLTV/3/224/3221228103/index.m3u8
-#EXTINF:-1 group-title="江苏频道",「江苏」贾汪新闻
+#EXTINF:-1 tvg-id="「江苏」贾汪新闻" tvg-name="「江苏」贾汪新闻" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/贾汪新闻.png" group-title="江苏频道",「江苏」贾汪新闻
 http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw3005294665_-433598957/ott.mobaibox.com/PLTV/3/224/3221227385/index.m3u8
-#EXTINF:-1 group-title="江苏频道",「江苏」贾汪旅游
+#EXTINF:-1 tvg-id="「江苏」贾汪旅游" tvg-name="「江苏」贾汪旅游" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/贾汪旅游.png" group-title="江苏频道",「江苏」贾汪旅游
 http://[2409:8087:2001:20:2800:0:df6e:eb08]/wh7f454c46tw3158177609_-1622861678/ott.mobaibox.com/PLTV/3/224/3221227389/index.m3u8
 
 
