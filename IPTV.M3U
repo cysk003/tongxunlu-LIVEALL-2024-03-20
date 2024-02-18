@@ -314,11 +314,11 @@ http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw4002153568_939060722/ott
 http://[2409:8087:2001:20:2800:0:df6e:eb02]/wh7f454c46tw2870965829_-39927312/ott.mobaibox.com/PLTV/3/224/3221228007/index.m3u8
 #EXTINF:-1 group-title="江苏频道",「江苏」宝应生活资讯
 http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw2889103905_1760287796/ott.mobaibox.com/PLTV/3/224/3221228039/index.m3u8
-#EXTINF:-1 group-title="江苏频道",「江苏」铜山3
+#EXTINF:-1 tvg-id="「江苏」铜山3" tvg-name="「江苏」铜山3" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/铜山3.png" group-title="江苏频道",「江苏」铜山3
 http://[2409:8087:2001:20:2800:0:df6e:eb17]/wh7f454c46tw3277816327_1610783039/ott.mobaibox.com/PLTV/3/224/3221228055/index.m3u8
-#EXTINF:-1 group-title="江苏频道",「江苏」铜山2
+#EXTINF:-1 tvg-id="「江苏」铜山2" tvg-name="「江苏」铜山2" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/铜山2.png" group-title="江苏频道",「江苏」铜山2
 http://[2409:8087:2001:20:2800:0:df6e:eb06]/wh7f454c46tw3266023742_-315157707/ott.mobaibox.com/PLTV/3/224/3221228081/index.m3u8
-#EXTINF:-1 group-title="江苏频道",「江苏」铜山1
+#EXTINF:-1 tvg-id="「江苏」铜山1" tvg-name="「江苏」铜山1" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/铜山1.png" group-title="江苏频道",「江苏」铜山1
 http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw3676988403_-40659425/ott.mobaibox.com/PLTV/3/224/3221228152/index.m3u8
 #EXTINF:-1 tvg-id="「江苏」赣榆" tvg-name="「江苏」赣榆" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/赣榆.png" group-title="江苏频道",「江苏」赣榆
 http://[2409:8087:2001:20:2800:0:df6e:eb02]/wh7f454c46tw1171115665_-517528173/ott.mobaibox.com/PLTV/3/224/3221228317/index.m3u8
