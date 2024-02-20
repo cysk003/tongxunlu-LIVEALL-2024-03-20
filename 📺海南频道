@@ -1,7 +1,0 @@
-#📺海南频道
-#EXTINF:-1 group-title="海南频道" tvg-id="海口一套综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0201/smalla2ad1cf2b8f858b1d0b00c51fea1c2271517494297.jpg",海口一套综合频道
-http://124.225.35.97:16080/live/tv2401.m3u8
-#EXTINF:-1 group-title="海南频道" tvg-id="海口二套生活娱乐频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0201/small1a7e13a782f5d8212de10bff5b56ce4e1517494375.jpg",海口二套生活娱乐频道
-http://124.225.35.97:16080/live/tv2402.m3u8
-#EXTINF:-1 group-title="海南频道" tvg-id="海口三套城乡经济频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0201/small052ba0c6bfdd918f2a0a79ae7fa1c2491517494449.jpg",海口三套城乡经济频道
-http://124.225.35.97:16080/live/tv2403.m3u8
