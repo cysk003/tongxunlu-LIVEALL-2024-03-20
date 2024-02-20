@@ -1,5 +1,5 @@
 # 📺TVBox
-本仓库多仓线路
+多仓线路
 ```yaml
 https://raw.gitmirror.com/Crap996/TVBox/main/5iClub.TV
 ```
