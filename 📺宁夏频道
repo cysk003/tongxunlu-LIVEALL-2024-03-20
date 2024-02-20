@@ -1,9 +1,0 @@
-#📺宁夏频道
-#EXTINF:-1 group-title="宁夏频道" tvg-id="宁夏公共频道" tvg-logo="http://tv.haoqu99.com/d/file/2014/0530/20140530110050257.jpg",宁夏公共频道
-https://hls.ningxiahuangheyun.com/live/nxgg1M.m3u8
-#EXTINF:-1 group-title="宁夏频道" tvg-id="宁夏经济频道" tvg-logo="http://tv.haoqu99.com/d/file/2014/0530/20140530110222774.jpg",宁夏经济频道
-https://hls.ningxiahuangheyun.com/live/nxjj1M.m3u8
-#EXTINF:-1 group-title="宁夏频道" tvg-id="宁夏少儿频道" tvg-logo="http://tv.haoqu99.com/d/file/2014/0530/20140530110613295.jpg",宁夏少儿频道
-https://hls.ningxiahuangheyun.com/live/nxse1M.m3u8
-#EXTINF:-1 group-title="宁夏频道" tvg-id="宁夏电视台影视频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/1119/small5fe31c9372fa07e729b5b6734cdba3cf1542638825.jpg",宁夏电视台影视频道
-https://hls.ningxiahuangheyun.com/live/nxwl1M.m3u8
