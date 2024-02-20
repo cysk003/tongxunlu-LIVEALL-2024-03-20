@@ -1,7 +1,0 @@
-#📺新疆频道
-#EXTINF:-1 group-title="新疆频道" tvg-id="哈密电视台1套" tvg-logo="http://tv.haoqu99.com/d/file/2018/0319/smalla39fa085c140dd0cda01ae0623effda51521440468.jpg",哈密电视台1套
-http://stream.hmgbtv.com/hm1/hd/live.m3u8
-#EXTINF:-1 group-title="新疆频道" tvg-id="哈密电视台2套" tvg-logo="http://tv.haoqu99.com/d/file/2018/0319/small53bff747a6bdf0101ab35f9b7ff7b62d1521440574.jpg",哈密电视台2套
-http://stream.hmgbtv.com/hm2/hd/live.m3u8
-#EXTINF:-1 group-title="新疆频道" tvg-id="哈密电视台3套" tvg-logo="http://tv.haoqu99.com/d/file/2018/0319/small73d2ebff4a113299ffc3b5d69c92cef71521440638.jpg",哈密电视台3套
-http://stream.hmgbtv.com/hm3/hd/live.m3u8
