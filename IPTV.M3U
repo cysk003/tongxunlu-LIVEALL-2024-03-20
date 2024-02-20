@@ -589,6 +589,31 @@ http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000180630/index.
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
 
 
+#📺SITV系列
+#EXTINF:-1 tvg-id="SITV乐游" tvg-name="SITV乐游" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/SITV乐游.png" group-title="SITV系列",SITV乐游
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002157/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="SITV游戏风云·IPV6" tvg-name="SITV游戏风云·IPV6" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/SITV游戏风云.png" group-title="SITV系列",SITV游戏风云·IPV6
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226579/index.m3u8
+#EXTINF:-1 tvg-id="SITV游戏风云" tvg-name="SITV游戏风云" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/SITV游戏风云.png" group-title="SITV系列",SITV游戏风云
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031114/1.m3u8?channel-id=bestzb&Contentid=5000000011000031114&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="SITV欢笑剧场4K" tvg-name="SITV欢笑剧场4K" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/SITV欢笑剧场4K.png" group-title="SITV系列",SITV欢笑剧场4K
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="SITV动漫秀场" tvg-name="SITV动漫秀场" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/SITV动漫秀场.png" group-title="SITV系列",SITV动漫秀场
+http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000009/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000009&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="SITV法治天地" tvg-name="SITV法治天地" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/SITV法治天地.png" group-title="SITV系列",SITV法治天地
+http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000014/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000014&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="SITV魅力足球" tvg-name="SITV魅力足球" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/SITV魅力足球.png" group-title="SITV系列",SITV魅力足球
+http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000068/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000068&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="SITV七彩戏剧" tvg-name="SITV七彩戏剧" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/SITV七彩戏剧.png" group-title="SITV系列",SITV七彩戏剧
+http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000010/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000010&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="SITV生活时尚" tvg-name="SITV生活时尚" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/SITV生活时尚.png" group-title="SITV系列",SITV生活时尚
+http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000006/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000006&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="SITV都市剧场" tvg-name="SITV都市剧场" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/SITV都市剧场.png" group-title="SITV系列",SITV都市剧场
+http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000015/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000015&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="SITV东方财经" tvg-name="SITV东方财经" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/SITV东方财经.png" group-title="SITV系列",SITV东方财经
+http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000090/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000090&livemode=1&stbId=3
+
+
 #📺咪咕直播
 #EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://gcore.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="咪咕直播",咪咕直播4K-1
 http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
