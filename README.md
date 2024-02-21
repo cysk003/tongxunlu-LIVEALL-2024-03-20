@@ -5,7 +5,10 @@ https://raw.gitmirror.com/Crap996/TVBox/main/5iClub.TV
 ```
 # 🎬IPTV
 ```yaml
-https://raw.gitmirror.com/Crap996/TVBox/main/IPTV.M3U
+https://raw.gitmirror.com/Crap996/TVBox/main/IPV4.M3U
+```
+```yaml
+https://raw.gitmirror.com/Crap996/TVBox/main/IPV6.M3U
 ```
 # 📖说明
 
