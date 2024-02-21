@@ -208,7 +208,7 @@ http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078be5d654/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0MVaBO3fffRWKM%2FzNpNYjRBAiSJylXYBAiox0V94ejMfwEtXXuH8b8M%2F%2FDznZB61s
 #EXTINF:-1 tvg-id="wwbk" tvg-name="文物宝库" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/wwbk.png" group-title="数字频道",文物宝库
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078a346161/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA199v9hZiIrZ%2B5X675R6%2FGDjgcqn5UaJ6D814KM9%2FvF7QwvFfeEXMAK7LltfEC%2FKQQ
-#EXTINF:-1 tvg-id="lypd" tvg-name="梨园" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/lypd.png" group-title="数字频道",梨园
+#EXTINF:-1 tvg-id="lypd" tvg-name="梨园频道" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/lypd.png" group-title="数字高清",梨园频道
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
 #EXTINF:-1 tvg-id="tywq" tvg-name="天元围棋" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/tywq.png" group-title="数字频道",天元围棋
 http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/3/224/3221228513/index.m3u8
@@ -383,7 +383,7 @@ http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000010000027146/index.
 http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000007000010004/index.m3u8?channel-id=bestzb&Contentid=5000000007000010004&livemode=1&stbId=3
 
 
-#📺湖南频道·IPV6
+#📺湖南频道
 #EXTINF:-1 tvg-id="Cpd" tvg-name="茶频道" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/chapd.png" group-title="湖南频道",茶频道
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002305/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="Klcd" tvg-name="快乐垂钓" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/klcd.png" group-title="湖南频道",快乐垂钓
@@ -497,18 +497,18 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/mai
 
 
 #📺黑龙江频道
-#EXTINF:-1 tvg-id="HLJ01" tvg-name="黑龙江新闻法治" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Heilongjiang1.png" group-title="黑龙江频道",黑龙江新闻法治
-https://idclive.hljtv.com:4430/live/hljxw_hd.m3u8
-#EXTINF:-1 tvg-id="HLJ02" tvg-name="黑龙江文体" tvg-logo="https://gcore.jsdelivr.net/gh/wanLJglindl/TVlogo@main/img/Heilongjiang2.png" group-title="黑龙江频道",黑龙江文体
-https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8
-#EXTINF:-1 tvg-id="HLJ03" tvg-name="黑龙江影视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Heilongjiang3.png" group-title="黑龙江频道",黑龙江影视
-https://idclive.hljtv.com:4430/live/hljys_hd.m3u8
-#EXTINF:-1 tvg-id="HLJ04" tvg-name="黑龙江都市" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Heilongjiang4.png" group-title="黑龙江频道",黑龙江都市
-https://idclive.hljtv.com:4430/live/dushi_hd.m3u8
-#EXTINF:-1 tvg-id="HLJ05" tvg-name="黑龙江公共农村" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Heilongjiang5.png" group-title="黑龙江频道",黑龙江公共农村
-https://idclive.hljtv.com:4430/live/hljgg_hd.m3u8
-#EXTINF:-1 tvg-id="HLJ06" tvg-name="黑龙江少儿" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Heilongjiang6.png" group-title="黑龙江频道",黑龙江少儿
-https://idclive.hljtv.com:4430/live/hljse_hd.m3u8
+#EXTINF:-1 tvg-id="HLJ01" tvg-name="黑龙江新闻法治" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Heilongjiang1.png" group-title="黑龙江频道",黑龙江新闻法治
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225967/index.m3u8
+#EXTINF:-1 tvg-id="HLJ02" tvg-name="黑龙江文体" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Heilongjiang2.png" group-title="黑龙江频道",黑龙江文体
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225965/index.m3u8
+#EXTINF:-1 tvg-id="HLJ03" tvg-name="黑龙江影视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Heilongjiang3.png" group-title="黑龙江频道",黑龙江影视
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225973/index.m3u8
+#EXTINF:-1 tvg-id="HLJ04" tvg-name="黑龙江都市" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Heilongjiang4.png" group-title="黑龙江频道",黑龙江都市
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
+#EXTINF:-1 tvg-id="HLJ05" tvg-name="黑龙江公共农村" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Heilongjiang5.png" group-title="黑龙江频道",黑龙江公共农村
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225994/index.m3u8
+#EXTINF:-1 tvg-id="HLJ06" tvg-name="黑龙江少儿" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Heilongjiang6.png" group-title="黑龙江频道",黑龙江少儿
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225979/index.m3u8
 
 
 #📺NewTV频道
