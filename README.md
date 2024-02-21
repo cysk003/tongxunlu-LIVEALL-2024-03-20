@@ -1,15 +1,13 @@
-# 📺TVBox
-多仓线路
-```yaml
-https://raw.gitmirror.com/Crap996/TVBox/main/5iClub.TV
-```
-# 🎬IPTV
-```yaml
-https://raw.gitmirror.com/Crap996/TVBox/main/IPV4.M3U
-```
-```yaml
-https://raw.gitmirror.com/Crap996/TVBox/main/IPV6.M3U
-```
+
+## 🏄‍♀️源地址
+
+
+|     📦 名称      |                         🔗直播源地址                          |   🅿状态   | 🆕更新时间  |
+| :-------------: | :----------------------------------------------------------: | :-----: | :-------: | :--------: |
+| 📺IPTV(IPV4专用) | [🌐订阅链接-IPV4专用](https://raw.gitmirror.com/Crap996/TVBox/main/IPV4.M3U)| 🌕日常更新 | 2024.02.22 |
+| 📺IPTV(IPV6专用) | [🌐订阅链接-IPV6专用](https://raw.gitmirror.com/Crap996/TVBox/main/IPV6.M3U)| 🌕日常更新 | 2024.02.21 |
+| 🧢TVBOX多仓库源 | [🌐订阅链接-IPV6专用](https://raw.gitmirror.com/Crap996/TVBox/main/5iClub.TV)| 🌕日常更新 | 2024.02.21 |
+
 # 📖说明
 
 所有播放源均收集于互联网🌐，仅供测试研究使用，不得商用。
