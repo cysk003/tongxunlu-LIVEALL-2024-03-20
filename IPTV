@@ -143,13 +143,13 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226226/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="中国教育4台" tvg-logo="https://iptv-hsm.netlify.app/logo/central/CETV4.png" group-title="央视频道·IPV4",CETV4-职业教育频道
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CECTV1-汉语文化频道" tvg-logo="https://iptv-hsm.netlify.app/logo/central/" group-title="央视频道·IPV4",CECTV1-汉语文化频道
+#EXTINF:-1 tvg-id="" tvg-name="CECTV1-汉语文化频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/iPANDA.png" group-title="央视频道·IPV4",CECTV1-汉语文化频道
 http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CECTV2-国际旅游频道" tvg-logo="https://iptv-hsm.netlify.app/logo/central/" group-title="央视频道·IPV4",CECTV2-国际旅游频道
+#EXTINF:-1 tvg-id="" tvg-name="CECTV2-国际旅游频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/iPANDA.png" group-title="央视频道·IPV4",CECTV2-国际旅游频道
 http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CECTV3-国际教育频道" tvg-logo="https://iptv-hsm.netlify.app/logo/central/" group-title="央视频道·IPV4",CECTV3-国际教育频道
+#EXTINF:-1 tvg-id="" tvg-name="CECTV3-国际教育频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/iPANDA.png" group-title="央视频道·IPV4",CECTV3-国际教育频道
 http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CECTV4-国际健康频道" tvg-logo="https://iptv-hsm.netlify.app/logo/central/" group-title="央视频道·IPV4",CECTV4-国际健康频道
+#EXTINF:-1 tvg-id="" tvg-name="CECTV4-国际健康频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/iPANDA.png" group-title="央视频道·IPV4",CECTV4-国际健康频道
 http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="https://iptv-hsm.netlify.app/logo/central/CGTN.png" group-title="央视频道·IPV4",CGTN
 http://live.cgtn.com/1000/prog_index.m3u8
