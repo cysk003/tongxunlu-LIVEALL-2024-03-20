@@ -1,22 +1,22 @@
 #EXTM3U x-tvg-url="https://epg.erw.cc/e.xml,https://epg.112114.xyz/pp.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 
-#🐼熊猫频道·24H直播
-#EXTINF:-1,tvg-id="🐼熊猫频道01·24H直播" tvg-name="🐼熊猫频道01·24H直播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/iPANDA.png" group-title="🐼熊猫频道·24H",🐼熊猫频道01·24H直播
+#🐼熊猫频道·24H
+#EXTINF:-1,tvg-id="熊猫频道01·24H" tvg-name="熊猫频道01·24H" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/iPANDA.png" group-title="熊猫频道·24H",熊猫频道01·24H
 https://gcwbndks.v.kcdnvip.com/gcwbnd/xiongmao01_2/index.m3u8
-#EXTINF:-1,tvg-id="🐼熊猫频道02·24H直播" tvg-name="🐼熊猫频道02·24H直播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/iPANDA.png" group-title="🐼熊猫频道·24H",🐼熊猫频道02·24H直播
+#EXTINF:-1,tvg-id="熊猫频道02·24H" tvg-name="熊猫频道02·24H" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/iPANDA.png" group-title="熊猫频道·24H",熊猫频道02·24H
 https://gcwbndks.v.kcdnvip.com/gcwbnd/xiongmao12_2/index.m3u8
-#EXTINF:-1,tvg-id="🐼熊猫频道03·24H直播" tvg-name="🐼熊猫频道03·24H直播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/iPANDA.png" group-title="🐼熊猫频道·24H",🐼熊猫频道03·24H直播
+#EXTINF:-1,tvg-id="熊猫频道03·24H" tvg-name="熊猫频道03·24H" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/iPANDA.png" group-title="熊猫频道·24H",熊猫频道03·24H
 https://gcwbndks.v.kcdnvip.com/gcwbnd/xiongmao13_2/index.m3u8
-#EXTINF:-1,tvg-id="🐼熊猫频道04·24H直播" tvg-name="🐼熊猫频道04·24H直播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/iPANDA.png" group-title="🐼熊猫频道·24H",🐼熊猫频道04·24H直播
+#EXTINF:-1,tvg-id="熊猫频道04·24H" tvg-name="熊猫频道04·24H" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/iPANDA.png" group-title="熊猫频道·24H",熊猫频道04·24H
 https://gcwbndks.v.kcdnvip.com/gcwbnd/xiongmao14_2/index.m3u8
-#EXTINF:-1,tvg-id="🐼熊猫频道05·24H直播" tvg-name="🐼熊猫频道05·24H直播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/iPANDA.png" group-title="🐼熊猫频道·24H",🐼熊猫频道05·24H直播
+#EXTINF:-1,tvg-id="熊猫频道05·24H" tvg-name="熊猫频道05·24H" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/iPANDA.png" group-title="熊猫频道·24H",熊猫频道05·24H
 https://gcwbndks.v.kcdnvip.com/gcwbnd/xiongmao15_2/index.m3u8
-#EXTINF:-1,tvg-id="🐼熊猫频道06·24H直播" tvg-name="🐼熊猫频道06·24H直播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/iPANDA.png" group-title="🐼熊猫频道·24H",🐼熊猫频道06·24H直播
+#EXTINF:-1,tvg-id="熊猫频道06·24H" tvg-name="熊猫频道06·24H" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/iPANDA.png" group-title="熊猫频道·24H",熊猫频道06·24H
 https://gcwbndks.v.kcdnvip.com/gcwbnd/xiongmao16_2/index.m3u8
-#EXTINF:-1,tvg-id="🐼熊猫频道07·24H直播" tvg-name="🐼熊猫频道07·24H直播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/iPANDA.png" group-title="🐼熊猫频道·24H",🐼熊猫频道07·24H直播
+#EXTINF:-1,tvg-id="熊猫频道07·24H" tvg-name="熊猫频道07·24H" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/iPANDA.png" group-title="熊猫频道·24H",熊猫频道07·24H
 https://gcwbndks.v.kcdnvip.com/gcwbnd/xiongmao18_2/index.m3u8
-#EXTINF:-1,tvg-id="🐼熊猫频道08·24H直播" tvg-name="🐼熊猫频道08·24H直播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/iPANDA.png" group-title="🐼熊猫频道·24H",🐼熊猫频道08·24H直播
+#EXTINF:-1,tvg-id="熊猫频道08·24H" tvg-name="熊猫频道08·24H" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/iPANDA.png" group-title="熊猫频道·24H",熊猫频道08·24H
 https://gcwbndks.v.kcdnvip.com/gcwbnd/xiongmao20_2/index.m3u8
 
 #📺央视频道·IPV6
