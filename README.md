@@ -1,4 +1,4 @@
-# ClodQiu's TVB📺
+### ClodQiu's TVB📺
 🎈**高清、流畅、几近完美**的直播观看体验🎈**强迫症福音**
 
 - 🔮本播放列表完美集成**高清台标**
@@ -7,7 +7,7 @@
 
 - 🈶几乎每个频道都有**完整**的预告[`咪咕除外`]
 
-# 📖说明
+## 📖说明
 
 所有播放源均收集于互联网🌐，仅供测试研究使用，不得商用。
 
@@ -24,7 +24,6 @@
 
 ## 🏄‍♀️源地址
 
-
 |     📦 名称      |                         🔗直播源地址                          |   🅿状态   | 🆕更新时间  |
 | :-------------: | :----------------------------------------------------------: | :-------: | :--------: |
 | 📺IPTV(IPV4专用) | [🌐订阅链接-IPV4专用](https://raw.gitmirror.com/Crap996/TVBox/main/IPV4.M3U)| 🌕日常更新 | 2024.02.22 |
@@ -33,13 +32,15 @@
 
 <u>注：以上源请点击链接右键复制[PC]/或长按复制[移动设备]</u>
 
-### 📝关于TVBOX和DIYP上的EPG接口
+## 🛠️EPG
 
-- erw.cc：`https://epg.erw.cc/api/diyp/?ch={name}&date={date}` *<u>推荐✨节目信息比较准确</u>*
+科普🎭：电子节目指南（electrical program guide，简称EPG）是Electronic Program Guide的英文缩写，意思是电子节目菜单，即节目预告。
 
-- 112114：`https://epg.112114.xyz/?ch={name}&date={date}` <u>*推荐✨节目覆盖范围较广*</u>
+- ERW.CC：`https://epg.erw.cc/api/diyp/?ch={name}&date={date}` *<u>推荐✨节目信息比较准确</u>*
 
-# 🎬IPTV播放器
+- 112114.XYZ：`https://epg.112114.xyz/?ch={name}&date={date}` <u>*推荐✨节目覆盖范围较广*</u>
+
+## 🎬IPTV播放器
 
 📺Android TV：Tivimate[强烈推荐✨✨app付费，但体验极好]，Televizo
 
