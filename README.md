@@ -1,12 +1,11 @@
+# ClodQiu's TVB📺
+🎈**高清、流畅、几近完美**的直播观看体验🎈**强迫症福音**
 
-## 🏄‍♀️源地址
+- 🔮本播放列表完美集成**高清台标**
 
+- 💯EPG深度**定制匹配**频道列表|**完美匹配**
 
-|     📦 名称      |                         🔗直播源地址                          |   🅿状态   | 🆕更新时间  |
-| :-------------: | :----------------------------------------------------------: | :-------: | :--------: |
-| 📺IPTV(IPV4专用) | [🌐订阅链接-IPV4专用](https://raw.gitmirror.com/Crap996/TVBox/main/IPV4.M3U)| 🌕日常更新 | 2024.02.22 |
-| 📺IPTV(IPV6专用) | [🌐订阅链接-IPV6专用](https://raw.gitmirror.com/Crap996/TVBox/main/IPV6.M3U)| 🌕日常更新 | 2024.02.21 |
-| 🧢TVBOX多仓库源 | [🌐订阅链接-多仓库源](https://raw.gitmirror.com/Crap996/TVBox/main/5iClub.TV)| 🌕日常更新 | 2024.02.21 |
+- 🈶几乎每个频道都有**完整**的预告[`咪咕除外`]
 
 # 📖说明
 
@@ -23,6 +22,23 @@
 <img alt="GitHub" src="https://img.shields.io/github/license/ClodQiu/TVBox">
 </p>
 
+## 🏄‍♀️源地址
+
+
+|     📦 名称      |                         🔗直播源地址                          |   🅿状态   | 🆕更新时间  |
+| :-------------: | :----------------------------------------------------------: | :-------: | :--------: |
+| 📺IPTV(IPV4专用) | [🌐订阅链接-IPV4专用](https://raw.gitmirror.com/Crap996/TVBox/main/IPV4.M3U)| 🌕日常更新 | 2024.02.22 |
+| 📺IPTV(IPV6专用) | [🌐订阅链接-IPV6专用](https://raw.gitmirror.com/Crap996/TVBox/main/IPV6.M3U)| 🌕日常更新 | 2024.02.21 |
+| 🧢TVBOX多仓库源 | [🌐订阅链接-多仓库源](https://raw.gitmirror.com/Crap996/TVBox/main/5iClub.TV)| 🌕日常更新 | 2024.02.21 |
+
+<u>注：以上源请点击链接右键复制[PC]/或长按复制[移动设备]</u>
+
+### 📝关于TVBOX和DIYP上的EPG接口
+
+- erw.cc：`https://epg.erw.cc/api/diyp/?ch={name}&date={date}` *<u>推荐✨节目信息比较准确</u>*
+
+- 112114：`https://epg.112114.xyz/?ch={name}&date={date}` <u>*推荐✨节目覆盖范围较广*</u>
+
 # 🎬IPTV播放器
 
 📺Android TV：Tivimate[强烈推荐✨✨app付费，但体验极好]，Televizo
@@ -37,7 +53,12 @@
 
 📲Android：Televizo [推荐✨手机上体验不错、有广告、有内购]
 
-
+## 💡致谢：
+- Logo来源：[https://github.com/wanglindl/TVlogo](https://github.com/wanglindl/TVlogo)[`特别感谢`]
+- wcb1969：[https://github.com/wcb1969/iptv](https://github.com/wcb1969/iptv)[`特别感谢`]
+- fanmingming：[https://github.com/fanmingming/live](https://github.com/fanmingming/live)[`特别感谢`]
+- [erc.cc](https://epg.erw.cc/)及[112114](https://epg.112114.xyz)提供的epg接口[`特别感谢`]
+- GitHub及互联网其他资源[`特别感谢`]
 
 # 自用仓库，如果喜欢，请Fork自用，谢谢！
 
