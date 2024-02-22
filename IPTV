@@ -4,6 +4,8 @@
 #🐼熊猫频道
 #EXTINF:-1,tvg-id="熊猫频道01 24H直播" tvg-name="熊猫频道01 24H直播" tvg-logo="https://epg.112114.xyz/logo/熊猫.png" group-title="🐼熊猫频道",熊猫频道01 24H直播
 https://gcwbndks.v.kcdnvip.com/gcwbnd/ipanda1000_2/index.m3u8
+#EXTINF:-1,tvg-id="熊猫频道00 24H直播" tvg-name="熊猫频道00 24H直播" tvg-logo="https://epg.112114.xyz/logo/熊猫.png" group-title="🐼熊猫频道",熊猫频道00 24H直播
+https://gcwbndks.v.kcdnvip.com/gcwbnd/ipanda1001_2/index.m3u8
 #EXTINF:-1,tvg-id="熊猫频道02 24H直播" tvg-name="熊猫频道02 24H直播" tvg-logo="https://epg.112114.xyz/logo/熊猫.png" group-title="🐼熊猫频道",熊猫频道02 24H直播
 https://gcwbndks.v.kcdnvip.com/gcwbnd/xiongmao01_2/index.m3u8
 #EXTINF:-1,tvg-id="熊猫频道03 24H直播" tvg-name="熊猫频道03 24H直播" tvg-logo="https://epg.112114.xyz/logo/熊猫.png" group-title="🐼熊猫频道",熊猫频道03 24H直播
