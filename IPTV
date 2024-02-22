@@ -203,7 +203,7 @@ http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
 #EXTINF:-1 tvg-id="CCTVyswhjp" tvg-name="文化精品" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVyswhjp.png" group-title="数字频道",文化精品
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
-#EXTINF:-1 tvg-id="CCTVystq" tvg-name="央视频道·IPV4球" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVystq.png" group-title="数字频道",央视频道·IPV4球
+#EXTINF:-1 tvg-id="CCTVystq" tvg-name="央视台球" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVystq.png" group-title="数字频道",央视台球
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
 #EXTINF:-1 tvg-id="CCTVgefwq" tvg-name="高尔夫网球" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVgefwq.png" group-title="数字频道",高尔夫网球
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
