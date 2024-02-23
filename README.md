@@ -42,17 +42,17 @@
 
 ## 🎬IPTV播放器
 
-📺Android TV：Tivimate[强烈推荐✨✨app付费，但体验极好]，Televizo
+📺**Android TV：**[Tivimate](https://play.google.com/store/apps/details?id=ar.tvplayer.tv&hl=zh&gl=US)[强烈推荐✨✨`app付费，但体验极好`]，[Televizo](https://files.televizo.net/televizo-default.apk)
 
-💻Windows：Potplayer[Windows上最好用的本地视频播放器]，VLC[开源神器]
+💻**Windows：**[Potplayer](https://potplayer.daum.net/)[`Windows上最好用的本地视频播放器`]，[VLC](https://www.videolan.org/)[`开源神器`]
 
-📱IOS：APTV[推荐✨]，ntPlayer[不限制订阅数量、良心，有内购去广告]
+📱**IOS：**[APTV](https://apps.apple.com/cn/app/aptv/id1630403500)[推荐✨]，[ntPlayer](https://apps.apple.com/cn/app/ntplayer/id1613758141)[`不限制订阅数量、良心，有内购去广告`]
 
-📡MAC：APTV[推荐✨]，IINA[Mac上最好用的本地视频播放器]
+📡**MAC：**[APTV](https://apps.apple.com/cn/app/aptv/id1630403500)[推荐✨]，[IINA](https://github.com/iina/iina)[`Mac上最好用的本地视频播放器`]
 
-💽Apple TV：APTV[推荐✨体验好，跨平台]
+💽**Apple TV：**[APTV](https://apps.apple.com/cn/app/aptv/id1630403500)[推荐✨`体验好，跨平台`]
 
-📲Android：Televizo [推荐✨手机上体验不错、有广告、有内购]
+📲**Android：**[Televizo](https://files.televizo.net/televizo-default.apk) [推荐✨`手机上体验不错、有广告、有内购`]
 
 ## 💡致谢：
 - Logo来源：[https://github.com/wanglindl/TVlogo](https://github.com/wanglindl/TVlogo)[`特别感谢`]
