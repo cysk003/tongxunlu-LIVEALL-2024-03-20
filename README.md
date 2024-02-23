@@ -29,7 +29,6 @@
 | :-------------: | :----------------------------------------------------------: | :-------: | :--------: |
 | 📺IPTV(IPv4/IPv6双栈) | [🌐订阅链接-IPv4/IPv6双栈](https://url.5iclub.cloudns.org/IPTV)| 🌕日常更新 | 2024.02.22 |
 | 🧢TVBOX多仓库源 | [🌐订阅链接-多仓库源](https://raw.gitmirror.com/Crap996/TVBox/main/5iClub.TV)| 🌕日常更新 | 2024.02.21 |
-| 📺TVBOX直播源 | [🌐订阅链接-TVBOX专用](https://url.5iclub.cloudns.org/ITV.IPV4)| 🌕日常更新 | 每4H更新 |
 
 <u>注：以上源请点击链接右键复制[PC]/或长按复制[移动设备]</u>
 
