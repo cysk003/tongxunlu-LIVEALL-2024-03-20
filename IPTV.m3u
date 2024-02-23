@@ -735,39 +735,39 @@ http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225979/index.m3u8
 
 #📺豫·频道
 #EXTINF:-1 tvg-id="henan01" tvg-name="河南卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/河南卫视.png" group-title="豫·频道",河南卫视
-http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=afed47782679809d41f35c65721aa482&wsTime=1708684512
+http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=9df746c78278b6ca7ad51055cbdf1c32&wsTime=1708707014
 #EXTINF:-1 tvg-id="henan02" tvg-name="新闻频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/河南新闻频道.png" group-title="豫·频道",新闻频道
-http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=19ee7801082bc9bb6d1fb8ae5cc628bc&wsTime=1708684512
+http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=51a54e1d98cfee37bf4d9ec9b89df1b8&wsTime=1708707014
 #EXTINF:-1 tvg-id="henan03" tvg-name="都市频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/河南都市频道.png" group-title="豫·频道",都市频道
-http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=2385052a53a57bd52d35b6f3551b5172&wsTime=1708684512
+http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=ee401c599b19afd1ce8475614d22f8fa&wsTime=1708707014
 #EXTINF:-1 tvg-id="henan04" tvg-name="民生频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/河南民生频道.png" group-title="豫·频道",民生频道
-http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=c9c0c96ea7d70263d245b0c7ad5ae652&wsTime=1708684512
+http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=a8ba727e32bab270a9eae7795dcdccf5&wsTime=1708707014
 #EXTINF:-1 tvg-id="henan05" tvg-name="法治频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/河南法治频道.png" group-title="豫·频道",法治频道
-http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=05c3906508fafe6f3414c123438ddabb&wsTime=1708684512
+http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=079caaed643ae34d58ba770cc36a3a2b&wsTime=1708707014
 #EXTINF:-1 tvg-id="henan06" tvg-name="公共频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/河南公共频道.png" group-title="豫·频道",公共频道
-http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=ad1f0f6ebd8ddd55bf05a7d8737198f9&wsTime=1708684512
+http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=fa82c76c7937b86a15eb8fe7e3bbade6&wsTime=1708707014
 #EXTINF:-1 tvg-id="henan07" tvg-name="乡村频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/河南乡村频道.png" group-title="豫·频道",乡村频道
-http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=845a21e35c1bf0d5ebb9c04a78ae0f9e&wsTime=1708684512
+http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=26f9b1fb05066a83e2fa2749c916d43b&wsTime=1708707014
 #EXTINF:-1 tvg-id="henan08" tvg-name="电视剧频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/河南电视剧频道.png" group-title="豫·频道",电视剧频道
-http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=989d48be788ec4b8d65cadfe070247fe&wsTime=1708684512
+http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=7b702f2ae4ea40aa4694ff0ae9935691&wsTime=1708707014
 #EXTINF:-1 tvg-id="henan09" tvg-name="国际频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/河南国际频道.png" group-title="豫·频道",国际频道
-http://tvcdn.stream3.hndt.com/tv/65b7751f017e1000d8998f0900000000_transios/playlist.m3u8?wsSecret=67aaa69eaf8032e3dcd5629c16bb61db&wsTime=1708684512
+http://tvcdn.stream3.hndt.com/tv/65b7751f017e1000d8998f0900000000_transios/playlist.m3u8?wsSecret=cd2eeba27fbd47f70f501e982cc69344&wsTime=1708707014
 #EXTINF:-1 tvg-id="henan10" tvg-name="梨园频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/河南梨园频道.png" group-title="豫·频道",梨园频道
-http://tvcdn.stream3.hndt.com/tv/65b67b15017e1000258a2b2400000000_transios/playlist.m3u8?wsSecret=ac1cbad1b4e10478634ccaf98822f9d1&wsTime=1708684512
+http://tvcdn.stream3.hndt.com/tv/65b67b15017e1000258a2b2400000000_transios/playlist.m3u8?wsSecret=f67a9d5d7f103b12d536e9333f641fe4&wsTime=1708707014
 #EXTINF:-1 tvg-id="henan11" tvg-name="文物宝库" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/河南文物宝库.png" group-title="豫·频道",文物宝库
-http://tvcdn.stream3.hndt.com/tv/65b5a69d017e1000aa645bea00000000_transios/playlist.m3u8?wsSecret=12ef934f9635331f20f3f53759a470ad&wsTime=1708684512
+http://tvcdn.stream3.hndt.com/tv/65b5a69d017e1000aa645bea00000000_transios/playlist.m3u8?wsSecret=43109fcd65d31cc17fcb6a095dac54a9&wsTime=1708707014
 #EXTINF:-1 tvg-id="henan12" tvg-name="武术世界" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/河南武术世界.png" group-title="豫·频道",武术世界
-http://tvcdn.stream3.hndt.com/tv/65b4b750017e1000dbb9306200000000_transios/playlist.m3u8?wsSecret=0d5078699528420da68f811e2cdb3c99&wsTime=1708684512
+http://tvcdn.stream3.hndt.com/tv/65b4b750017e1000dbb9306200000000_transios/playlist.m3u8?wsSecret=4593dafa9244669a67ca8045c0e5163f&wsTime=1708707014
 #EXTINF:-1 tvg-id="henan13" tvg-name="睛彩中原" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/河南睛彩中原.png" group-title="豫·频道",睛彩中原
-http://tvcdn.stream3.hndt.com/tv/65b27d4c017e100039bd55c200000000_transios/playlist.m3u8?wsSecret=d9db68e8eb5f343bd4ea062c02f0bf99&wsTime=1708684512
+http://tvcdn.stream3.hndt.com/tv/65b27d4c017e100039bd55c200000000_transios/playlist.m3u8?wsSecret=dac4bc6a458a69697cfa02928b811efd&wsTime=1708707014
 #EXTINF:-1 tvg-id="henan14" tvg-name="移动戏曲频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/河南移动戏曲频道.png" group-title="豫·频道",移动戏曲频道
-https://tvcdn.stream3.hndt.com/tv/160ea8971f8b41f0905f88c7afe3effe_transios/playlist.m3u8?wsSecret=1d934ef556bf29a982fb5d3e2e21f530&wsTime=1708684512
+https://tvcdn.stream3.hndt.com/tv/160ea8971f8b41f0905f88c7afe3effe_transios/playlist.m3u8?wsSecret=d52f0c52811cec33cdfa2707f4e31438&wsTime=1708707014
 #EXTINF:-1 tvg-id="henan15" tvg-name="象视界" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/河南象视界.png" group-title="豫·频道",象视界
-http://tvcdn.stream3.hndt.com/tv/d34d1a2b0178100022de972e00000000_transios/playlist.m3u8?wsSecret=3eb380e91a2fdf6799b29d95b8fbaea0&wsTime=1708684512
+http://tvcdn.stream3.hndt.com/tv/d34d1a2b0178100022de972e00000000_transios/playlist.m3u8?wsSecret=a0c4947446f0a7b5279991ce3a95bae7&wsTime=1708707014
 #EXTINF:-1 tvg-id="henan16" tvg-name="国学频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/河南国学频道.png" group-title="豫·频道",国学频道
-http://tvcdn.stream3.hndt.com/tv/7a2078d40184100092f63e9d00000000_transios/playlist.m3u8?wsSecret=a14e359cb595e121a04f2860eb0c5825&wsTime=1708684512
+http://tvcdn.stream3.hndt.com/tv/7a2078d40184100092f63e9d00000000_transios/playlist.m3u8?wsSecret=bae29f1dc603b484c51f95d13ba196d3&wsTime=1708707014
 #EXTINF:-1 tvg-id="henan17" tvg-name="欢腾购物" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/河南欢腾购物.png" group-title="豫·频道",欢腾购物
-http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=79dbc6669a4dbf7df1c21a9821a4134b&wsTime=1708684512
+http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=12ee245e1ab8796cd0f5f7b41c9882df&wsTime=1708707014
 
 
 #📺NewTV频道
