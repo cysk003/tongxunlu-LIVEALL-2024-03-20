@@ -742,39 +742,39 @@ http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225979/index.m3u8
 
 
 #📺豫·频道
-#EXTINF:-1 tvg-id="henan01" tvg-name="河南卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/河南卫视.png" group-title="湘·频道",河南卫视
+#EXTINF:-1 tvg-id="henan01" tvg-name="河南卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/河南卫视.png" group-title="豫·频道",河南卫视
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/main/m3u8/henan/henan01.m3u8
-#EXTINF:-1 tvg-id="henan02" tvg-name="新闻频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/河南新闻频道.png" group-title="湘·频道",新闻频道
+#EXTINF:-1 tvg-id="henan02" tvg-name="新闻频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/河南新闻频道.png" group-title="豫·频道",新闻频道
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/main/m3u8/henan/henan02.m3u8
-#EXTINF:-1 tvg-id="henan03" tvg-name="都市频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/河南都市频道.png" group-title="湘·频道",都市频道
+#EXTINF:-1 tvg-id="henan03" tvg-name="都市频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/河南都市频道.png" group-title="豫·频道",都市频道
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/main/m3u8/henan/henan03.m3u8
-#EXTINF:-1 tvg-id="henan04" tvg-name="民生频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/河南民生频道.png" group-title="湘·频道",民生频道
+#EXTINF:-1 tvg-id="henan04" tvg-name="民生频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/河南民生频道.png" group-title="豫·频道",民生频道
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/main/m3u8/henan/henan04.m3u8
-#EXTINF:-1 tvg-id="henan05" tvg-name="法治频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/河南法治频道.png" group-title="湘·频道",法治频道
+#EXTINF:-1 tvg-id="henan05" tvg-name="法治频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/河南法治频道.png" group-title="豫·频道",法治频道
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/main/m3u8/henan/henan05.m3u8
-#EXTINF:-1 tvg-id="henan06" tvg-name="公共频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/河南公共频道.png" group-title="湘·频道",公共频道
+#EXTINF:-1 tvg-id="henan06" tvg-name="公共频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/河南公共频道.png" group-title="豫·频道",公共频道
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/main/m3u8/henan/henan06.m3u8
-#EXTINF:-1 tvg-id="henan07" tvg-name="乡村频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/河南乡村频道.png" group-title="湘·频道",乡村频道
+#EXTINF:-1 tvg-id="henan07" tvg-name="乡村频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/河南乡村频道.png" group-title="豫·频道",乡村频道
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/main/m3u8/henan/henan07.m3u8
-#EXTINF:-1 tvg-id="henan08" tvg-name="电视剧频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/河南电视剧频道.png" group-title="湘·频道",电视剧频道
+#EXTINF:-1 tvg-id="henan08" tvg-name="电视剧频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/河南电视剧频道.png" group-title="豫·频道",电视剧频道
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/main/m3u8/henan/henan08.m3u8
-#EXTINF:-1 tvg-id="henan09" tvg-name="国际频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/河南国际频道.png" group-title="湘·频道",国际频道
+#EXTINF:-1 tvg-id="henan09" tvg-name="国际频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/河南国际频道.png" group-title="豫·频道",国际频道
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/main/m3u8/henan/henan09.m3u8
-#EXTINF:-1 tvg-id="henan10" tvg-name="梨园频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/河南梨园频道.png" group-title="湘·频道",梨园频道
+#EXTINF:-1 tvg-id="henan10" tvg-name="梨园频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/河南梨园频道.png" group-title="豫·频道",梨园频道
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/main/m3u8/henan/henan10.m3u8
-#EXTINF:-1 tvg-id="henan11" tvg-name="文物宝库" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/河南文物宝库.png" group-title="湘·频道",文物宝库
+#EXTINF:-1 tvg-id="henan11" tvg-name="文物宝库" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/河南文物宝库.png" group-title="豫·频道",文物宝库
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/main/m3u8/henan/henan11.m3u8
-#EXTINF:-1 tvg-id="henan12" tvg-name="武术世界" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/河南武术世界.png" group-title="湘·频道",武术世界
+#EXTINF:-1 tvg-id="henan12" tvg-name="武术世界" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/河南武术世界.png" group-title="豫·频道",武术世界
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/main/m3u8/henan/henan12.m3u8
-#EXTINF:-1 tvg-id="henan13" tvg-name="睛彩中原" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/河南睛彩中原.png" group-title="湘·频道",睛彩中原
+#EXTINF:-1 tvg-id="henan13" tvg-name="睛彩中原" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/河南睛彩中原.png" group-title="豫·频道",睛彩中原
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/main/m3u8/henan/henan13.m3u8
-#EXTINF:-1 tvg-id="henan14" tvg-name="移动戏曲频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/河南移动戏曲频道.png" group-title="湘·频道",移动戏曲频道
+#EXTINF:-1 tvg-id="henan14" tvg-name="移动戏曲频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/河南移动戏曲频道.png" group-title="豫·频道",移动戏曲频道
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/main/m3u8/henan/henan14.m3u8
-#EXTINF:-1 tvg-id="henan15" tvg-name="象视界" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/河南象视界.png" group-title="湘·频道",象视界
+#EXTINF:-1 tvg-id="henan15" tvg-name="象视界" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/河南象视界.png" group-title="豫·频道",象视界
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/main/m3u8/henan/henan15.m3u8
-#EXTINF:-1 tvg-id="henan16" tvg-name="国学频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/河南国学频道.png" group-title="湘·频道",国学频道
+#EXTINF:-1 tvg-id="henan16" tvg-name="国学频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/河南国学频道.png" group-title="豫·频道",国学频道
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/main/m3u8/henan/henan16.m3u8
-#EXTINF:-1 tvg-id="henan17" tvg-name="欢腾购物" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/河南欢腾购物.png" group-title="湘·频道",欢腾购物
+#EXTINF:-1 tvg-id="henan17" tvg-name="欢腾购物" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/河南欢腾购物.png" group-title="豫·频道",欢腾购物
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/main/m3u8/henan/henan17.m3u8
 
 
