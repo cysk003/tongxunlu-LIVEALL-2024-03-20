@@ -779,17 +779,17 @@ http://tvcdn.stream3.hndt.com/tv/7a2078d40184100092f63e9d00000000_transios/playl
 http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=7e5e2a1b823aa3e027dcc5bea797ace2&wsTime=1708869320
 
 #📺貴·频道
-#EXTINF:-1 tvg-id="贵州公共频道" tvg-name="贵州公共频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/贵州公共频道.png" group-title="貴·频道",贵州公共频道
+#EXTINF:-1 tvg-id="公共频道" tvg-name="公共频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/贵州公共频道.png" group-title="貴·频道",公共频道
 https://9bwaz8y2.gzstv.com/live/CH02_lo.m3u8?txSecret=0febf0c59b187f3f2d0ffe8ca127b131&txTime=65DB0FA2
-#EXTINF:-1 tvg-id="贵州影视频道" tvg-name="贵州影视频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/贵州影视频道.png" group-title="貴·频道",贵州影视频道
+#EXTINF:-1 tvg-id="影视文艺频道" tvg-name="影视文艺频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/贵州影视频道.png" group-title="貴·频道",影视·文艺频道
 https://9bwaz8y2.gzstv.com/live/CH03_lo.m3u8?txSecret=af1f863cbbc496ae4a6ea23f703e029d&txTime=65DB0FA2
-#EXTINF:-1 tvg-id="贵州生活频道" tvg-name="贵州生活频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/贵州生活频道.png" group-title="貴·频道",贵州生活频道
+#EXTINF:-1 tvg-id="大众生活频道" tvg-name="大众生活频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/贵州生活频道.png" group-title="貴·频道",大众·生活频道
 https://9bwaz8y2.gzstv.com/live/CH04_lo.m3u8?txSecret=f9c7f7910adf71d52a7d8a3bf9a9335b&txTime=65DB0FA2
-#EXTINF:-1 tvg-id="贵州乡村频道" tvg-name="贵州乡村频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/贵州乡村频道.png" group-title="貴·频道",贵州乡村频道
+#EXTINF:-1 tvg-id="生态·乡村频道" tvg-name="生态·乡村频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/贵州乡村频道.png" group-title="貴·频道",生态·乡村频道
 https://9bwaz8y2.gzstv.com/live/CH05_lo.m3u8?txSecret=277305d94e0694f56ace79850b49ee67&txTime=65DB0FA3
-#EXTINF:-1 tvg-id="贵州科教健康频道" tvg-name="贵州科教健康频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/贵州科教健康频道.png" group-title="貴·频道",贵州科教健康频道
+#EXTINF:-1 tvg-id="科教健康频道" tvg-name="科教健康频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/贵州科教健康频道.png" group-title="貴·频道",科教·健康频道
 https://9bwaz8y2.gzstv.com/live/CH06_lo.m3u8?txSecret=50d4e11540015b0b48408f1d32ef6af4&txTime=65DB0FA3
-#EXTINF:-1 tvg-id="贵州经济频道" tvg-name="贵州经济频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/贵州经济频道.png" group-title="貴·频道",贵州经济频道
+#EXTINF:-1 tvg-id="经济频道" tvg-name="经济频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/贵州经济频道.png" group-title="貴·频道",经济频道
 https://hls-qnhi-live.gzstv.com/livegztv-hi/CH09_hi.m3u8?s=5ce64d561552739ef36209207388b701&ts=65db0f85
 
 
