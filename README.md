@@ -59,7 +59,6 @@
 - Meroser：[https://github.com/Meroser/IPTV](https://github.com/Meroser/IPTV)[`特别感谢`]
 - fanmingming：[https://github.com/fanmingming/live](https://github.com/fanmingming/live)[`特别感谢`]
 - Fairy8o：[https://github.com/Fairy8o/IPTV](https://github.com/Fairy8o/IPTV)[`特别感谢`]
-- LeonoreShaw：[https://github.com/LeonoreShaw/IPTV](https://github.com/LeonoreShaw/IPTV)[`特别感谢`]
 - huangsuming：[https://github.com/huangsuming/iptv](https://github.com/huangsuming/iptv)[`特别感谢`]
 - [erc.cc](https://epg.erw.cc/)及[112114](https://epg.112114.xyz)提供的epg接口[`特别感谢`]
 - GitHub及互联网其他资源[`特别感谢`]
