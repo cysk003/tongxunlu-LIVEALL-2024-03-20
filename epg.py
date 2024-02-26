@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 @Create Time ： 2023/5/11/011 20:14
-@Auth ： xiaoluoxxx
+@Auth ： ClodQiu
 @File ：epg.py
 @IDE ：PyCharm
 """
