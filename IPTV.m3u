@@ -839,8 +839,6 @@ http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000054/index.
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000038/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000038&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="爱动漫" tvg-name="爱动漫" tvg-logo="https://static.xxiao.org/TV/IHOT爱动漫.png" group-title="iHOT系列",iHOT爱动漫
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="爱都市" tvg-name="爱都市" tvg-logo="https://static.xxiao.org/TV/IHOT爱都市.png" group-title="iHOT系列",iHOT爱都市
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000080630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000080630&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="爱怀旧" tvg-name="爱怀旧" tvg-logo="https://static.xxiao.org/TV/IHOT爱怀旧.png" group-title="iHOT系列",iHOT爱怀旧
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000260630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000260630&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="爱经典" tvg-name="爱经典" tvg-logo="https://static.xxiao.org/TV/IHOT爱经典.png" group-title="iHOT系列",iHOT爱经典
