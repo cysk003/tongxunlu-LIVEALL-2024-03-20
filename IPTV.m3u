@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.erw.cc/e.xml,https://epg.112114.xyz/pp.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTM3U x-tvg-url="epg.5iclub.fun" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 
 #🐼熊猫频道·24H
