@@ -760,6 +760,8 @@ http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225979/index.m3u8
 
 
 #📺豫·频道
+#EXTINF:-1 tvg-id="henan01" tvg-name="河南卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/河南卫视.png" group-title="豫·频道",河南卫视
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/main/m3u8/henan/henan01.m3u8
 #EXTINF:-1 tvg-id="henan02" tvg-name="新闻频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/河南新闻频道.png" group-title="豫·频道",新闻频道
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/main/m3u8/henan/henan02.m3u8
 #EXTINF:-1 tvg-id="henan03" tvg-name="都市频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/河南都市频道.png" group-title="豫·频道",都市频道
