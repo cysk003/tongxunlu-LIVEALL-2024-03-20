@@ -98,14 +98,18 @@ http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001308/index.m3
 #📺央视频道·IPv4
 #EXTINF:-1 tvg-id="🎥直播中国·24H直播" tvg-name="🎥直播中国·24H直播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/直播中国.png" group-title="央视频道·IPv4",🎥直播中国·24H直播
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-logo="https://iptv-hsm.netlify.app/logo/central/CCTV1.png" group-title="央视频道·IPv4",CCTV-1 综合
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-logo="https://iptv-hsm.netlify.app/logo/central/CCTV1.png" group-title="央视频道·IPv4",CCTV1- 综合
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV2" tvg-logo="https://iptv-hsm.netlify.app/logo/central/CCTV2.png" group-title="央视频道·IPv4",CCTV-2 财经
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2" tvg-logo="https://iptv-hsm.netlify.app/logo/central/CCTV2.png" group-title="央视频道·IPv4",CCTV2- 财经
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV3" tvg-logo="https://iptv-hsm.netlify.app/logo/central/CCTV3.png" group-title="央视频道·IPv4",CCTV-3 综艺
+#EXTINF:-1 tvg-id="" tvg-name="CCTV3" tvg-logo="https://iptv-hsm.netlify.app/logo/central/CCTV3.png" group-title="央视频道·IPv4",CCTV3- 综艺
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-logo="https://iptv-hsm.netlify.app/logo/central/CCTV4.png" group-title="央视频道·IPv4",CCTV-4 中文国际频道频道
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-logo="https://iptv-hsm.netlify.app/logo/central/CCTV4.png" group-title="央视频道·IPv4",CCTV4- 中文国际
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226007/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4- 中文国际·美洲" tvg-logo="https://iptv-hsm.netlify.app/logo/central/CCTV4-美洲.png" group-title="央视频道·IPv4",CCTV4- 中文国际·美洲
+http://gmxw.7766.org:808/hls/71/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4- 中文国际·欧洲" tvg-logo="https://iptv-hsm.netlify.app/logo/central/CCTV4-欧洲.png" group-title="央视频道·IPv4",CCTV4- 中文国际·欧洲
+http://gmxw.7766.org:808/hls/67/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-logo="https://iptv-hsm.netlify.app/logo/central/CCTV5.png" group-title="央视频道·IPv4",CCTV-5 体育
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5+" tvg-logo="https://iptv-hsm.netlify.app/logo/central/CCTV5+.png" group-title="央视频道·IPv4",CCTV-5+ 体育赛事
