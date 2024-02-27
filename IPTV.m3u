@@ -797,6 +797,21 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/mai
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/main/m3u8/henan/henan17.m3u8
 
 
+#📺貴·频道
+#EXTINF:-1 tvg-id="公共频道" tvg-name="公共频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/贵州公共频道.png" group-title="貴·频道",公共频道
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/main/m3u8/guizhou/guizhou01.m3u8
+#EXTINF:-1 tvg-id="影视文艺频道" tvg-name="影视文艺频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/贵州影视频道.png" group-title="貴·频道",影视·文艺频道
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/main/m3u8/guizhou/guizhou02.m3u8
+#EXTINF:-1 tvg-id="大众生活频道" tvg-name="大众生活频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/贵州生活频道.png" group-title="貴·频道",大众·生活频道
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/main/m3u8/guizhou/guizhou03.m3u8
+#EXTINF:-1 tvg-id="生态·乡村频道" tvg-name="生态·乡村频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/贵州乡村频道.png" group-title="貴·频道",生态·乡村频道
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/main/m3u8/guizhou/guizhou04.m3u8
+#EXTINF:-1 tvg-id="科教健康频道" tvg-name="科教健康频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/贵州科教健康频道.png" group-title="貴·频道",科教·健康频道
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/main/m3u8/guizhou/guizhou05.m3u8
+#EXTINF:-1 tvg-id="经济频道" tvg-name="经济频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/贵州经济频道.png" group-title="貴·频道",经济频道
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/main/m3u8/guizhou/guizhou06.m3u8
+
+
 #📺NewTV频道
 #EXTINF:-1 tvg-id="newtv超级综艺" tvg-name="newtv超级综艺" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级综艺.png" group-title="NewTV系列",超级综艺
 http://[2409:8087:7000:20::f]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226009/index.m3u8
@@ -832,21 +847,6 @@ http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/ott.mobaibox.com/PLTV/3/224/32212
 http://[2409:8087:1a0b:df::4017]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 #EXTINF:-1 tvg-id="newtv欢乐剧场" tvg-name="newtv欢乐剧场" tvg-logo="https://live.fanmingming.com/tv/NEWTV欢乐剧场.png" group-title="NewTV系列",欢乐剧场
 http://[2409:8087:1a0b:df::4017]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-
-
-#📺貴·频道
-#EXTINF:-1 tvg-id="公共频道" tvg-name="公共频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/贵州公共频道.png" group-title="貴·频道",公共频道
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/main/m3u8/guizhou/guizhou01.m3u8
-#EXTINF:-1 tvg-id="影视文艺频道" tvg-name="影视文艺频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/贵州影视频道.png" group-title="貴·频道",影视·文艺频道
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/main/m3u8/guizhou/guizhou02.m3u8
-#EXTINF:-1 tvg-id="大众生活频道" tvg-name="大众生活频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/贵州生活频道.png" group-title="貴·频道",大众·生活频道
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/main/m3u8/guizhou/guizhou03.m3u8
-#EXTINF:-1 tvg-id="生态·乡村频道" tvg-name="生态·乡村频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/贵州乡村频道.png" group-title="貴·频道",生态·乡村频道
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/main/m3u8/guizhou/guizhou04.m3u8
-#EXTINF:-1 tvg-id="科教健康频道" tvg-name="科教健康频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/贵州科教健康频道.png" group-title="貴·频道",科教·健康频道
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/main/m3u8/guizhou/guizhou05.m3u8
-#EXTINF:-1 tvg-id="经济频道" tvg-name="经济频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/TVlogo/贵州经济频道.png" group-title="貴·频道",经济频道
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/main/m3u8/guizhou/guizhou06.m3u8
 
 
 #📺iHOT系列
