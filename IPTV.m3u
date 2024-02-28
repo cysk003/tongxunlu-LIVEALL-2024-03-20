@@ -660,6 +660,8 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/mgtv/main/m
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/mgtv/main/m3u8/hn04.m3u8
 #EXTINF:-1 tvg-id="HN07" tvg-name="湖南电视剧" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan7.png" group-title="湘·频道",湖南电视剧
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/mgtv/main/m3u8/hn03.m3u8
+#EXTINF:-1 tvg-id="快乐购" tvg-name="快乐购" tvg-logo="https://gcore.jsdelivr.net/gh/Meroser/mgtv@main/logo/cpd.png" group-title="湘·频道",快乐购
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/mgtv/main/m3u8/hn08.m3u8
 #EXTINF:-1 tvg-id="HN08" tvg-name="长沙新闻" tvg-logo="https://gcore.jsdelivr.net/gh/Meroser/mgtv@main/logo/csxw.png" group-title="湘·频道",长沙新闻
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/mgtv/main/m3u8/hn14.m3u8
 #EXTINF:-1 tvg-id="HN09" tvg-name="长沙政法" tvg-logo="https://gcore.jsdelivr.net/gh/Meroser/mgtv@main/logo/cszf.png" group-title="湘·频道",长沙政法
