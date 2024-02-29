@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://url.5iclub.cloudns.org/FMM.EPG.XML,https://url.5iclub.cloudns.org/MEROSER.EPG.XML.GZ" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTM3U x-tvg-url="https://url.5iclub.fun/FMM.EPG.XML,https://url.5iclub.fun/MEROSER.EPG.XML.GZ" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 
 #🐼熊猫频道·24H
