@@ -13,7 +13,7 @@ jobs:
       fail-fast: false
       matrix:
         include:
-          - url: https://epg.112114.xyz/pp.xml.gz
+          - url: https://epg.112114.xyz/pp.xml
             branch: 112114
           - url: http://epg.51zmt.top:8000/e.xml
             branch: 51zmt
