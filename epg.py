@@ -78,7 +78,7 @@ if __name__ == '__main__':
 
 '''
 <?xml version="1.0" encoding="UTF-8"?>
-<tv info-name="ClodQiu" info-url="https://github.com/ClodQiu/TVBox">
+<tv info-name="ClodQiu " info-url="https://github.com/ClodQiu/TVBox">
     <channel id="cctv1">
         <display-name lang="cn">CCTV-1 综合</display-name>
     </channel>
