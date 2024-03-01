@@ -100,45 +100,45 @@ http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001308/index.m3
 #📺央视频道·IPv4
 #EXTINF:-1 tvg-id="🎥直播中国·24H直播" tvg-name="🎥直播中国·24H直播" tvg-logo="https://gcore.jsdelivr.net/gh/ClodQiu/TVBox@main/TVlogo/直播中国.png" group-title="央视频道·IPv4",🎥直播中国·24H直播
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-logo="https://iptv-hsm.netlify.app/logo/central/CCTV1.png" group-title="央视频道·IPv4",CCTV1- 综合
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1综合" tvg-logo="https://iptv-hsm.netlify.app/logo/central/CCTV1.png" group-title="央视频道·IPv4",CCTV1综合
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV2" tvg-logo="https://iptv-hsm.netlify.app/logo/central/CCTV2.png" group-title="央视频道·IPv4",CCTV2- 财经
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经" tvg-logo="https://iptv-hsm.netlify.app/logo/central/CCTV2.png" group-title="央视频道·IPv4",CCTV2财经
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV3" tvg-logo="https://iptv-hsm.netlify.app/logo/central/CCTV3.png" group-title="央视频道·IPv4",CCTV3- 综艺
+#EXTINF:-1 tvg-id="" tvg-name="CCTV3综艺" tvg-logo="https://iptv-hsm.netlify.app/logo/central/CCTV3.png" group-title="央视频道·IPv4",CCTV3综艺
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-logo="https://iptv-hsm.netlify.app/logo/central/CCTV4.png" group-title="央视频道·IPv4",CCTV4- 中文国际
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际" tvg-logo="https://iptv-hsm.netlify.app/logo/central/CCTV4.png" group-title="央视频道·IPv4",CCTV4中文国际
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226007/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4- 中文国际·美洲" tvg-logo="https://iptv-hsm.netlify.app/logo/central/CCTV4-美洲.png" group-title="央视频道·IPv4",CCTV4- 中文国际·美洲
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际.美洲" tvg-logo="https://iptv-hsm.netlify.app/logo/central/CCTV4-美洲.png" group-title="央视频道·IPv4",CCTV4中文国际.美洲
 http://gmxw.7766.org:808/hls/71/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4- 中文国际·欧洲" tvg-logo="https://iptv-hsm.netlify.app/logo/central/CCTV4-欧洲.png" group-title="央视频道·IPv4",CCTV4- 中文国际·欧洲
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际.欧洲" tvg-logo="https://iptv-hsm.netlify.app/logo/central/CCTV4-欧洲.png" group-title="央视频道·IPv4",CCTV4中文国际.欧洲
 http://gmxw.7766.org:808/hls/67/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-logo="https://iptv-hsm.netlify.app/logo/central/CCTV5.png" group-title="央视频道·IPv4",CCTV-5 体育
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育" tvg-logo="https://iptv-hsm.netlify.app/logo/central/CCTV5.png" group-title="央视频道·IPv4",CCTV5体育
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5+" tvg-logo="https://iptv-hsm.netlify.app/logo/central/CCTV5+.png" group-title="央视频道·IPv4",CCTV-5+ 体育赛事
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5+体育赛事" tvg-logo="https://iptv-hsm.netlify.app/logo/central/CCTV5+.png" group-title="央视频道·IPv4",CCTV5+体育赛事
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV6" tvg-logo="https://iptv-hsm.netlify.app/logo/central/CCTV6.png" group-title="央视频道·IPv4",CCTV-6 电影
+#EXTINF:-1 tvg-id="" tvg-name="CCTV6电影" tvg-logo="https://iptv-hsm.netlify.app/logo/central/CCTV6.png" group-title="央视频道·IPv4",CCTV6电影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV7" tvg-logo="https://iptv-hsm.netlify.app/logo/central/CCTV7.png" group-title="央视频道·IPv4",CCTV-7 国防军事
+#EXTINF:-1 tvg-id="" tvg-name="CCTV7军事" tvg-logo="https://iptv-hsm.netlify.app/logo/central/CCTV7.png" group-title="央视频道·IPv4",CCTV7军事
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV8" tvg-logo="https://iptv-hsm.netlify.app/logo/central/CCTV8.png" group-title="央视频道·IPv4",CCTV-8 电视剧
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧" tvg-logo="https://iptv-hsm.netlify.app/logo/central/CCTV8.png" group-title="央视频道·IPv4",CCTV8电视剧
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV9" tvg-logo="https://iptv-hsm.netlify.app/logo/central/CCTV9.png" group-title="央视频道·IPv4",CCTV-9 纪录
+#EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录" tvg-logo="https://iptv-hsm.netlify.app/logo/central/CCTV9.png" group-title="央视频道·IPv4",CCTV9纪录
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV10" tvg-logo="https://iptv-hsm.netlify.app/logo/central/CCTV10.png" group-title="央视频道·IPv4",CCTV-10 科教
+#EXTINF:-1 tvg-id="" tvg-name="CCTV10科教" tvg-logo="https://iptv-hsm.netlify.app/logo/central/CCTV10.png" group-title="央视频道·IPv4",CCTV10科教
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV11" tvg-logo="https://iptv-hsm.netlify.app/logo/central/CCTV11.png" group-title="央视频道·IPv4",CCTV-11 戏曲
+#EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲" tvg-logo="https://iptv-hsm.netlify.app/logo/central/CCTV11.png" group-title="央视频道·IPv4",CCTV11戏曲
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV12" tvg-logo="https://iptv-hsm.netlify.app/logo/central/CCTV12.png" group-title="央视频道·IPv4",CCTV-12 社会与法
+#EXTINF:-1 tvg-id="" tvg-name="CCTV12社会与法" tvg-logo="https://iptv-hsm.netlify.app/logo/central/CCTV12.png" group-title="央视频道·IPv4",CCTV12社会与法
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV13" tvg-logo="https://iptv-hsm.netlify.app/logo/central/CCTV13.png" group-title="央视频道·IPv4",CCTV-13 新闻
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻" tvg-logo="https://iptv-hsm.netlify.app/logo/central/CCTV13.png" group-title="央视频道·IPv4",CCTV13新闻
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV14" tvg-logo="https://iptv-hsm.netlify.app/logo/central/CCTV14.png" group-title="央视频道·IPv4",CCTV-14 少儿
+#EXTINF:-1 tvg-id="" tvg-name="CCTV14少儿" tvg-logo="https://iptv-hsm.netlify.app/logo/central/CCTV14.png" group-title="央视频道·IPv4",CCTV14少儿
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV15" tvg-logo="https://iptv-hsm.netlify.app/logo/central/CCTV15.png" group-title="央视频道·IPv4",CCTV-15 音乐
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐" tvg-logo="https://iptv-hsm.netlify.app/logo/central/CCTV15.png" group-title="央视频道·IPv4",CCTV15音乐
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV16" tvg-logo="https://iptv-hsm.netlify.app/logo/central/CCTV16.png" group-title="央视频道·IPv4",CCTV-16 奥林匹克
+#EXTINF:-1 tvg-id="" tvg-name="CCTV16奥林匹克" tvg-logo="https://iptv-hsm.netlify.app/logo/central/CCTV16.png" group-title="央视频道·IPv4",CCTV16奥林匹克
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV17" tvg-logo="https://iptv-hsm.netlify.app/logo/central/CCTV17.png" group-title="央视频道·IPv4",CCTV-17 农业农村
+#EXTINF:-1 tvg-id="" tvg-name="CCTV17农业" tvg-logo="https://iptv-hsm.netlify.app/logo/central/CCTV17.png" group-title="央视频道·IPv4",CCTV17农业
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV兵器科技" tvg-logo="https://iptv-hsm.netlify.app/logo/central/CCTV-兵器科技.png" group-title="央视频道·IPv4",CCTV兵器科技
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226975/index.m3u8
@@ -172,13 +172,13 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226226/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="中国教育4台" tvg-logo="https://iptv-hsm.netlify.app/logo/central/CETV4.png" group-title="央视频道·IPv4",CETV4-职业教育频道
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CECTV1-汉语文化频道" tvg-logo="https://gcore.jsdelivr.net/gh/ClodQiu/TVBox@main/TVlogo/CECTV.png" group-title="央视频道·IPv4",CECTV1-汉语文化频道
+#EXTINF:-1 tvg-id="" tvg-name="CECTV1-汉语文化频道" tvg-logo="https://iptv-hsm.netlify.app/logo/central/" group-title="央视频道·IPv4",CECTV1-汉语文化频道
 http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CECTV2-国际旅游频道" tvg-logo="https://gcore.jsdelivr.net/gh/ClodQiu/TVBox@main/TVlogo/CECTV.png" group-title="央视频道·IPv4",CECTV2-国际旅游频道
+#EXTINF:-1 tvg-id="" tvg-name="CECTV2-国际旅游频道" tvg-logo="https://iptv-hsm.netlify.app/logo/central/" group-title="央视频道·IPv4",CECTV2-国际旅游频道
 http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CECTV3-国际教育频道" tvg-logo="https://gcore.jsdelivr.net/gh/ClodQiu/TVBox@main/TVlogo/CECTV.png" group-title="央视频道·IPv4",CECTV3-国际教育频道
+#EXTINF:-1 tvg-id="" tvg-name="CECTV3-国际教育频道" tvg-logo="https://iptv-hsm.netlify.app/logo/central/" group-title="央视频道·IPv4",CECTV3-国际教育频道
 http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CECTV4-国际健康频道" tvg-logo="https://gcore.jsdelivr.net/gh/ClodQiu/TVBox@main/TVlogo/CECTV.png" group-title="央视频道·IPv4",CECTV4-国际健康频道
+#EXTINF:-1 tvg-id="" tvg-name="CECTV4-国际健康频道" tvg-logo="https://iptv-hsm.netlify.app/logo/central/" group-title="央视频道·IPv4",CECTV4-国际健康频道
 http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="https://iptv-hsm.netlify.app/logo/central/CGTN.png" group-title="央视频道·IPv4",CGTN
 http://live.cgtn.com/1000/prog_index.m3u8
@@ -192,6 +192,10 @@ https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
 https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGTN西班牙语" tvg-logo="https://iptv-hsm.netlify.app/logo/central/CGTN-西班牙语.png" group-title="央视频道·IPv4",CGTN西班牙语
 https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNC-新华全球连线(中文)" tvg-logo="https://iptv-hsm.netlify.app/logo/central/CNC-中文台.png" group-title="央视频道·IPv4",CNC-新华全球连线(中文)
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226297/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNC-新华全球连线(英文)" tvg-logo="https://iptv-hsm.netlify.app/logo/central/CNC-英文台.png" group-title="央视频道·IPv4",CNC-新华全球连线(英文)
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226298/index.m3u8
 
 
 #📺卫视频道·IPv6
