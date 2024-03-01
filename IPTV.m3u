@@ -45,8 +45,6 @@ https://gcwbndks.v.kcdnvip.com/gcwbnd/xiongmao20_2/index.m3u8
 
 
 #📺央视频道·IPv6
-#EXTINF:-1 tvg-id="🎥直播中国·24H直播" tvg-name="🎥直播中国·24H直播" tvg-logo="https://gcore.jsdelivr.net/gh/ClodQiu/TVBox@main/TVlogo/直播中国.png" group-title="央视频道·IPv6",🎥直播中国·24H直播
-https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
 #EXTINF:-1 tvg-id="A01" tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV1.png" group-title="央视频道·IPv6",CCTV-1 综合
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="A02" tvg-name="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV2.png" group-title="央视频道·IPv6",CCTV-2 财经
@@ -98,8 +96,6 @@ http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001308/index.m3
 
 
 #📺央视频道·IPv4
-#EXTINF:-1 tvg-id="🎥直播中国·24H直播" tvg-name="🎥直播中国·24H直播" tvg-logo="https://gcore.jsdelivr.net/gh/ClodQiu/TVBox@main/TVlogo/直播中国.png" group-title="央视频道·IPv4",🎥直播中国·24H直播
-https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 tvg-id="" tvg-name="CCTV1综合" tvg-logo="https://iptv-hsm.netlify.app/logo/central/CCTV1.png" group-title="央视频道·IPv4",CCTV1综合
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV2财经" tvg-logo="https://iptv-hsm.netlify.app/logo/central/CCTV2.png" group-title="央视频道·IPv4",CCTV2财经
