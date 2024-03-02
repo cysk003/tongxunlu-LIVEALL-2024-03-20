@@ -505,8 +505,6 @@ http://[2409:8087:2001:20:2800:0:df6e:eb11]/wh7f454c46tw3530023629_201686832/ott
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw3568749588_-1882152959/ott.mobaibox.com/PLTV/4/224/3221227178/index.m3u8
 #EXTINF:-1 tvg-id="南京影视" tvg-name="南京影视" tvg-logo="https://gcore.jsdelivr.net/gh/ClodQiu/TVBox@main/TVlogo/南京影视.png" group-title="蘇·频道",南京影视
 http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3614839407_-1644050596/ott.mobaibox.com/PLTV/4/224/3221227719/index.m3u8
-#EXTINF:-1 tvg-id="南通社教" tvg-name="南通社教" tvg-logo="https://gcore.jsdelivr.net/gh/ClodQiu/TVBox@main/TVlogo/南通2.png" group-title="蘇·频道",南通社教
-http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw1356203236_1007889310/ott.mobaibox.com/PLTV/4/224/3221228448/index.m3u8?icpid=4&RTS=1664455802&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-id="南通公共" tvg-name="南通公共" tvg-logo="https://gcore.jsdelivr.net/gh/ClodQiu/TVBox@main/TVlogo/南通3.png" group-title="蘇·频道",南通公共
 http://[2409:8087:2001:20:2800:0:df6e:eb23]/wh7f454c46tw1440049912_-2025370179/ott.mobaibox.com/PLTV/4/224/3221228451/index.m3u8
 #EXTINF:-1 tvg-id="盐城2" tvg-name="盐城2" tvg-logo="https://gcore.jsdelivr.net/gh/ClodQiu/TVBox@main/TVlogo/盐城2.png" group-title="蘇·频道",盐城2
@@ -588,14 +586,10 @@ https://nt-hls.ntjoy.com/live/4f1.m3u8
 https://nt-hls.ntjoy.com/live/4f3.m3u8
 #EXTINF:-1 tvg-id="南通公共" tvg-name="南通公共" tvg-logo="https://gcore.jsdelivr.net/gh/ClodQiu/TVBox@main/TVlogo/南通3.png" group-title="蘇·频道",南通公共
 https://nt-hls.ntjoy.com/live/4f5.m3u8
-#EXTINF:-1 tvg-id="崇川TV" tvg-name="崇川TV" tvg-logo="https://gcore.jsdelivr.net/gh/ClodQiu/TVBox@main/TVlogo/崇川TV.png" group-title="蘇·频道",崇川TV
-http://zjtv-wshls.homecdn.com/live/7cc1.m3u8
 #EXTINF:-1 tvg-id="海安新闻综合" tvg-name="海安新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/ClodQiu/TVBox@main/TVlogo/海安新闻综合.png" group-title="蘇·频道",海安新闻综合
 http://haian-tv-hls.cm.jstv.com/haian-tv/haaxwzh.m3u8
 #EXTINF:-1 tvg-id="如东新闻综合" tvg-name="如东新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/ClodQiu/TVBox@main/TVlogo/如东新闻综合.png" group-title="蘇·频道",如东新闻综合
 http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8
-#EXTINF:-1 tvg-id="东海新闻综合" tvg-name="东海新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/ClodQiu/TVBox@main/TVlogo/东海新闻综合.png" group-title="蘇·频道",东海新闻综合
-http://donghai-tv-hls.cm.jstv.com/donghai-tv/donghaixinwensp.m3u8
 
 #EXTINF:-1 tvg-id="苏州新闻综合" tvg-name="苏州新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/ClodQiu/TVBox@main/TVlogo/苏州新闻综合.png" group-title="蘇·频道",苏州新闻综合
 https://tylive.kan0512.com/norecord/norecord_csztv1.m3u8
