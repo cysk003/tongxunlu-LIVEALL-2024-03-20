@@ -168,14 +168,6 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226226/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="中国教育4台" tvg-logo="https://iptv-hsm.netlify.app/logo/central/CETV4.png" group-title="央视频道·IPv4",CETV4-职业教育频道
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CECTV1-汉语文化频道" tvg-logo="https://iptv-hsm.netlify.app/logo/central/" group-title="央视频道·IPv4",CECTV1-汉语文化频道
-http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CECTV2-国际旅游频道" tvg-logo="https://iptv-hsm.netlify.app/logo/central/" group-title="央视频道·IPv4",CECTV2-国际旅游频道
-http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CECTV3-国际教育频道" tvg-logo="https://iptv-hsm.netlify.app/logo/central/" group-title="央视频道·IPv4",CECTV3-国际教育频道
-http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CECTV4-国际健康频道" tvg-logo="https://iptv-hsm.netlify.app/logo/central/" group-title="央视频道·IPv4",CECTV4-国际健康频道
-http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="https://iptv-hsm.netlify.app/logo/central/CGTN.png" group-title="央视频道·IPv4",CGTN
 http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGTN纪录" tvg-logo="https://iptv-hsm.netlify.app/logo/central/CGTN-纪录.png" group-title="央视频道·IPv4",CGTN纪录
@@ -420,7 +412,7 @@ http://[2409:8087:7000:20::F]:80/dbiptv.sn.chinamobile.com/TVOD/88888890/224/322
 #EXTINF:-1 tvg-id="jsxt" tvg-name="金色学堂" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jsxt.png" group-title="数字高清",金色学堂
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002675/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="hhxd" tvg-name="哈哈炫动" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/hhxd.png" group-title="数字高清",哈哈炫动
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001303/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000005000031641/index.m3u8?channel-id=bestzb&Contentid=5000000005000031641&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="yxfy" tvg-name="游戏风云" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/yxfy.png" group-title="数字高清",游戏风云
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226579/1.m3u8
 #EXTINF:-1 tvg-id="hxjc" tvg-name="欢笑剧场" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/hxjc4k.png" group-title="数字高清",欢笑剧场
@@ -437,12 +429,12 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078a346161/index.m
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
 #EXTINF:-1 tvg-id="cwjd" tvg-name="重温经典" tvg-logo="https://gcore.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/cwjd.png" group-title="数字高清",重温经典
 http://43.141.130.70/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
+#EXTINF:-1 tvg-id="jbty" tvg-name="劲爆体育" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jbty.png" group-title="数字高清",劲爆体育
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000002000029972/index.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="tywq" tvg-name="天元围棋" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/tywq.png" group-title="数字高清",天元围棋
 http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/3/224/3221228513/index.m3u8
 #EXTINF:-1 tvg-id="ytcq" tvg-name="弈坛春秋" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ytcq.png" group-title="数字高清",弈坛春秋
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001322/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="jbty" tvg-name="劲爆体育" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jbty.png" group-title="数字高清",劲爆体育
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001326/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 
 #📺国际时事
