@@ -282,7 +282,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225618/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="东南卫视" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/weishi/东南.png" group-title="卫视频道·IPv4",东南卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225620/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="厦门卫视" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/fujian/Xiamen-厦门卫视.png" group-title="卫视频道·IPv4",厦门卫视
+#EXTINF:-1 tvg-id="" tvg-name="厦门卫视" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/weishi/厦门.png" group-title="卫视频道·IPv4",厦门卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226219/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="甘肃卫视" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/weishi/甘肃.png" group-title="卫视频道·IPv4",甘肃卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
@@ -298,7 +298,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="海南卫视" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/weishi/海南.png" group-title="卫视频道·IPv4",海南卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225639/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="三沙卫视" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/hainan/Sansha-三沙卫视.png" group-title="卫视频道·IPv4",三沙卫视
+#EXTINF:-1 tvg-id="" tvg-name="三沙卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Sansha.png" group-title="卫视频道·IPv4",三沙卫视
 https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="河北卫视" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/weishi/河北.png" group-title="卫视频道·IPv4",河北卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
@@ -322,7 +322,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="青海卫视" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/weishi/青海.png" group-title="卫视频道·IPv4",青海卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="安多卫视" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/xizang/Anduo-安多卫视.png" group-title="卫视频道·IPv4",安多卫视
+#EXTINF:-1 tvg-id="" tvg-name="安多卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Anduo.png" group-title="卫视频道·IPv4",安多卫视
 http://stream.qhbtv.com/adws/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="山东卫视" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/weishi/山东.png" group-title="卫视频道·IPv4",山东卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
