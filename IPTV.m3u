@@ -801,41 +801,6 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/mai
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/main/m3u8/guizhou/guizhou06.m3u8
 
 
-#📺粤·频道
-#EXTINF:-1 tvg-id="" tvg-name="4K" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/gd/" group-title="粤·频道",4K
-http://glive.grtn.cn/live/lizhi.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GRTN-文化频道" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/gd/" group-title="粤·频道",GRTN-文化频道
-https://glive.grtn.cn/live/wenhua_test0203.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="嘉佳卡通" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/gd/Guangdong-嘉佳卡通.png" group-title="粤·频道",嘉佳卡通
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="广州综合" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/gd/" group-title="粤·频道",广州综合
-https://tencentplaygzrb.gztv.com/live/zonghes.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="广州新闻" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/gd/" group-title="粤·频道",广州新闻
-http://tencentplaygzrb.gztv.com/live/xinwen.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="河源综合" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/gd/" group-title="粤·频道",河源综合
-http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="河源公共" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/gd/" group-title="粤·频道",河源公共
-http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="梅州综合" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/gd/" group-title="粤·频道",梅州综合
-http://pili-live-rtmp.tvliving.gdmztv.com/meizhou-tvliving/mztv1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="梅州公共" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/gd/" group-title="粤·频道",梅州公共
-http://pili-live-rtmp.tvliving.gdmztv.com/meizhou-tvliving/mztv2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="汕头综合" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/gd/" group-title="粤·频道",汕头综合
-https://sttv-tsl.cutv.com/lKGXIQa/p4sgKgX.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="深圳都市" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/gd/Shenzhen-都市频道.png" group-title="粤·频道",深圳都市
-http://livepull-tcyzb.sztv.com.cn/live/dushi01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="阳江一套" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/gd/" group-title="粤·频道",阳江一套
-https://live.yjtvw.com:8081/live/smil:yjtv1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="阳江二套" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/gd/" group-title="粤·频道",阳江二套
-https://live.yjtvw.com:8081/live/smil:yjtv2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="云浮综合" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/gd/" group-title="粤·频道",云浮综合
-http://livestream.oeeee.com/slive/17806.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="云浮文旅" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/gd/" group-title="粤·频道",云浮文旅
-http://livestream.oeeee.com/slive/17807.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="番禺电视台" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/gd/" group-title="粤·频道",番禺电视台
-http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
-
-
 #📺NewTV频道
 #EXTINF:-1 tvg-id="newtv超级综艺" tvg-name="newtv超级综艺" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级综艺.png" group-title="NewTV系列",超级综艺
 http://[2409:8087:7000:20::f]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226009/index.m3u8
