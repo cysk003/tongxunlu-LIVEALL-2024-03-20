@@ -12,7 +12,7 @@ jobs:
     - uses: actions/checkout@v3
     - name: EPG Update
       run: |
-        rm -f e.xml && wget https://epg.112114.xyz/pp.xml -O e.xml
+        rm -f e.xml && wget https://epg.112114.xyz/pp.xml -O EPG.xml
         git config --global user.name 0sty
         git config --global user.email gougoo2010@gmai.com
         git add e.xml
