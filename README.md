@@ -55,7 +55,7 @@
 
 ## 💡致谢：
 - Logo来源：[https://github.com/wanglindl/TVlogo](https://github.com/wanglindl/TVlogo)[`特别感谢`]
-- Meroser：[https://github.com/Meroser/IPTV](https://github.com/Meroser/IPTV)[`特别感谢`]
+- Meroser：[https://github.com/Meroser](https://github.com/Meroser)[`特别感谢`]
 - fanmingming：[https://github.com/fanmingming/live](https://github.com/fanmingming/live)[`特别感谢`]
 - Fairy8o：[https://github.com/Fairy8o/IPTV](https://github.com/Fairy8o/IPTV)[`特别感谢`]
 - LeonoreShaw：[https://github.com/LeonoreShaw/static](https://github.com/LeonoreShaw/static)[`特别感谢`]
