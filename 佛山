@@ -1,0 +1,14 @@
+#EXTINF:-1 tvg-id="佛山综合" tvg-name="佛山综合" tvg-logo="https://gcore.jsdelivr.net/gh/ClodQiu/TVBox@main/TVlogo/佛山综合.png" group-title="粤·频道",佛山综合
+http://php.jdshipin.com:8880/fstv.php?id=fszh
+#EXTINF:-1 tvg-id="佛山影视" tvg-name="佛山影视" tvg-logo="https://gcore.jsdelivr.net/gh/ClodQiu/TVBox@main/TVlogo/佛山影视.png" group-title="粤·频道",佛山影视
+http://php.jdshipin.com:8880/fstv.php?id=fsys
+#EXTINF:-1 tvg-id="佛山公共" tvg-name="佛山公共" tvg-logo="https://gcore.jsdelivr.net/gh/ClodQiu/TVBox@main/TVlogo/佛山公共.png" group-title="粤·频道",佛山公共
+http://php.jdshipin.com:8880/fstv.php?id=fsgg
+#EXTINF:-1 tvg-id="佛山南海" tvg-name="佛山南海" tvg-logo="https://gcore.jsdelivr.net/gh/ClodQiu/TVBox@main/TVlogo/佛山南海.png" group-title="粤·频道",佛山南海
+http://php.jdshipin.com:8880/fstv.php?id=fsnh
+#EXTINF:-1 tvg-id="佛山顺德" tvg-name="佛山顺德" tvg-logo="https://gcore.jsdelivr.net/gh/ClodQiu/TVBox@main/TVlogo/佛山顺德.png" group-title="粤·频道",佛山顺德
+http://php.jdshipin.com:8880/fstv.php?id=fssd
+#EXTINF:-1 tvg-id="佛山高明" tvg-name="佛山高明" tvg-logo="https://gcore.jsdelivr.net/gh/ClodQiu/TVBox@main/TVlogo/佛山高明.png" group-title="粤·频道",佛山高明
+http://php.jdshipin.com:8880/fstv.php?id=fsgm
+#EXTINF:-1 tvg-id="佛山三水" tvg-name="佛山三水" tvg-logo="https://gcore.jsdelivr.net/gh/ClodQiu/TVBox@main/TVlogo/佛山三水.png" group-title="粤·频道",佛山三水
+http://php.jdshipin.com:8880/fstv.php?id=fsss
