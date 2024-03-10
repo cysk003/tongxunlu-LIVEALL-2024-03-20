@@ -13,7 +13,7 @@ jobs:
     - name: EPG Update
       run: |
         rm -f EPG.xml && wget https://epg.112114.xyz/pp.xml -O EPG.xml
-        git config --global user.name ClodQiu
+        git config --global user.name actions-user
         git config --global user.email gougoo@foxmail.com
         git add EPG.xml
         git commit -m "Update EPG.xml"
