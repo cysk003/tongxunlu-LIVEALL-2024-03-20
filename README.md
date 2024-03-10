@@ -15,5 +15,3 @@
 <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/ClodQiu/TVBox">
 <img alt="GitHub" src="https://img.shields.io/github/license/ClodQiu/TVBox">
 </p>
-
-本仓库是用来存储数据，里面的数据取自网上的公开节点，大家可以选择仓库文件前去订阅。
