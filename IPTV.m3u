@@ -197,7 +197,7 @@ http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226954/index.m3u8
 #EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/黑莓动画.png" group-title="数字频道",黑莓动画
 http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
-#EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/黑莓电影.png" group-title="数字频道",黑莓电影
+#EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png" group-title="数字频道",黑莓电影
 http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8
 #EXTINF:-1 tvg-name="精彩综艺" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/精彩综艺.png" ggroup-title="数字频道",精彩综艺
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001273/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -313,7 +313,7 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3
 http://[2409:8087:7001:20:1000::88]:6610/000000001000/9001547084732463424/index.m3u8?channel-id=bestzb&Contentid=9001547084732463424&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="七彩戏剧" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/七彩戏剧.png" group-title="SiTV系列",SiTV七彩戏剧
 http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000011000031116/index.m3u8?channel-id=bestzb&Contentid=5000000011000031116&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="全纪实" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/乐游.png" group-title="SiTV系列",SiTV乐游
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/乐游.png" group-title="SiTV系列",SiTV乐游
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000006000040025/index.m3u8?channel-id=bestzb&Contentid=5000000006000040025&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/动漫秀场.png" group-title="SiTV系列",SiTV动漫秀场
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000002000023636/index.m3u8?channel-id=bestzb&Contentid=5000000002000023636&livemode=1&stbId=3
