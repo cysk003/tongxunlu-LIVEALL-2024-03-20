@@ -1,6 +1,29 @@
 #EXTM3U x-tvg-url="https://url.5iclub.cloudns.org/FMM.EPG" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 
+#📺4K
+#EXTINF:-1 tvg-name="LoveNrture" group-title="•4K",Love Nrture 4K「自然」
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 tvg-name="Loupe" group-title="•4K",Loupe 4K
+https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+#EXTINF:-1 group-title="•4K",Fashion 4K「时尚」
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="•4K",苏州4K
+http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+#EXTINF:-1 group-title="•4K「IPV6」",8K测试「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
+#EXTINF:-1 group-title="•4K「IPV6」",爱上4K 「IPV6」
+http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
+#EXTINF:-1 group-title="•4K「IPV6」",4K 修复「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb15]/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
+#EXTINF:-1 tvg-name="纯享4K" group-title="•4K「IPV6」",纯享 4K「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/ott.mobaibox.com/PLTV/4/224/3221228242/index.m3u8
+#EXTINF:-1 tvg-name="欢笑剧场" group-title="•4K「IPV6」",SiTV欢笑剧场4K 「IPV6」
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="null" group-title="•4K「IPV6」",华数4K「IPV6」
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
+
+
 #📺央视频道•IPv6
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/CCTV1.png" group-title="央视频道•IPv6",CCTV1「IPV6」
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
