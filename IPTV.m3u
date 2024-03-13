@@ -335,61 +335,61 @@ http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225994/index.m3u8
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225979/index.m3u8
 
 #📺 NewTV系列
-#EXTINF:-1 tvg-id="超级电视剧" tvg-name="超级电视剧" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/超级电视剧.png" group-title="📺 NewTV系列",超级电视剧
+#EXTINF:-1 tvg-id="newtv超级电视剧" tvg-name="超级电视剧" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/超级电视剧.png" group-title="📺 NewTV系列",超级电视剧
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000008139/index.m3u8?channel-id=ystenlive&Contentid=1000000001000008139&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="超级电影" tvg-name="超级电影" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/超级电影.png" group-title="📺 NewTV系列",超级电影
+#EXTINF:-1 tvg-id="newtv超级电影" tvg-name="超级电影" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/超级电影.png" group-title="📺 NewTV系列",超级电影
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000012884/index.m3u8?channel-id=ystenlive&Contentid=1000000001000012884&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="军事评论" tvg-name="军事评论" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/军事评论.png" group-title="📺 NewTV系列",军事评论
+#EXTINF:-1 tvg-id="newtv军事评论" tvg-name="军事评论" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/军事评论.png" group-title="📺 NewTV系列",军事评论
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000022/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000022&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="魅力潇湘" tvg-name="魅力潇湘" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/魅力潇湘.png" group-title="📺 NewTV系列",魅力潇湘
+#EXTINF:-1 tvg-id="newtv魅力潇湘" tvg-name="魅力潇湘" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/魅力潇湘.png" group-title="📺 NewTV系列",魅力潇湘
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000006197/index.m3u8?channel-id=ystenlive&Contentid=1000000001000006197&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="热播精选" tvg-name="热播精选" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/热播精选.png" group-title="📺 NewTV系列",热播精选
+#EXTINF:-1 tvg-id="newtv热播精选" tvg-name="热播精选" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/热播精选.png" group-title="📺 NewTV系列",热播精选
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000016/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000016&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="农业致富" tvg-name="农业致富" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/农业致富.png" group-title="📺 NewTV系列",农业致富
+#EXTINF:-1 tvg-id="newtv农业致富" tvg-name="农业致富" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/农业致富.png" group-title="📺 NewTV系列",农业致富
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000003/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000003&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="武搏世界" tvg-name="武搏世界" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/武搏世界.png" group-title="📺 NewTV系列",武搏世界
+#EXTINF:-1 tvg-id="newtv武搏世界" tvg-name="武搏世界" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/武搏世界.png" group-title="📺 NewTV系列",武搏世界
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000007/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000007&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="炫舞未来" tvg-name="炫舞未来" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/炫舞未来.png" group-title="📺 NewTV系列",炫舞未来
+#EXTINF:-1 tvg-id="newtv炫舞未来" tvg-name="炫舞未来" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/炫舞未来.png" group-title="📺 NewTV系列",炫舞未来
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000000515/index.m3u8?channel-id=ystenlive&Contentid=1000000001000000515&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="怡伴健康" tvg-name="怡伴健康" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/怡伴健康.png" group-title="📺 NewTV系列",怡伴健康
+#EXTINF:-1 tvg-id="newtv怡伴健康" tvg-name="怡伴健康" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/怡伴健康.png" group-title="📺 NewTV系列",怡伴健康
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000023/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000023&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="爱情喜剧" tvg-name="爱情喜剧" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/爱情喜剧.png" group-title="📺 NewTV系列",爱情喜剧
+#EXTINF:-1 tvg-id="newtv爱情喜剧" tvg-name="爱情喜剧" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/爱情喜剧.png" group-title="📺 NewTV系列",爱情喜剧
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000010/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000010&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="超级体育" tvg-name="超级体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/超级体育.png" group-title="📺 NewTV系列",超级体育
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000030/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000030&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="超级综艺" tvg-name="超级综艺" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/超级综艺.png" group-title="📺 NewTV系列",超级综艺
+#EXTINF:-1 tvg-id="newtv超级综艺" tvg-name="超级综艺" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/超级综艺.png" group-title="📺 NewTV系列",超级综艺
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000029/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000029&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="潮妈辣婆" tvg-name="潮妈辣婆" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/潮妈辣婆.png" group-title="📺 NewTV系列",潮妈辣婆
+#EXTINF:-1 tvg-id="newtv潮妈辣婆" tvg-name="潮妈辣婆" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/潮妈辣婆.png" group-title="📺 NewTV系列",潮妈辣婆
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000018/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000018&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="东北热剧" tvg-name="东北热剧" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/东北热剧.png" group-title="📺 NewTV系列",东北热剧
+#EXTINF:-1 tvg-id="newtv东北热剧" tvg-name="东北热剧" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/东北热剧.png" group-title="📺 NewTV系列",东北热剧
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000051/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000051&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="动作电影" tvg-name="动作电影" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/动作电影.png" group-title="📺 NewTV系列",动作电影
+#EXTINF:-1 tvg-id="newtv动作电影" tvg-name="动作电影" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/动作电影.png" group-title="📺 NewTV系列",动作电影
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000004000018653/index.m3u8?channel-id=ystenlive&Contentid=1000000004000018653&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="古装剧场" tvg-name="古装剧场" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/古装剧场.png" group-title="📺 NewTV系列",古装剧场
+#EXTINF:-1 tvg-id="newtv古装剧场" tvg-name="古装剧场" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/古装剧场.png" group-title="📺 NewTV系列",古装剧场
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000024/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000024&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="欢乐剧场" tvg-name="欢乐剧场" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/欢乐剧场.png" group-title="📺 NewTV系列",欢乐剧场
+#EXTINF:-1 tvg-id="newtv欢乐剧场" tvg-name="欢乐剧场" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/欢乐剧场.png" group-title="📺 NewTV系列",欢乐剧场
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000050/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000050&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="家庭剧场" tvg-name="家庭剧场" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/家庭剧场.png" group-title="📺 NewTV系列",家庭剧场
+#EXTINF:-1 tvg-id="newtv家庭剧场" tvg-name="家庭剧场" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/家庭剧场.png" group-title="📺 NewTV系列",家庭剧场
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000004000008284/index.m3u8?channel-id=ystenlive&Contentid=1000000004000008284&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="金牌综艺" tvg-name="金牌综艺" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/金牌综艺.png" group-title="📺 NewTV系列",金牌综艺
+#EXTINF:-1 tvg-id="newtv金牌综艺" tvg-name="金牌综艺" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/金牌综艺.png" group-title="📺 NewTV系列",金牌综艺
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000004000026167/index.m3u8?channel-id=ystenlive&Contentid=1000000004000026167&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="惊悚悬疑" tvg-name="惊悚悬疑" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/惊悚悬疑.png" group-title="📺 NewTV系列",惊悚悬疑
+#EXTINF:-1 tvg-id="newtv惊悚悬疑" tvg-name="惊悚悬疑" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/惊悚悬疑.png" group-title="📺 NewTV系列",惊悚悬疑
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000004000024282/index.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="精品大剧" tvg-name="精品大剧" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/精品大剧.png" group-title="📺 NewTV系列",精品大剧
+#EXTINF:-1 tvg-id="newtv精品大剧" tvg-name="精品大剧" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/精品大剧.png" group-title="📺 NewTV系列",精品大剧
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000020/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000020&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="精品纪录" tvg-name="精品纪录" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/精品纪录.png" group-title="📺 NewTV系列",精品纪录
+#EXTINF:-1 tvg-id="newtv精品纪录" tvg-name="精品纪录" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/精品纪录.png" group-title="📺 NewTV系列",精品纪录
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000019/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000019&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="精品萌宠" tvg-name="精品萌宠" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/精品萌宠.png" group-title="📺 NewTV系列",精品萌宠
+#EXTINF:-1 tvg-id="newtv精品萌宠" tvg-name="精品萌宠" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/精品萌宠.png" group-title="📺 NewTV系列",精品萌宠
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000006000032328/index.m3u8?channel-id=ystenlive&Contentid=1000000006000032328&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="精品体育" tvg-name="精品体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/精品体育.png" group-title="📺 NewTV系列",精品体育
+#EXTINF:-1 tvg-id="newtv精品体育" tvg-name="精品体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/精品体育.png" group-title="📺 NewTV系列",精品体育
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000004000014634/index.m3u8?channel-id=ystenlive&Contentid=1000000004000014634&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="军旅剧场" tvg-name="军旅剧场" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/军旅剧场.png" group-title="📺 NewTV系列",军旅剧场
+#EXTINF:-1 tvg-id="newtv军旅剧场" tvg-name="军旅剧场" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/军旅剧场.png" group-title="📺 NewTV系列",军旅剧场
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000014/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000014&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="中国功夫" tvg-name="中国功夫" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/中国功夫.png" group-title="📺 NewTV系列",中国功夫
+#EXTINF:-1 tvg-id="newtv中国功夫" tvg-name="中国功夫" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/中国功夫.png" group-title="📺 NewTV系列",中国功夫
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000009/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000009&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="优购物" tvg-name="优购物" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/优购物.png" group-title="📺 NewTV系列",优购物
+#EXTINF:-1 tvg-id="newtv优购物" tvg-name="优购物" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/优购物.png" group-title="📺 NewTV系列",优购物
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000005000266011/index.m3u8?channel-id=ystenlive&Contentid=1000000005000266011&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="精品综合" tvg-name="精品综合" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/精品综合.png" group-title="📺 NewTV系列",精品综合
+#EXTINF:-1 tvg-id="newtv精品综合" tvg-name="精品综合" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/精品综合.png" group-title="📺 NewTV系列",精品综合
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000004000019008/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019008&livemode=1&stbId=3
 
 #📺 SiTV系列
@@ -419,45 +419,45 @@ http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000010000026105/index.
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000010000027146/index.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3
 
 #📺 iHOT频道
-#EXTINF:-1 tvg-id="爱电竞" tvg-name="爱电竞" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/iHOT爱电竞.png" group-title="📺 iHOT频道",iHOT爱电竞_1080P_华数
+#EXTINF:-1 tvg-id="iHOT爱电竞" tvg-name="爱电竞" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/iHOT爱电竞.png" group-title="📺 iHOT频道",iHOT爱电竞_1080P_华数
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000230630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000230630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="爱谍战" tvg-name="爱谍战" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/iHOT爱谍战.png" group-title="📺 iHOT频道",iHOT爱谍战_1080P_华数
+#EXTINF:-1 tvg-id="iHOT爱谍战" tvg-name="爱谍战" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/iHOT爱谍战.png" group-title="📺 iHOT频道",iHOT爱谍战_1080P_华数
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000070630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000070630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="爱动漫" tvg-name="爱动漫" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/iHOT爱动漫.png" group-title="📺 iHOT频道",iHOT爱动漫_1080P_华数
+#EXTINF:-1 tvg-id="iHOT爱动漫" tvg-name="爱动漫" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/iHOT爱动漫.png" group-title="📺 iHOT频道",iHOT爱动漫_1080P_华数
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="爱都市" tvg-name="爱都市" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/iHOT爱都市.png" group-title="📺 iHOT频道",iHOT爱都市_1080P_华数
+#EXTINF:-1 tvg-id="iHOT爱都市" tvg-name="爱都市" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/iHOT爱都市.png" group-title="📺 iHOT频道",iHOT爱都市_1080P_华数
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000080630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000080630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="爱怀旧" tvg-name="爱怀旧" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/iHOT爱怀旧.png" group-title="📺 iHOT频道",iHOT爱怀旧_1080P_华数
+#EXTINF:-1 tvg-id="iHOT爱怀旧" tvg-name="爱怀旧" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/iHOT爱怀旧.png" group-title="📺 iHOT频道",iHOT爱怀旧_1080P_华数
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000260630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000260630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="爱经典" tvg-name="爱经典" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/iHOT爱经典.png" group-title="📺 iHOT频道",iHOT爱经典_1080P_华数
+#EXTINF:-1 tvg-id="iHOT爱经典" tvg-name="爱经典" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/iHOT爱经典.png" group-title="📺 iHOT频道",iHOT爱经典_1080P_华数
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000060630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000060630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="爱科幻" tvg-name="爱科幻" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/iHOT爱科幻.png" group-title="📺 iHOT频道",iHOT爱科幻_1080P_华数
+#EXTINF:-1 tvg-id="iHOT爱科幻" tvg-name="爱科幻" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/iHOT爱科幻.png" group-title="📺 iHOT频道",iHOT爱科幻_1080P_华数
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000020630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000020630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="爱悬疑" tvg-name="爱悬疑" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/iHOT爱科学.png" group-title="📺 iHOT频道",iHOT爱科学_1080P_华数
+#EXTINF:-1 tvg-id="iHOT爱悬疑" tvg-name="爱悬疑" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/iHOT爱科学.png" group-title="📺 iHOT频道",iHOT爱科学_1080P_华数
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000160630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000160630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="爱浪漫" tvg-name="爱浪漫" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/iHOT爱浪漫.png" group-title="📺 iHOT频道",iHOT爱浪漫_1080P_华数
+#EXTINF:-1 tvg-id="iHOT爱浪漫" tvg-name="爱浪漫" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/iHOT爱浪漫.png" group-title="📺 iHOT频道",iHOT爱浪漫_1080P_华数
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000040630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000040630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="爱历史" tvg-name="爱历史" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/iHOT爱历史.png" group-title="📺 iHOT频道",iHOT爱历史_1080P_华数
+#EXTINF:-1 tvg-id="iHOT爱历史" tvg-name="爱历史" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/iHOT爱历史.png" group-title="📺 iHOT频道",iHOT爱历史_1080P_华数
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000150630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000150630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="爱旅行" tvg-name="爱旅行" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/iHOT爱旅行.png" group-title="📺 iHOT频道",iHOT爱旅行_1080P_华数
+#EXTINF:-1 tvg-id="iHOT爱旅行" tvg-name="爱旅行" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/iHOT爱旅行.png" group-title="📺 iHOT频道",iHOT爱旅行_1080P_华数
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000250630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000250630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="爱奇谈" tvg-name="爱奇谈" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/iHOT爱奇谈.png" group-title="📺 iHOT频道",iHOT爱奇谈_1080P_华数
+#EXTINF:-1 tvg-id="iHOT爱奇谈" tvg-name="爱奇谈" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/iHOT爱奇谈.png" group-title="📺 iHOT频道",iHOT爱奇谈_1080P_华数
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000270630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000270630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="爱青春" tvg-name="爱青春" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/iHOT爱青春.png" group-title="📺 iHOT频道",iHOT爱青春_1080P_华数
+#EXTINF:-1 tvg-id="iHOT爱青春" tvg-name="爱青春" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/iHOT爱青春.png" group-title="📺 iHOT频道",iHOT爱青春_1080P_华数
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000100630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000100630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="爱赛车" tvg-name="爱赛车" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/iHOT爱赛车.png" group-title="📺 iHOT频道",iHOT爱赛车_1080P_华数
+#EXTINF:-1 tvg-id="iHOT爱赛车" tvg-name="爱赛车" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/iHOT爱赛车.png" group-title="📺 iHOT频道",iHOT爱赛车_1080P_华数
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000240630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000240630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="爱体育" tvg-name="爱体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/iHOT爱体育.png" group-title="📺 iHOT频道",iHOT爱体育_1080P_华数
+#EXTINF:-1 tvg-id="iHOT爱体育" tvg-name="爱体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/iHOT爱体育.png" group-title="📺 iHOT频道",iHOT爱体育_1080P_华数
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000290630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="爱玩具" tvg-name="爱玩具" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/iHOT爱玩具.png" group-title="📺 iHOT频道",iHOT爱玩具_1080P_华数
+#EXTINF:-1 tvg-id="iHOT爱玩具" tvg-name="爱玩具" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/iHOT爱玩具.png" group-title="📺 iHOT频道",iHOT爱玩具_1080P_华数
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000220630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000220630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="爱喜剧" tvg-name="爱喜剧" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/iHOT爱喜剧.png" group-title="📺 iHOT频道",iHOT爱喜剧_1080P_华数
+#EXTINF:-1 tvg-id="iHOT爱喜剧" tvg-name="爱喜剧" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/iHOT爱喜剧.png" group-title="📺 iHOT频道",iHOT爱喜剧_1080P_华数
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000010630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000010630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="爱悬疑" tvg-name="爱悬疑" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/iHOT爱悬疑.png" group-title="📺 iHOT频道",iHOT爱悬疑_1080P_华数
+#EXTINF:-1 tvg-id="iHOT爱悬疑" tvg-name="爱悬疑" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/iHOT爱悬疑.png" group-title="📺 iHOT频道",iHOT爱悬疑_1080P_华数
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000050630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000050630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="爱幼教" tvg-name="爱幼教" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/iHOT爱幼教.png" group-title="📺 iHOT频道",iHOT爱幼教_1080P_华数
+#EXTINF:-1 tvg-id="iHOT爱幼教" tvg-name="爱幼教" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/iHOT爱幼教.png" group-title="📺 iHOT频道",iHOT爱幼教_1080P_华数
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000180630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000180630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="爱院线" tvg-name="爱院线" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/iHOT爱院线.png" group-title="📺 iHOT频道",iHOT爱院线_1080P_华数
+#EXTINF:-1 tvg-id="iHOT爱院线" tvg-name="爱院线" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/iHOT爱院线.png" group-title="📺 iHOT频道",iHOT爱院线_1080P_华数
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
 
 #📺 咪咕视频
