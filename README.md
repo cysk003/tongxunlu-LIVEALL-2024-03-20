@@ -60,8 +60,8 @@
 - Meroser：[https://github.com/Meroser](https://github.com/Meroser)[`特别感谢`]
 - fanmingming：[https://github.com/fanmingming/live](https://github.com/fanmingming/live)[`特别感谢`]
 - YanG-1989：[https://github.com/YanG-1989/m3u](https://github.com/YanG-1989/m3u)[`特别感谢`]
-- YanG-1989：[https://github.com/YanG-1989/m3u](https://github.com/Fairy8o/IPTV)[`特别感谢`]
-- YanG-1989：[https://github.com/YanG-1989/m3u](https://github.com/Jimmyzjz/Ai-IPTV)[`特别感谢`]
+- Fairy8o：[https://github.com/Fairy8o/IPTV](https://github.com/Fairy8o/IPTV)[`特别感谢`]
+- YanG-1989：[https://github.com/Jimmyzjz/Ai-IPTV](https://github.com/Jimmyzjz/Ai-IPTV)[`特别感谢`]
 - [erc.cc](https://epg.erw.cc/)及[112114](https://epg.112114.xyz)提供的epg接口[`特别感谢`]
 - GitHub及互联网其他资源[`特别感谢`]
 
