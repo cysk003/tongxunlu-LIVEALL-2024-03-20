@@ -226,7 +226,7 @@ http://live.nbs.cn/channels/njtv/xxpd/500k.m3u8
 #EXTINF:-1 tvg-id="南京娱乐" tvg-name="南京娱乐" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/南京娱乐.png group-title="📺 江苏频道",南京娱乐
 http://live.nbs.cn/channels/njtv/ylpd/500k.m3u8
 ##EXTINF:-1 tvg-id="海安新闻综合" tvg-name="海安新闻综合" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/海安新闻综合.png" group-title="📺 江苏频道",海安新闻综合
-http://haian-tv-hls.cm.jstv.com/haian-tv/haaxwzh.m3u8
+http://haian-tv-hls.cm.jstv.com/haian-tv/haaxwzh.m3u8?zjiangsd
 
 #📺 上海频道
 #EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/上视新闻.png" group-title="📺 上海频道",上海新闻
