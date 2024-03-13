@@ -231,7 +231,7 @@ http://live.nbs.cn/channels/njtv/ylpd/500k.m3u8
 https://nt-hls.ntjoy.com/live/4f1.m3u8
 #EXTINF:-1 tvg-id="南通公共" tvg-name="南通崇川" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/南通公共崇川.png" group-title="📺 江苏频道",南通公共崇川
 https://nt-hls.ntjoy.com/live/4f5.m3u8
-#EXTINF:-1 tvg-id="南通2" tvg-name="南通社教" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/南通2.png" group-title="📺 江苏频道",南通社教
+#EXTINF:-1 tvg-id="南通2" tvg-name="南通社教" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/南通社教.png" group-title="📺 江苏频道",南通社教
 https://nt-hls.ntjoy.com/live/4f3.m3u8
 ##EXTINF:-1 tvg-id="海安综合" tvg-name="海安综合" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/海安新闻综合.png" group-title="📺 江苏频道",海安新闻综合
 http://haian-tv-hls.cm.jstv.com/haian-tv/haaxwzh.m3u8
@@ -383,9 +383,9 @@ http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322
 http://iptv.hiper25.com:58080/TVB/index.m3u8
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/明珠台.png" group-title="📺 香港频道",明珠台
 http://iptv.hiper25.com:58080/Pearl/index.m3u8
-#EXTINF:-1 tvg-id="无线星河" tvg-name="无线星河" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/无线星河台.png" group-title="📺 香港频道",TVB无线星河
+#EXTINF:-1 tvg-id="无线星河" tvg-name="无线星河" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/无线星河.png" group-title="📺 香港频道",TVB无线星河
 https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="TVB亚洲武侠" tvg-name="TVB亚洲武侠" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/功夫台.png" group-title="📺 香港频道",TVB亚洲武侠
+#EXTINF:-1 tvg-id="TVB亚洲武侠" tvg-name="TVB亚洲武侠" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/亚洲武侠.png" group-title="📺 香港频道",TVB亚洲武侠
 https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="TVB娱乐新闻" tvg-name="TVB娱乐新闻" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/TVB娱乐新闻.png" group-title="📺 香港频道",TVB娱乐新闻
 https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
@@ -401,7 +401,6 @@ https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 https://live.jingzong.org/live/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="耀才财经" tvg-name="耀才财经" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/耀才财经.png" group-title="📺 香港频道",耀才财经
 https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
-
 
 #📺 澳门频道
 #EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/澳视澳门.png" group-title="📺 澳门频道",澳视澳门
