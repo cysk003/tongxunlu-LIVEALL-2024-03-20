@@ -317,6 +317,8 @@ http://iptv.hiper25.com:58080/gdxw/index.m3u8
 http://iptv.hiper25.com:58080/gdms/index.m3u8
 #EXTINF:-1 tvg-id="广东经济" tvg-name="广东经济" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/广东经济科教.png" group-title="📺 广东频道",广东经济科教
 http://iptv.hiper25.com:58080/gdjjkj/index.m3u8
+#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/大湾区卫视.png" group-title="📺 广东频道",大湾区卫视
+http://iptv.hiper25.com:58080/dwqws/index.m3u8
 #EXTINF:-1 tvg-id="广东影视" tvg-name="广东影视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/广东影视.png" group-title="📺 广东频道",广东影视
 http://iptv.hiper25.com:58080/gdys/index.m3u8
 #EXTINF:-1 tvg-id="岭南戏曲" tvg-name="岭南戏曲" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/岭南戏曲.png" group-title="📺 广东频道",岭南戏曲
