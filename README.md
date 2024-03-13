@@ -63,7 +63,7 @@
 
 💽**Apple TV：**[APTV](https://apps.apple.com/cn/app/aptv/id1630403500)[推荐✨`体验好，跨平台`]
 
-📲**Android：**[Televizo](https://files.televizo.net/televizo-default.apk) [推荐✨`手机上体验不错、有广告、有内购`][Televizo](https://github.com/realOxy/M3UAndroid)[开源✨`无广告、无内购`]
+📲**Android：**[Televizo](https://files.televizo.net/televizo-default.apk) [推荐✨`手机上体验不错、有广告、有内购`][M3UAndroid](https://github.com/realOxy/M3UAndroid)[开源✨`无广告、无内购`]
 
 ## 💡致谢：
 - Logo来源：[https://github.com/wanglindl/TVlogo](https://github.com/wanglindl/TVlogo)[`特别感谢`]
