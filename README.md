@@ -63,7 +63,7 @@
 
 💽**Apple TV：**[APTV](https://apps.apple.com/cn/app/aptv/id1630403500)[推荐✨`体验好，跨平台`]
 
-📲**Android：**[Televizo](https://files.televizo.net/televizo-default.apk) [推荐✨`手机上体验不错、有广告、有内购`]
+📲**Android：**[Televizo](https://files.televizo.net/televizo-default.apk) [推荐✨`手机上体验不错、有广告、有内购`][Televizo](https://github.com/realOxy/M3UAndroid)[开源✨`无广告、无内购`]
 
 ## 💡致谢：
 - Logo来源：[https://github.com/wanglindl/TVlogo](https://github.com/wanglindl/TVlogo)[`特别感谢`]
@@ -71,7 +71,7 @@
 - fanmingming：[https://github.com/fanmingming/live](https://github.com/fanmingming/live)[`特别感谢`]
 - YanG-1989：[https://github.com/YanG-1989/m3u](https://github.com/YanG-1989/m3u)[`特别感谢`]
 - Fairy8o：[https://github.com/Fairy8o/IPTV](https://github.com/Fairy8o/IPTV)[`特别感谢`]
-- YanG-1989：[https://github.com/Jimmyzjz/Ai-IPTV](https://github.com/Jimmyzjz/Ai-IPTV)[`特别感谢`]
+- Jimmyzjz：[https://github.com/Jimmyzjz/Ai-IPTV](https://github.com/Jimmyzjz/Ai-IPTV)[`特别感谢`]
 - [erc.cc](https://epg.erw.cc/)及[112114](https://epg.112114.xyz)提供的epg接口[`特别感谢`]
 - GitHub及互联网其他资源[`特别感谢`]
 
