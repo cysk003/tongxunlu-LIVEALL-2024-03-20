@@ -29,8 +29,16 @@
 
 |     📦 名称      |                         🔗直播源地址                          | 🔢频道数 |   🅿状态   | 🆕更新时间  |
 | :-------------: | :----------------------------------------------------------: | :-----: | :-------: | :--------: |
-| 📺IPTV(IPV6专用) | [🌐订阅链接-IPV6专用](https://url.5i計畫通行.cloudns.org/IPTV.m3u)|   XXX   | 🌕日常更新 | 2024.03.12 |
+| 📺IPTV(IPV4/IPv6) | [🌐订阅链接-IPV6专用](https://url.5i計畫通行.cloudns.org/IPTV.m3u)|   XXX   | 🌕日常更新 | 2024.03.12 |
 |  🧢TVBOX多仓源   | [🌐订阅链接-TVBOX专用](https://url.5i計畫通行.cloudns.org/TVBox.txt)|   XXX   | 🌕日常更新 | 2024.03.10 |
+
+<u>注：以上源请点击链接右键复制[PC]/或长按复制[移动设备]</u>
+
+<u>如果不会操作请直接复制下面的小白链接↙</u>
+
+链接[IPV4/IPv6]：`https://url.5i計畫通行.cloudns.org/IPTV.m3u`[推荐✨][需IPv6支持]
+
+链接[TVbox]：`https://url.5i計畫通行.cloudns.org/IPTV.m3u`
 
 ## 🛠️EPG
 
