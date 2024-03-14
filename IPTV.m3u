@@ -239,19 +239,15 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
 
 #EXTINF:-1 group-title="•地区",「北京」北京新闻
-http://live.funhillrm.com/5/sd/live.m3u8?zbeid
+http://live.funhillrm.com/5/sd/live.m3u8
 #EXTINF:-1 group-title="•地区",「北京」房山无线频道
-http://live.funhillrm.com/2/sd/live.m3u8?zbeid
+http://live.funhillrm.com/2/sd/live.m3u8
 #EXTINF:-1 group-title="🦄各地方频道",北京财经
 https://tv.cry33.com/bj8k.php?id=bjcj
 #EXTINF:-1 group-title="🦄各地方频道",北京生活
 https://tv.cry33.com/bj8k.php?id=bjsh
 #EXTINF:-1 group-title="🦄各地方频道",北京卫视
 http://live.sjsrm.com/bjsjs/sd/live.m3u8
-#EXTINF:-1 group-title="🦄北京频道",北京体育休闲
-http://ainm.cc/a/play/php/gehua.php?id=bjtyxx
-#EXTINF:-1 group-title="🦄北京频道",北京体育休闲
-http://qnap.yjnhome.com:4000/rtp/239.3.1.97:8001
 #EXTINF:-1 group-title="🦄北京频道",北京体育休闲
 http://qnap.yjnhome.com:4000/rtp/239.3.1.243:8000
 
