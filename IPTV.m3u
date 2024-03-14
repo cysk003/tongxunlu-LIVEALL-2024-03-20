@@ -1,5 +1,55 @@
 #EXTM3U x-tvg-url="https://epg.erw.cc/e.xml,https://epg.112114.xyz/pp.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
+#EXTINF:-1 group-title="🦄少儿频道",北京IPTV淘Baby
+http://qnap.yjnhome.com:4000/udp/239.3.1.238:8001
+#EXTINF:-1 group-title="🦄各地方频道",纪实8K
+https://tv.cry33.com/bj8k.php?id=brtv8k
+#EXTINF:-1 group-title="🦄广东频道",深圳都市「官方」
+http://livepull-tcyzb.sztv.com.cn/live/dushi01.m3u8
+#EXTINF:-1 group-title="🦄广东频道",东莞综合「官方」
+https://stream.sun0769.com/dgrtv1/mp4tv1_1500/index.m3u8
+#EXTINF:-1 group-title="🦄广东频道",东莞生活「官方」
+https://stream.sun0769.com/dgrtv1/mp4tv2_1500/index.m3u8
+#EXTINF:-1 group-title="🦄广东频道",广东珠江
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010091/1.m3u8
+#EXTINF:-1 group-title="🦄广东频道",广东珠江
+http://[2409:8087:7001:20:1000::96]:6610/000000001000/1000000004000011655/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 group-title="🦄广东频道",大湾区卫视
+http://glive.grtn.cn/live/lizhi.m3u8
+#EXTINF:-1 group-title="🦄广东频道",广东文化
+https://glive.grtn.cn/live/wenhua_test0203.m3u8
+#EXTINF:-1 group-title="🦄广东频道",广州综合
+http://php.jdshipin.com:8880/gztv.php?id=zhonghe
+#EXTINF:-1 group-title="🦄广东频道",广州新闻
+http://php.jdshipin.com:8880/gztv.php?id=xinwen
+#EXTINF:-1 group-title="🦄广东频道",广州竞赛
+http://php.jdshipin.com:8880/gztv.php?id=jingsai
+#EXTINF:-1 group-title="🦄广东频道",广州影视
+http://php.jdshipin.com:8880/gztv.php?id=yingshi
+#EXTINF:-1 group-title="🦄广东频道",广州法治
+http://php.jdshipin.com:8880/gztv.php?id=fazhi
+#EXTINF:-1 group-title="🦄广东频道",广东体育
+http://113.119.39.121:808/hls/22/index.m3u8
+#EXTINF:-1 group-title="🦄广东频道",广东体育
+http://php.jdshipin.com:8880/chudian.php?id=gdty
+#EXTINF:-1 group-title="🦄广东频道",广东体育
+http://219.135.208.218:8083/tsfile/live/1000_1.m3u8
+#EXTINF:-1 group-title="🦄广东频道",广州南国都市
+http://php.jdshipin.com:8880/gztv.php?id=shenghuo
+#EXTINF:-1 group-title="🦄广东频道",广东珠江
+http://php.jdshipin.com:8880/chudian.php?id=gdzj
+#EXTINF:-1 group-title="🦄广东频道",大湾区卫视
+http://php.jdshipin.com:8880/chudian.php?id=nfws
+#EXTINF:-1 group-title="🦄广东频道",广东民生
+http://php.jdshipin.com:8880/chudian.php?id=gdms
+#EXTINF:-1 group-title="🦄广东频道",广东新闻
+http://php.jdshipin.com:8880/chudian.php?id=gdxw
+#EXTINF:-1 group-title="🦄广东频道",广东影视
+http://php.jdshipin.com:8880/chudian.php?id=gdys
+#EXTINF:-1 group-title="🦄广东频道",广东移动
+http://php.jdshipin.com:8880/chudian.php?id=gdyd
+
+
 #🐼 iPanda频道
 #EXTINF:-1 tvg-id="iPanda" tvg-name="iPanda" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/iPanda频道.png" group-title="🐼 iPanda频道",iPanda 1
 https://gcwbndks.v.kcdnvip.com/gcwbnd/xiongmao06_2/index.m3u8
