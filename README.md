@@ -36,11 +36,11 @@
 
 <u>如果不会操作请直接复制下面的小白链接↙</u>
 
-📺IPTV[直播源]：`https://url.5i計畫通行.cloudns.org/IPTV.m3u`[推荐✨][需IPv6支持]
+📺IPTV[直播源]：`https://url.5i計畫通行.cloudns.org/IPTV.m3u` [推荐✨][需IPv6支持]
 
 📺IPTV[TVBOX专用]：`https://url.5i計畫通行.cloudns.org/IPTV.TVBox` [推荐✨][需IPv6支持]
 
-🧢TVBOX[非直播源]：`https://url.5i計畫通行.cloudns.org/TVBox.txt`[多仓源✨]
+🧢TVBOX[非直播源]：`https://url.5i計畫通行.cloudns.org/TVBox.txt` [多仓源✨]
 
 
 ## 🛠️EPG
