@@ -29,8 +29,8 @@
 |     📦 名称     |                         🔗直播源地址                         |   🅿状态   | 🆕更新时间  |
 | :-------------: | :----------------------------------------------------------: | :-------: | :--------: |
 | 📺IPTV(直播源) | [🌐订阅链接-IPV4/IPv6用](https://url.5i計畫通行.cloudns.org/IPTV.m3u)|🌕日常更新 | XXXXXX |
-| 📺IPTV(TVBox专用) | [🌐订阅链接-TVBox专用](https://url.5i計畫通行.cloudns.org/IPTV.TVBox)|🌕日常更新 | XXXXXX |
-|  TVBOX多仓(非直播源)   | [🌐订阅链接-TVBOX专用](https://url.5i計畫通行.cloudns.org/TVBox.txt)|🌕日常更新 | XXXXXX |
+| 📺IPTV(TVBOX专用) | [🌐订阅链接-TVBOX专用](https://url.5i計畫通行.cloudns.org/IPTV.TVBox)|🌕日常更新 | XXXXXX |
+| 🧢TVBOX多仓(非直播源) | [🌐订阅链接-TVBOX专用](https://url.5i計畫通行.cloudns.org/TVBox.txt)|🌕日常更新 | XXXXXX |
 
 <u>注：以上源请点击链接右键复制[PC]/或长按复制[移动设备]</u>
 
