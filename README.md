@@ -36,9 +36,9 @@
 
 <u>如果不会操作请直接复制下面的小白链接↙</u>
 
-链接[IPV4/IPv6]：`https://url.5i計畫通行.cloudns.org/IPTV.m3u`[推荐✨][需IPv6支持]
+📺IPTV[IPV4/IPv6]：`https://url.5i計畫通行.cloudns.org/IPTV.m3u`[推荐✨][需IPv6支持]
 
-链接[TVbox]：`https://url.5i計畫通行.cloudns.org/TVBox.txt`[多仓源✨]
+🧢TVBOX：`https://url.5i計畫通行.cloudns.org/TVBox.txt`[多仓源✨]
 
 ## 🛠️EPG
 
