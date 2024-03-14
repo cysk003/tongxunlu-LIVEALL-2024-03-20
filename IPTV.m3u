@@ -371,7 +371,7 @@ http://php.jdshipin.com:8880/chudian.php?id=gdty
 http://php.jdshipin.com:8880/chudian.php?id=gdxw
 #EXTINF:-1 tvg-id="广东影视" tvg-name="广东影视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/广东影视.png" group-title="📺 广东频道",广东影视
 http://php.jdshipin.com:8880/chudian.php?id=gdys
-#EXTINF:-1 tvg-id="广东文化" tvg-name="广东文化" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/广东文化.png" group-title="📺 广东频道",广东文化
+#EXTINF:-1 tvg-id="广东文化" tvg-name="广东文化频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/广东文化频道.png" group-title="📺 广东频道",广东文化
 https://glive.grtn.cn/live/wenhua_test0203.m3u8
 #EXTINF:-1 tvg-id="广东移动" tvg-name="广东移动" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/广东移动.png" group-title="📺 广东频道",广东移动
 http://php.jdshipin.com:8880/chudian.php?id=gdyd
@@ -381,15 +381,15 @@ http://php.jdshipin.com:8880/gztv.php?id=zhonghe
 http://php.jdshipin.com:8880/gztv.php?id=xinwen
 #EXTINF:-1 tvg-id="广州法治" tvg-name="广州法治" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/广州法治.png" group-title="📺 广东频道",广州法治
 http://php.jdshipin.com:8880/gztv.php?id=fazhi
-#EXTINF:-1 tvg-id="广州南国都市" tvg-name="广州南国都市" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/广州南国都市.png" group-title="📺 广东频道",广州南国都市
+#EXTINF:-1 tvg-id="广州生活" tvg-name="生活" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/广州南国都市.png" group-title="📺 广东频道",广州南国都市
 http://php.jdshipin.com:8880/gztv.php?id=shenghuo
 #EXTINF:-1 tvg-id="广州竞赛" tvg-name="广州竞赛" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/广州竞赛.png" group-title="📺 广东频道",广州竞赛
 http://php.jdshipin.com:8880/gztv.php?id=jingsai
 #EXTINF:-1 tvg-id="深圳都市" tvg-name="深圳都市" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/深圳都市.png" group-title="📺 广东频道",深圳都市「官方」
 http://livepull-tcyzb.sztv.com.cn/live/dushi01.m3u8
-#EXTINF:-1 tvg-id="东莞新闻" tvg-name="东莞综合" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/东莞新闻综合.png" group-title="📺 广东频道",东莞新闻综合「官方」
+#EXTINF:-1 tvg-id="东莞新闻综合" tvg-name="东莞新闻综合" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/东莞新闻综合.png" group-title="📺 广东频道",东莞新闻综合「官方」
 https://stream.sun0769.com/dgrtv1/mp4tv1_1500/index.m3u8
-#EXTINF:-1 tvg-id="东莞资讯" tvg-name="东莞生活" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/东莞生活资讯.png" group-title="📺 广东频道",东莞生活资讯「官方」
+#EXTINF:-1 tvg-id="东莞生活资讯" tvg-name="东莞生活资讯" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/东莞生活资讯.png" group-title="📺 广东频道",东莞生活资讯「官方」
 https://stream.sun0769.com/dgrtv1/mp4tv2_1500/index.m3u8
 
 
