@@ -291,6 +291,20 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002264/index.m3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001699/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/金鹰卡通.png" group-title="📺 湖南频道",金鹰卡通
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000057BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTWDyIgRkFJBAHMhA2ayG0T0ZQXwaiVktPr6ILPKXqwOw2VoxnxHvBSRSzCCC3szSwIgrD0rUpRXeaqChwLXCf0
+#EXTINF:-1 tvg-id="湖南爱晚" tvg-name="湖南爱晚" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/湖南爱晚.png" group-title="📺 湖南频道",湖南爱晚
+http://zteres.sn.chinamobile.com:6060/000000001000/6307875884530512195/index.m3u8?livemode=1&stbId=test&channel-id=hnbblive&Contentid=6307875884530512195
+#EXTINF:-1 tvg-id="湖南电视剧" tvg-name="湖南电视剧" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/湖南电视剧.png" group-title="📺 湖南频道",湖南电视剧
+http://zteres.sn.chinamobile.com:6060/000000001000/8765482907954673867/index.m3u8?livemode=1&stbId=test&channel-id=hnbblive&Contentid=8765482907954673867
+#EXTINF:-1 tvg-id="湖南电影" tvg-name="湖南电影" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/湖南电影.png" group-title="📺 湖南频道",湖南电影
+http://zteres.sn.chinamobile.com:6060/000000001000/7884242846753128038/index.m3u8?livemode=1&stbId=test&channel-id=hnbblive&Contentid=7884242846753128038
+#EXTINF:-1 tvg-id="湖南都市" tvg-name="湖南都市" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/湖南都市.png" group-title="📺 湖南频道",湖南都市
+http://zteres.sn.chinamobile.com:6060/000000001000/4682579636905393407/index.m3u8?livemode=1&stbId=test&channel-id=hnbblive&Contentid=4682579636905393407
+#EXTINF:-1 tvg-id="湖南国际" tvg-name="湖南国际" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/湖南国际.png" group-title="📺 湖南频道",湖南国际
+http://zteres.sn.chinamobile.com:6060/000000001000/5015828848322021526/index.m3u8?livemode=1&stbId=test&channel-id=hnbblive&Contentid=5015828848322021526
+#EXTINF:-1 tvg-id="湖南经视" tvg-name="湖南经视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/湖南经视.png" group-title="📺 湖南频道",湖南经视
+http://zteres.sn.chinamobile.com:6060/000000001000/6306119848317438256/index.m3u8?livemode=1&stbId=test&channel-id=hnbblive&Contentid=6306119848317438256
+#EXTINF:-1 tvg-id="湖南娱乐" tvg-name="湖南娱乐" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/湖南娱乐.png" group-title="📺 湖南频道",湖南娱乐
+http://zteres.sn.chinamobile.com:6060/000000001000/6427893650335440392/index.m3u8?channel-id=hnbblive&Contentid=6427893650335440392&livemode=1&stbId=3
 
 #📺 湖北频道
 #EXTINF:-1 tvg-id="湖北综合" tvg-name="湖北综合" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/湖北综合.png" group-title="📺 湖北频道",湖北综合
