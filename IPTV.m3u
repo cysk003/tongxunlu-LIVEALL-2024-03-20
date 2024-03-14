@@ -388,7 +388,7 @@ http://iptv.hiper25.com:42487/guangzhouzonghe/video.m3u8?token=GuangDian_Token
 http://iptv.hiper25.com:42487/guangzhouxinwen/video.m3u8?token=GuangDian_Token
 #EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/劲爆体育.png" group-title="📺 广东频道",劲爆体育
 http://iptv.hiper25.com:42487/jingbaotiyu/video.m3u8?token=GuangDian_Token
-#EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/广州新闻.png" group-title="📺 广东频道",新视觉
+#EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/新视觉.png" group-title="📺 广东频道",新视觉
 http://iptv.hiper25.com:42487/xinshijue/video.m3u8?token=GuangDian_Token
 
 #📺 陕西频道
