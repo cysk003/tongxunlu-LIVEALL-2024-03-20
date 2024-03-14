@@ -261,7 +261,7 @@ https://nt-hls.ntjoy.com/live/4f1.m3u8
 https://nt-hls.ntjoy.com/live/4f3.m3u8
 #EXTINF:-1 tvg-id="南通公共" tvg-name="南通崇川" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/南通公共崇川.png" group-title="📺 江苏频道",南通公共崇川
 https://nt-hls.ntjoy.com/live/4f5.m3u8
-##EXTINF:-1 tvg-id="海安综合" tvg-name="海安综合" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/海安新闻综合.png" group-title="📺 江苏频道",海安新闻综合
+#EXTINF:-1 tvg-id="海安综合" tvg-name="海安综合" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/海安新闻综合.png" group-title="📺 江苏频道",海安新闻综合
 http://haian-tv-hls.cm.jstv.com/haian-tv/haaxwzh.m3u8
 
 #📺 上海频道
