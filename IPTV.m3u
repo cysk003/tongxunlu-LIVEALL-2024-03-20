@@ -1,32 +1,48 @@
 #EXTM3U x-tvg-url="https://epg.erw.cc/e.xml,https://epg.112114.xyz/pp.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 #🐼 iPanda频道
-#EXTINF:-1 tvg-id="iPanda" tvg-name="iPanda" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/iPanda频道.png" group-title="🐼 iPanda频道",iPanda 1
-https://gcwbndks.v.kcdnvip.com/gcwbnd/xiongmao06_2/index.m3u8
-#EXTINF:-1 tvg-id="iPanda" tvg-name="iPanda" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/iPanda频道.png" group-title="🐼 iPanda频道",iPanda 2
-https://gcwbndks.v.kcdnvip.com/gcwbnd/xiongmao07_2/index.m3u8
-#EXTINF:-1 tvg-id="iPanda" tvg-name="iPanda" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/iPanda频道.png" group-title="🐼 iPanda频道",iPanda 3
-https://gcwbndks.v.kcdnvip.com/gcwbnd/xiongmao08_2/index.m3u8
-#EXTINF:-1 tvg-id="iPanda" tvg-name="iPanda" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/iPanda频道.png" group-title="🐼 iPanda频道",iPanda 4
-https://gcwbndks.v.kcdnvip.com/gcwbnd/xiongmao09_2/index.m3u8
-#EXTINF:-1 tvg-id="iPanda" tvg-name="iPanda" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/iPanda频道.png" group-title="🐼 iPanda频道",iPanda 5
-https://gcwbndks.v.kcdnvip.com/gcwbnd/xiongmao10_2/index.m3u8
-#EXTINF:-1 tvg-id="iPanda" tvg-name="iPanda" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/iPanda频道.png" group-title="🐼 iPanda频道",iPanda 6
-https://gcwbndks.v.kcdnvip.com/gcwbnd/xiongmao11_2/index.m3u8
-#EXTINF:-1 tvg-id="iPanda" tvg-name="iPanda" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/iPanda频道.png" group-title="🐼 iPanda频道",iPanda 7
-https://gcwbndks.v.kcdnvip.com/gcwbnd/xiongmao12_2/index.m3u8
-#EXTINF:-1 tvg-id="iPanda" tvg-name="iPanda" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/iPanda频道.png" group-title="🐼 iPanda频道",iPanda 8
-https://gcwbndks.v.kcdnvip.com/gcwbnd/xiongmao13_2/index.m3u8
-#EXTINF:-1 tvg-id="iPanda" tvg-name="iPanda" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/iPanda频道.png" group-title="🐼 iPanda频道",iPanda 9
-https://gcwbndks.v.kcdnvip.com/gcwbnd/xiongmao14_2/index.m3u8
-#EXTINF:-1 tvg-id="iPanda" tvg-name="iPanda" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/iPanda频道.png" group-title="🐼 iPanda频道",iPanda 10
-https://gcwbndks.v.kcdnvip.com/gcwbnd/xiongmao15_2/index.m3u8
-#EXTINF:-1 tvg-id="iPanda" tvg-name="iPanda" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/iPanda频道.png" group-title="🐼 iPanda频道",iPanda 11
-https://gcwbndks.v.kcdnvip.com/gcwbnd/xiongmao16_2/index.m3u8
-#EXTINF:-1 tvg-id="iPanda" tvg-name="iPanda" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/iPanda频道.png" group-title="🐼 iPanda频道",iPanda 12
-https://gcwbndks.v.kcdnvip.com/gcwbnd/xiongmao18_2/index.m3u8
-#EXTINF:-1 tvg-id="iPanda" tvg-name="iPanda" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/iPanda频道.png" group-title="🐼 iPanda频道",iPanda 13
-https://gcwbndks.v.kcdnvip.com/gcwbnd/xiongmao20_2/index.m3u8
+#EXTINF:-1 tvg-id="iPanda" tvg-name="iPanda" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/iPanda频道.png" group-title="🐼 iPanda频道",都江堰青青
+http://gcalic.v.myalicdn.com/gc/xiongmao20_1/index.m3u8
+#EXTINF:-1 tvg-id="iPanda" tvg-name="iPanda" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/iPanda频道.png" group-title="🐼 iPanda频道",都江堰妃妃
+http://gcalic.v.myalicdn.com/gc/xiongmao13_1/index.m3u8
+#EXTINF:-1 tvg-id="iPanda" tvg-name="iPanda" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/iPanda频道.png" group-title="🐼 iPanda频道",都江堰娅祥
+http://gcalic.v.myalicdn.com/gc/xiongmao15_1/index.m3u8
+#EXTINF:-1 tvg-id="iPanda" tvg-name="iPanda" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/iPanda频道.png" group-title="🐼 iPanda频道",都江堰瑞瑞
+http://gcalic.v.myalicdn.com/gc/xiongmao16_1/index.m3u8
+#EXTINF:-1 tvg-id="iPanda" tvg-name="iPanda" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/iPanda频道.png" group-title="🐼 iPanda频道",都江堰壹玖
+http://gcalic.v.myalicdn.com/gc/xiongmao14_1/index.m3u8
+#EXTINF:-1 tvg-id="iPanda" tvg-name="iPanda" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/iPanda频道.png" group-title="🐼 iPanda频道",都江堰水秀
+http://gcalic.v.myalicdn.com/gc/xiongmao12_1/index.m3u8
+#EXTINF:-1 tvg-id="iPanda" tvg-name="iPanda" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/iPanda频道.png" group-title="🐼 iPanda频道",都江堰怡然
+http://gcalic.v.myalicdn.com/gc/xiongmao18_1/index.m3u8
+#EXTINF:-1 tvg-id="iPanda" tvg-name="iPanda" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/iPanda频道.png" group-title="🐼 iPanda频道",基地成年园 1
+http://gcalic.v.myalicdn.com/gc/xiongmao01_1/index.m3u8
+#EXTINF:-1 tvg-id="iPanda" tvg-name="iPanda" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/iPanda频道.png" group-title="🐼 iPanda频道",基地成年园 2
+http://gcalic.v.myalicdn.com/gc/xiongmao02_1/index.m3u8
+#EXTINF:-1 tvg-id="iPanda" tvg-name="iPanda" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/iPanda频道.png" group-title="🐼 iPanda频道",基地幼年园 1
+http://gcalic.v.myalicdn.com/gc/xiongmao03_1/index.m3u8
+#EXTINF:-1 tvg-id="iPanda" tvg-name="iPanda" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/iPanda频道.png" group-title="🐼 iPanda频道",基地幼年园 2
+http://gcalic.v.myalicdn.com/gc/xiongmao04_1/index.m3u8
+#EXTINF:-1 tvg-id="iPanda" tvg-name="iPanda" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/iPanda频道.png" group-title="🐼 iPanda频道",基地幼儿园 1
+http://gcalic.v.myalicdn.com/gc/xiongmao05_1/index.m3u8
+#EXTINF:-1 tvg-id="iPanda" tvg-name="iPanda" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/iPanda频道.png" group-title="🐼 iPanda频道",基地幼儿园 3
+http://gcalic.v.myalicdn.com/gc/xiongmao06_1/index.m3u8
+#EXTINF:-1 tvg-id="iPanda" tvg-name="iPanda" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/iPanda频道.png" group-title="🐼 iPanda频道",基地母子园 1
+http://gcalic.v.myalicdn.com/gc/xiongmao07_1/index.m3u8
+#EXTINF:-1 tvg-id="iPanda" tvg-name="iPanda" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/iPanda频道.png" group-title="🐼 iPanda频道",基地母子园 2
+http://gcalic.v.myalicdn.com/gc/xiongmao08_1/index.m3u8
+#EXTINF:-1 tvg-id="iPanda" tvg-name="iPanda" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/iPanda频道.png" group-title="🐼 iPanda频道",基地别墅 1
+http://gcalic.v.myalicdn.com/gc/xiongmao09_1/index.m3u8
+#EXTINF:-1 tvg-id="iPanda" tvg-name="iPanda" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/iPanda频道.png" group-title="🐼 iPanda频道",基地别墅 2
+http://gcalic.v.myalicdn.com/gc/xiongmao10_1/index.m3u8
+#EXTINF:-1 tvg-id="iPanda" tvg-name="iPanda" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/iPanda频道.png" group-title="🐼 iPanda频道",大丰麋鹿
+http://gcalic.v.myalicdn.com/gc/xiongmao23_1/index.m3u8
+#EXTINF:-1 tvg-id="iPanda" tvg-name="iPanda" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/iPanda频道.png" group-title="🐼 iPanda频道",白马雪山
+http://gcalic.v.myalicdn.com/gc/xiongmao24_1/index.m3u8
+#EXTINF:-1 tvg-id="iPanda" tvg-name="iPanda" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/iPanda频道.png" group-title="🐼 iPanda频道",成都高清
+http://gcalic.v.myalicdn.com/gc/ipanda_1td/index.m3u8
+#EXTINF:-1 tvg-id="iPanda" tvg-name="iPanda" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/iPanda频道.png" group-title="🐼 iPanda频道",都江堰高清
+http://gcalic.v.myalicdn.com/gc/ipanda1000_1td/index.m3u8
 
 #🎥 多屏实时
 #EXTINF:-1 tvg-id="iPanda" tvg-name="iPanda" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/多屏实时.png" group-title="🎥 多屏实时",多屏实时 I
