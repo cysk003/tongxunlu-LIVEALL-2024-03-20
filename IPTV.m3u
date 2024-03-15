@@ -14,6 +14,12 @@ https://0472.org/hls/youzaiSB/fhzx.m3u8
 https://0472.org/hls/youzaiSB/fhzw.m3u8
 #EXTINF:-1 group-title="特色",凤凰香港
 https://0472.org/hls/youzaiSB/fhhk.m3u8
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://static.xxiao.org/TV/Phoenix1.png" group-title="特色",凤凰中文
+http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/1.m3u8
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://static.xxiao.org/TV/Phoenix2.png" group-title="特色",凤凰资讯
+http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/1.m3u8
+#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://static.xxiao.org/TV/Phoenix3.png" group-title="特色",凤凰香港
+http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 
 #🐼 熊宝频道
 #EXTINF:-1 tvg-id="iPanda" tvg-name="iPanda" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/熊宝频道.png" group-title="🐼 熊宝频道",都江堰青青
