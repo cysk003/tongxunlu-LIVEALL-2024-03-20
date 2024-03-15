@@ -263,8 +263,6 @@ http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226241/index.m3u8
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/重温经典.png" group-title="📺 数字频道",重温经典 HD
 http://tvbox6.com/tv/dl/dl668/bfgd.php?id=635
-#EXTINF:-1 tvg-id="书画频道" tvg-name="书画频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/书画频道.png" group-title="📺 数字频道",书画频道
-http://211.103.180.178:8234/live_hls/hdmi.m3u8
 
 📺 北京频道
 #EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/纪实科教.png" group-title="📺 北京频道",纪实科教
@@ -487,7 +485,7 @@ http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225979/index.m3u8
 https://livealone.iqilu.com/iqilu/qlpdhjOF03kn.m3u8
 #EXTINF:-1,tvg-id="山东新闻" tvg-name="山东新闻" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/山东新闻.png" group-title="📺 山东频道",山东新闻
 https://livealone.iqilu.com/iqilu/ggpdhjOF03kn.m3u8
-#EXTINF:-1,tvg-id="山东体育" tvg-name="山东体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/山东体育.png" group-title="📺 山东频道",山东体育
+#EXTINF:-1,tvg-id="山东体育" tvg-name="山东体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/山东体育.png" group-title="📺 山东频道",山东体育休闲
 https://livealone.iqilu.com/iqilu/typdhjOF03kn.m3u8
 #EXTINF:-1,tvg-id="山东生活" tvg-name="山东生活" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/山东生活.png" group-title="📺 山东频道",山东生活
 https://livealone.iqilu.com/iqilu/shpdhjOF03kn.m3u8
@@ -499,7 +497,7 @@ https://livealone.iqilu.com/iqilu/nkpdhjOF03kn.m3u8
 https://livealone.iqilu.com/iqilu/yspdhjOF03kn.m3u8
 #EXTINF:-1,tvg-id="山东少儿" tvg-name="山东少儿" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/山东少儿.png" group-title="📺 山东频道",山东少儿
 https://livealone.iqilu.com/iqilu/sepdhjOF03kn.m3u8
-#EXTINF:-1,tvg-id="山东教育" tvg-name="山东教育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/山东教育.png" group-title="📺 山东频道",山东教育
+#EXTINF:-1,tvg-id="山东教育卫视" tvg-name="山东教育卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/山东教育.png" group-title="📺 山东频道",山东教育卫视
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226238/index.m3u8
 
 #📺 辽宁频道
