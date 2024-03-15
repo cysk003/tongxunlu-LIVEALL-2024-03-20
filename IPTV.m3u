@@ -216,12 +216,11 @@ http://[2409:8087:7001:20:3::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3
 #EXTINF:-1 tvg-id="康巴卫视" tvg-name="康巴卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/康巴卫视.png" group-title="📺 卫视频道",康巴卫视
 http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/凤凰中文.png" group-title="📺 卫视频道",凤凰中文
-http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
+http://170.178.177.98:27347/livehttpplay?channel_id=30014
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/凤凰资讯.png" group-title="📺 卫视频道",凤凰资讯
-http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
+http://170.178.177.98:27347/livehttpplay?channel_id=30015
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/凤凰香港.png" group-title="📺 卫视频道",凤凰香港
-http://php.17186.eu.org/phtv/fhhk.m3u8
-
+http://198.16.100.90:8278/hkphoenix_twn/playlist.m3u8?tid=MACA2858291128582911&ct=19225&tsum=0f01288bbaa6c0403d07e96b0a5db4ed
 #📺 数字频道
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/CHC动作电影.png" group-title="📺 数字频道",CHC动作电影
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
@@ -249,8 +248,6 @@ http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001273/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-name="精彩影视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/精彩影视.png" group-title="📺 数字频道",精彩影视
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000320630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="tywq" tvg-name="天元围棋" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/天元围棋.png" group-title="📺 数字频道",天元围棋
-http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/3/224/3221228513/index.m3u8
 #EXTINF:-1 tvg-id="弈坛春秋" tvg-name="弈坛春秋" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/弈坛春秋.png" group-title="📺 数字频道",弈坛春秋
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001322/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="老故事" tvg-name="老故事" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/老故事.png" group-title="📺 数字频道",老故事
