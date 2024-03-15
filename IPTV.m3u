@@ -1,26 +1,5 @@
 #EXTM3U x-tvg-url="https://epg.erw.cc/e.xml,https://epg.112114.xyz/pp.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
-#EXTINF:-1 tvg-name="重温经典" group-title="•特色",重温经典
-http://43.141.130.70/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
-#EXTINF:-1 group-title="特色",重温经典
-http://tvbox6.com/tv/dl/dl668/bfgd.php?id=635
-#EXTINF:-1 group-title="特色",重温经典 HD
-http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
-#EXTINF:-1 group-title="特色",香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 group-title="特色",凤凰资讯
-https://0472.org/hls/youzaiSB/fhzx.m3u8
-#EXTINF:-1 group-title="特色",凤凰中文
-https://0472.org/hls/youzaiSB/fhzw.m3u8
-#EXTINF:-1 group-title="特色",凤凰香港
-https://0472.org/hls/youzaiSB/fhhk.m3u8
-#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://static.xxiao.org/TV/Phoenix1.png" group-title="特色",凤凰中文
-http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/1.m3u8
-#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://static.xxiao.org/TV/Phoenix2.png" group-title="特色",凤凰资讯
-http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/1.m3u8
-#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://static.xxiao.org/TV/Phoenix3.png" group-title="特色",凤凰香港
-http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
-
 #🐼 熊宝频道
 #EXTINF:-1 tvg-id="iPanda" tvg-name="iPanda" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/熊宝频道.png" group-title="🐼 熊宝频道",都江堰青青
 http://gcalic.v.myalicdn.com/gc/xiongmao20_1/index.m3u8
@@ -282,6 +261,10 @@ http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226247/index.m3u8
 #EXTINF:-1 tvg-id="置业" tvg-name="置业" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/置业频道.png" group-title="📺 数字频道",置业频道
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226241/index.m3u8
+#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/重温经典.png" group-title="📺 数字频道",重温经典 HD
+http://tvbox6.com/tv/dl/dl668/bfgd.php?id=635
+#EXTINF:-1 tvg-id="书画频道" tvg-name="书画频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/书画频道.png" group-title="📺 数字频道",书画频道
+http://211.103.180.178:8234/live_hls/hdmi.m3u8
 
 📺 北京频道
 #EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/纪实科教.png" group-title="📺 北京频道",纪实科教
@@ -498,6 +481,26 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225994/index.m3u8
 #EXTINF:-1 tvg-id="黑龙江少儿" tvg-name="黑龙江少儿" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/黑龙江少儿.png" group-title="📺 黑龙江频道",黑龙江少儿
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225979/index.m3u8
+
+#📺 山东频道
+#EXTINF:-1,tvg-id="山东齐鲁" tvg-name="山东齐鲁" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/山东齐鲁.png" group-title="📺 山东频道",山东齐鲁
+https://livealone.iqilu.com/iqilu/qlpdhjOF03kn.m3u8
+#EXTINF:-1,tvg-id="山东新闻" tvg-name="山东新闻" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/山东新闻.png" group-title="📺 山东频道",山东新闻
+https://livealone.iqilu.com/iqilu/ggpdhjOF03kn.m3u8
+#EXTINF:-1,tvg-id="山东体育" tvg-name="山东体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/山东体育.png" group-title="📺 山东频道",山东体育
+https://livealone.iqilu.com/iqilu/typdhjOF03kn.m3u8
+#EXTINF:-1,tvg-id="山东生活" tvg-name="山东生活" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/山东生活.png" group-title="📺 山东频道",山东生活
+https://livealone.iqilu.com/iqilu/shpdhjOF03kn.m3u8
+#EXTINF:-1,tvg-id="山东综艺" tvg-name="山东综艺" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/山东综艺.png" group-title="📺 山东频道",山东综艺
+https://livealone.iqilu.com/iqilu/zypdhjOF03kn.m3u8
+#EXTINF:-1,tvg-id="山东农科" tvg-name="山东农科" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/山东农科.png" group-title="📺 山东频道",山东农科
+https://livealone.iqilu.com/iqilu/nkpdhjOF03kn.m3u8
+#EXTINF:-1,tvg-id="山东文旅" tvg-name="山东文旅" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/山东文旅.png" group-title="📺 山东频道",山东文旅
+https://livealone.iqilu.com/iqilu/yspdhjOF03kn.m3u8
+#EXTINF:-1,tvg-id="山东少儿" tvg-name="山东少儿" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/山东少儿.png" group-title="📺 山东频道",山东少儿
+https://livealone.iqilu.com/iqilu/sepdhjOF03kn.m3u8
+#EXTINF:-1,tvg-id="山东教育" tvg-name="山东教育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/山东教育.png" group-title="📺 山东频道",山东教育
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226238/index.m3u8
 
 #📺 辽宁频道
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/辽宁卫视.png" group-title="📺 辽宁频道", 辽宁卫视
