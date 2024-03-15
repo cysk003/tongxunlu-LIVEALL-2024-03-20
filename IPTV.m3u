@@ -495,7 +495,7 @@ http://175.147.76.205:8888/rtp/232.0.0.150:1234
 http://175.147.76.205:8888/rtp/232.0.0.168:1234
 #EXTINF:-1 tvg-id="辽宁经济" tvg-name="辽宁经济" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/辽宁经济.png" group-title="📺 辽宁频道", 辽宁经济
 http://175.147.76.205:8888/rtp/232.0.0.156:1234
-#EXTINF:-1 tvg-id="辽宁青少年" tvg-name="辽宁教育青少" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/辽宁教育青少.png" group-title="📺 辽宁频道", 辽宁教育青少
+#EXTINF:-1 tvg-id="辽宁青少" tvg-name="辽宁教育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/辽宁教育青少.png" group-title="📺 辽宁频道", 辽宁教育青少
 http://175.147.76.205:8888/rtp/232.0.0.241:1234
 
 #📺 廣電·IPv6
