@@ -1,3 +1,5 @@
+#网址：http://iptv.hiper25.com:8089/channels.m3u
+
 #EXTM3U
 #EXTINF:-1,翡翠台（廣電 IPv6）
 http://iptv.hiper25.com:42487/TVB/video.m3u8?token=1710447330
