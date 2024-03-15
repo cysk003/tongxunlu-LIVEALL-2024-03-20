@@ -521,7 +521,7 @@ http://iptv.hiper25.com:42487/GDjingjikejiaoHD/video.m3u8?token=1710447330
 http://iptv.hiper25.com:42487/gdnanfang/video.m3u8?token=1710447330
 #EXTINF:-1 tvg-id="广东影视" tvg-name="广东影视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/广东影视.png" group-title="📺 廣電·IPv6",廣東影視（廣電 IPv6）
 http://iptv.hiper25.com:42487/gdyingshi/video.m3u8?token=1710447330
-#EXTINF:-1 tvg-id="广东岭南戏曲" tvg-name="广东岭南戏曲" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/岭南戏曲.png" group-title="📺 廣電·IPv6",岭南戏曲（廣電 IPv6）
+#EXTINF:-1 tvg-id="广东岭南" tvg-name="广东戏曲" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/岭南戏曲.png" group-title="📺 廣電·IPv6",岭南戏曲（廣電 IPv6）
 http://iptv.hiper25.com:42487/lingnanxiqu/video.m3u8?token=1710447330
 #EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/广州综合.png" group-title="📺 廣電·IPv6",廣州綜合（廣電 IPv6）
 http://iptv.hiper25.com:42487/guangzhouzonghe/video.m3u8?token=1710447330
