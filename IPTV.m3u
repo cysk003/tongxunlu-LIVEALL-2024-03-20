@@ -469,7 +469,7 @@ https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 
 #📺 广东频道
 #EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/嘉佳卡通.png" group-title="📺 广东频道",嘉佳卡通
-http://php.jdshipin.com:8880/chudian.php?id=gdjjkt
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/广东珠江.png" group-title="📺 广东频道",广东珠江
 http://php.jdshipin.com:8880/chudian.php?id=gdzj
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/广东体育.png" group-title="📺 广东频道",广东体育
@@ -483,7 +483,7 @@ http://php.jdshipin.com:8880/chudian.php?id=gdms
 #EXTINF:-1 tvg-id="广东经济科教" tvg-name="广东经济科教" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/广东影视.png" group-title="📺 广东频道",广东经济科教
 http://php.jdshipin.com:8880/chudian.php?id=gdjjkj
 #EXTINF:-1 tvg-id="广东少儿" tvg-name="广东少儿" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/广东影视.png" group-title="📺 广东频道",广东少儿
-http://php.jdshipin.com:8880/chudian.php?id=gdse
+http://iptv.eatuo.com:9901/tsfile/live/1009_1.m3u8
 #EXTINF:-1 tvg-id="广东文化" tvg-name="广东文化频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/广东文化频道.png" group-title="📺 广东频道",文化频道
 https://glive.grtn.cn/live/wenhua_test0203.m3u8
 #EXTINF:-1 tvg-id="广东移动" tvg-name="广东移动" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/广东移动.png" group-title="📺 广东频道",广东移动
