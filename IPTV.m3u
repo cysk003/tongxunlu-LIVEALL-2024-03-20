@@ -635,7 +635,7 @@ http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/08984400000000060000000000000440/ind
 #📺 广西频道
 #EXTINF:-1 tvg-id="广西影视" tvg-name="广西影视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/广西影视.png" group-title="📺 广西频道",广西影视
 http://116.9.204.242:9901/tsfile/live/0124_1.m3u8
-#EXTINF:-1 tvg-id="广西综艺" tvg-name="广西综艺" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/广西综艺.png" group-title="📺 广西频道",广西综艺
+#EXTINF:-1 tvg-id="广西综艺" tvg-name="广西综艺旅游" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/广西综艺旅游.png" group-title="📺 广西频道",广西综艺旅游
 http://116.9.204.242:9901/tsfile/live/0125_1.m3u8
 #EXTINF:-1 tvg-id="广西都市" tvg-name="广西都市" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/广西都市.png" group-title="📺 广西频道",广西都市
 http://116.9.204.242:9901/tsfile/live/1002_1.m3u8
