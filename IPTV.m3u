@@ -397,7 +397,7 @@ http://v.vlanl.com:4022/udp/225.1.4.99:1128
 http://v.vlanl.com:4022/udp/225.1.4.100:1129
 #EXTINF:-1,tvg-id="中华功夫" tvg-name="中华功夫" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/河南中华功夫.png" group-title="📺 河南频道",中华功夫
 http://v.vlanl.com:4022/udp/225.1.4.101:1130
-#EXTINF:-1,tvg-id="睛彩中原" tvg-name="睛彩中原" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/睛彩中原.png" group-title="📺 河南频道",睛彩中原
+#EXTINF:-1,tvg-id="睛彩中原" tvg-name="睛彩中原" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/河南睛彩中原.png" group-title="📺 河南频道",睛彩中原
 http://v.vlanl.com:4022/udp/225.1.4.163:1203
 #EXTINF:-1,tvg-id="移动戏曲" tvg-name="移动戏曲" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/河南移动戏曲.png" group-title="📺 河南频道",移动戏曲
 http://v.vlanl.com:4022/udp/225.1.4.206:1254
