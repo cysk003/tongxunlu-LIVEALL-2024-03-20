@@ -407,9 +407,9 @@ http://v.vlanl.com:4022/udp/225.1.5.40:1350
 http://v.vlanl.com:4022/udp/225.1.5.48:1358
 #EXTINF:-1,tvg-id="河南导视" tvg-name="河南导视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/河南导视.png" group-title="📺 河南频道",河南导视
 http://v.vlanl.com:4022/udp/225.1.4.194:1244
-#EXTINF:-1,tvg-id="国学" tvg-name="国学" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/河南国学.png" group-title="📺 河南频道",国学频道
+#EXTINF:-1,tvg-id="国学" tvg-name="国学" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/国学频道.png" group-title="📺 河南频道",国学频道
 http://v.vlanl.com:4022/udp/225.1.4.196:1311
-#EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/河南卫视.png" group-title="卫视",河南卫视
+#EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/河南卫视.png" group-title="📺 河南频道",河南卫视
 http://v.vlanl.com:4022/udp/225.1.4.98:1127
 #EXTINF:-1,tvg-id="河南欢腾购物" tvg-name="河南欢腾购物" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/河南欢腾购物.png" group-title="📺 河南频道",河南购物
 http://v.vlanl.com:4022/udp/225.1.4.57:1086
