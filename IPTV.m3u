@@ -442,6 +442,18 @@ http://wshls.live.migucloud.com/live/CXGQPXRK_C0/playlist.m3u8
 http://wshls.live.migucloud.com/live/FJ7Q9PIT_C0/playlist.m3u8
 
 #📺 河北频道
+#EXTINF:-1 tvg-id="河北经济生活" tvg-name="河北经济生活" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/河北经济生活.png" group-title="📺 河北频道",河北经济生活
+http://116.132.87.246:8888/newlive/live/hls/20/live.m3u8
+#EXTINF:-1 tvg-id="河北都市" tvg-name="河北都市" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/河北都市.png" group-title="📺 河北频道",河北都市
+http://zdwjl.eatuo.com:808/tsfile/live/1001_1.m3u8
+#EXTINF:-1 tvg-id="河北影视剧" tvg-name="河北影视剧" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/河北影视剧.png" group-title="📺 河北频道",河北影视剧
+http://zdwjl.eatuo.com:808/tsfile/live/1002_1.m3u8
+#EXTINF:-1 tvg-id="河北农民" tvg-name="河北农民" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/河北农民.png" group-title="📺 河北频道",河北农民
+http://zdwjl.eatuo.com:808/tsfile/live/1005_1.m3u8
+#EXTINF:-1 tvg-id="河北少儿科教" tvg-name="河北少儿科教" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/河北少儿科教.png" group-title="📺 河北频道",河北少儿科教
+http://zdwjl.eatuo.com:808/tsfile/live/1003_1.m3u8
+#EXTINF:-1 tvg-id="河北公共" tvg-name="河北公共" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/河北公共.png" group-title="📺 河北频道",河北公共
+http://116.132.87.246:8888/newlive/live/hls/23/live.m3u8
 #EXTINF:-1 tvg-id="石家庄新闻综合" tvg-name="石家庄新闻综合" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/石家庄新闻综合.png" group-title="📺 河北频道",石家庄新闻综合
 http://pluslive1.sjzntv.cn/xmzh/playlist.m3u8
 #EXTINF:-1 tvg-id="石家庄娱乐" tvg-name="石家庄娱乐" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/石家庄娱乐.png" group-title="📺 河北频道",石家庄娱乐
