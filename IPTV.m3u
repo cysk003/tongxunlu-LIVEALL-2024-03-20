@@ -413,15 +413,15 @@ http://v.vlanl.com:4022/udp/225.1.4.194:1244
 http://v.vlanl.com:4022/udp/225.1.4.196:1311
 #EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/河南卫视.png" group-title="📺 河南频道",河南卫视
 http://v.vlanl.com:4022/udp/225.1.4.98:1127
-#EXTINF:-1,tvg-id="河南欢腾购物" tvg-name="河南欢腾购物" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/河南欢腾购物.png" group-title="📺 河南频道",河南欢腾购物 I
+#EXTINF:-1,tvg-id="河南欢腾购物" tvg-name="河南欢腾购物" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/河南欢腾购物.png" group-title="📺 河南频道",欢腾购物 I
 http://v.vlanl.com:4022/udp/225.1.4.57:1086
-#EXTINF:-1,tvg-id="河南欢腾购物" tvg-name="河南欢腾购物" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/河南欢腾购物.png" group-title="📺 河南频道",河南欢腾购物 II
+#EXTINF:-1,tvg-id="河南欢腾购物" tvg-name="河南欢腾购物" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/河南欢腾购物.png" group-title="📺 河南频道",欢腾购物 II
 http://v.vlanl.com:4022/udp/225.1.4.236:1282
-#EXTINF:-1,tvg-id="郑州新闻" tvg-name="郑州综合" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/郑州新闻.png" group-title="📺 河南频道",郑州新闻综合
+#EXTINF:-1,tvg-id="郑州新闻" tvg-name="郑州综合" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/郑州新闻综合.png" group-title="📺 河南频道",郑州新闻综合
 http://v.vlanl.com:4022/udp/225.1.4.140:1176
 #EXTINF:-1,tvg-id="郑州商都" tvg-name="郑州商都" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/郑州商都.png" group-title="📺 河南频道",郑州商都
 http://v.vlanl.com:4022/udp/225.1.4.141:1177
-#EXTINF:-1,tvg-id="郑州文化" tvg-name="郑州旅游" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/郑州文旅.png" group-title="📺 河南频道",郑州文化旅游
+#EXTINF:-1,tvg-id="郑州文化" tvg-name="郑州旅游" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/郑州文化旅游.png" group-title="📺 河南频道",郑州文化旅游
 http://v.vlanl.com:4022/udp/225.1.4.142:1178
 #EXTINF:-1,tvg-id="郑州影视" tvg-name="郑州戏曲" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/郑州影视戏曲.png" group-title="📺 河南频道",郑州影视戏曲
 http://v.vlanl.com:4022/udp/225.1.4.146:1182
