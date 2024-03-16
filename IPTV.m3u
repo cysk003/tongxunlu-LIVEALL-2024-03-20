@@ -276,7 +276,9 @@ http://mywlkj.ddns.net:754/dl/dl668/btv8k.php?id=bjcj
 #EXTINF:-1 tvg-id="北京生活" tvg-name="北京生活" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/北京生活.png" group-title="📺 北京频道",北京生活
 http://mywlkj.ddns.net:754/dl/dl668/btv8k.php?id=bjsh
 #EXTINF:-1 tvg-id="北京体育休闲" tvg-name="北京体育休闲" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/北京体育休闲.png" group-title="📺 北京频道",体育休闲
-http://mywlkj.ddns.net:754/dl/dl668/btv8k.php?id=bjtyxx
+http://111.199.1.184:8686/udp/239.3.1.243:8000
+#EXTINF:-1 tvg-id="北京国际" tvg-name="北京国际" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/北京国际.png" group-title="📺 北京频道",北京国际
+http://111.199.1.184:8686/udp/239.3.1.235:8000
 #EXTINF:-1 tvg-id="IPTV淘Baby" tvg-name="北京淘Baby" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/北京淘Baby.png" group-title="📺 北京频道",北京IPTV淘Baby
 http://qnap.yjnhome.com:4000/udp/239.3.1.238:8001
 #EXTINF:-1 tvg-id="房山无线" tvg-name="房山无线" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/房山无线频道.png" group-title="📺 北京频道",房山无线
