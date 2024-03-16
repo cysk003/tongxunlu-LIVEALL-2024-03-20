@@ -286,7 +286,9 @@ http://live.funhillrm.com/2/sd/live.m3u8
 #EXTINF:-1 tvg-id="江苏优漫卡通" tvg-name="江苏优漫卡通" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/优漫卡通.png" group-title="📺 江苏频道",优漫卡通
 http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
 #EXTINF:-1 tvg-id="江苏城市" tvg-name="江苏城市" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/江苏城市.png" group-title="📺 江苏频道",江苏城市
-http://221.226.4.10:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+http://58.220.219.14:9901/tsfile/live/0120_3.m3u8
+#EXTINF:-1 tvg-id="江苏综艺" tvg-name="江苏综艺" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/江苏综艺.png" group-title="📺 江苏频道",江苏综艺
+http://58.220.219.14:9901/tsfile/live/0120_4.m3u8
 
 #EXTINF:-1 tvg-id="南京综合" tvg-name="南京综合" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/南京新闻综合.png" group-title="📺 江苏频道",南京新闻综合
 http://live.nbs.cn/channels/njtv/xwzh/nbs06.m3u8
