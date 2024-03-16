@@ -401,7 +401,7 @@ http://v.vlanl.com:4022/udp/225.1.4.101:1130
 http://v.vlanl.com:4022/udp/225.1.4.163:1203
 #EXTINF:-1,tvg-id="移动戏曲" tvg-name="移动戏曲" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/河南移动戏曲.png" group-title="📺 河南频道",移动戏曲
 http://v.vlanl.com:4022/udp/225.1.4.206:1254
-#EXTINF:-1,tvg-id="移动电视" tvg-name="移动电视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/河南移动电视.png" group-title="📺 河南频道",移动电视
+#EXTINF:-1,tvg-id="移动电视" tvg-name="河南移动" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/河南移动电视.png" group-title="📺 河南频道",移动电视
 http://v.vlanl.com:4022/udp/225.1.5.40:1350
 #EXTINF:-1,tvg-id="健康河南" tvg-name="健康中原" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/健康河南.png" group-title="📺 河南频道",健康河南
 http://v.vlanl.com:4022/udp/225.1.5.48:1358
@@ -415,17 +415,17 @@ http://v.vlanl.com:4022/udp/225.1.4.98:1127
 http://v.vlanl.com:4022/udp/225.1.4.57:1086
 #EXTINF:-1,tvg-id="河南欢腾购物" tvg-name="河南欢腾购物" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/河南欢腾购物.png" group-title="📺 河南频道",河南欢腾购物 II
 http://v.vlanl.com:4022/udp/225.1.4.236:1282
-#EXTINF:-1,tvg-id="郑州新闻综合" tvg-name="郑州新闻综合" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/郑州新闻.png" group-title="📺 河南频道",郑州新闻综合
+#EXTINF:-1,tvg-id="郑州新闻综合" tvg-name="郑州综合" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/郑州新闻.png" group-title="📺 河南频道",郑州新闻综合
 http://v.vlanl.com:4022/udp/225.1.4.140:1176
 #EXTINF:-1,tvg-id="郑州商都" tvg-name="郑州商都" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/郑州商都.png" group-title="📺 河南频道",郑州商都
 http://v.vlanl.com:4022/udp/225.1.4.141:1177
-#EXTINF:-1,tvg-id="郑州文化旅游" tvg-name="郑州文化旅游" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/郑州文旅.png" group-title="📺 河南频道",郑州文化旅游
+#EXTINF:-1,tvg-id="郑州文化旅游" tvg-name="郑州文旅" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/郑州文旅.png" group-title="📺 河南频道",郑州文化旅游
 http://v.vlanl.com:4022/udp/225.1.4.142:1178
-#EXTINF:-1,tvg-id="郑州影视戏曲" tvg-name="郑州影视戏曲" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/郑州影视戏曲.png" group-title="📺 河南频道",郑州影视戏曲
+#EXTINF:-1,tvg-id="郑州影视戏曲" tvg-name="郑州影视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/郑州影视戏曲.png" group-title="📺 河南频道",郑州影视戏曲
 http://v.vlanl.com:4022/udp/225.1.4.146:1182
-#EXTINF:-1,tvg-id="郑州妇女儿童" tvg-name="郑州妇女儿童" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/郑州妇女儿童.png" group-title="📺 河南频道",郑州妇女儿童
+#EXTINF:-1,tvg-id="郑州妇女儿童" tvg-name="郑州妇女" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/郑州妇女儿童.png" group-title="📺 河南频道",郑州妇女儿童
 http://v.vlanl.com:4022/udp/225.1.4.147:1183
-#EXTINF:-1,tvg-id="郑州都市生活" tvg-name="郑州都市生活" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/郑州都市生活.png" group-title="📺 河南频道",郑州都市生活
+#EXTINF:-1,tvg-id="郑州都市生活" tvg-name="郑州都市" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/郑州都市生活.png" group-title="📺 河南频道",郑州都市生活
 http://v.vlanl.com:4022/udp/225.1.4.149:1185
 #EXTINF:-1,tvg-id="郑州教育" tvg-name="郑州教育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/郑州教育.png" group-title="📺 河南频道",郑州教育
 http://v.vlanl.com:4022/udp/225.1.4.191:1241
