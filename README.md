@@ -1,4 +1,4 @@
-# 📺
+# IPTV📺
 
 🎈**高清、流畅、几近完美**的直播观看体验🎈**强迫症福音**
 
@@ -26,7 +26,6 @@
 
 ## 🏄‍♀️源地址
 
-
 |     📦 名称     |                         🔗直播源地址                         |   🅿状态   | 🆕更新时间  |
 | :-------------: | :----------------------------------------------------------: | :-------: | :--------: |
 | 📺IPTV(直播源) | [🌐订阅链接-IPV4/IPv6用](https://url.5i計畫通行.cloudns.org/IPTV.m3u)|🌕日常更新 | XXXXXX |
@@ -42,6 +41,7 @@
 📺IPTV[TVBOX专用]：`https://url.5i計畫通行.cloudns.org/IPTV.TVBox` [推荐✨][需IPv6支持]
 
 🧢TVBOX[非直播源]：`https://url.5i計畫通行.cloudns.org/TVBox.txt` [多仓源✨]
+
 
 ## 🛠️EPG
 
@@ -67,5 +67,10 @@
 💽**Apple TV：**[APTV](https://apps.apple.com/cn/app/aptv/id1630403500)[推荐✨`体验好，跨平台`]
 
 📲**Android：**[Televizo](https://files.televizo.net/televizo-default.apk) [推荐✨`手机上体验不错、有广告、有内购`][M3UAndroid](https://github.com/realOxy/M3UAndroid)[开源✨`无广告、无内购`]
+
+## 💡致谢：
+- Logo来源：[https://github.com/wanglindl/TVlogo](https://github.com/wanglindl/TVlogo)[`特别感谢`]
+- [erc.cc](https://epg.erw.cc/)及[112114](https://epg.112114.xyz)提供的epg接口[`特别感谢`]
+- GitHub及互联网其他资源[`特别感谢`]
 
 <u>说明：本仓库部分内容引用或参考以上内容，在此表示感谢！！！🎈</u>
