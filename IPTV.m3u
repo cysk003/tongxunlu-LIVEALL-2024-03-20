@@ -479,7 +479,7 @@ http://php.jdshipin.com:8880/chudian.php?id=gdxw
 #EXTINF:-1 tvg-id="广东影视" tvg-name="广东影视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/广东影视.png" group-title="📺 广东频道",广东影视
 http://php.jdshipin.com:8880/chudian.php?id=gdys
 #EXTINF:-1 tvg-id="广东民生" tvg-name="广东民生" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/广东影视.png" group-title="📺 广东频道",广东民生
-http://php.jdshipin.com:8880/gdtv.php?id=gdms
+http://php.jdshipin.com:8880/chudian.php?id=gdms
 #EXTINF:-1 tvg-id="广东经济科教" tvg-name="广东经济科教" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/广东影视.png" group-title="📺 广东频道",广东经济科教
 http://php.jdshipin.com:8880/chudian.php?id=gdkj
 #EXTINF:-1 tvg-id="广东少儿" tvg-name="广东少儿" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/广东影视.png" group-title="📺 广东频道",广东少儿
@@ -506,6 +506,21 @@ http://livepull-tcyzb.sztv.com.cn/live/dushi01.m3u8
 https://stream.sun0769.com/dgrtv1/mp4tv1_1500/index.m3u8
 #EXTINF:-1 tvg-id="东莞生活资讯" tvg-name="东莞生活资讯" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/东莞生活资讯.png" group-title="📺 广东频道",东莞生活资讯「官方」
 https://stream.sun0769.com/dgrtv1/mp4tv2_1500/index.m3u8
+
+#EXTINF:-1 tvg-id="佛山综合" tvg-name="佛山综合" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/佛山综合.png" group-title="📺 广东频道",佛山综合
+http://php.jdshipin.com:8880/fstv.php?id=fszh
+#EXTINF:-1 tvg-id="佛山影视" tvg-name="佛山影视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/佛山影视.png" group-title="📺 广东频道",佛山影视
+http://php.jdshipin.com:8880/fstv.php?id=fsys
+#EXTINF:-1 tvg-id="佛山公共" tvg-name="佛山公共" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/佛山公共.png" group-title="📺 广东频道",佛山公共
+http://php.jdshipin.com:8880/fstv.php?id=fsgg
+#EXTINF:-1 tvg-id="佛山南海" tvg-name="佛山南海" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/佛山南海.png" group-title="📺 广东频道",佛山南海
+http://php.jdshipin.com:8880/fstv.php?id=fsnh
+#EXTINF:-1 tvg-id="佛山顺德" tvg-name="佛山顺德" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/佛山顺德.png" group-title="📺 广东频道",佛山顺德
+http://php.jdshipin.com:8880/fstv.php?id=fssd
+#EXTINF:-1 tvg-id="佛山高明" tvg-name="佛山高明" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/佛山高明.png" group-title="📺 广东频道",佛山高明
+http://php.jdshipin.com:8880/fstv.php?id=fsgm
+#EXTINF:-1 tvg-id="佛山三水" tvg-name="佛山三水" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/佛山三水.png" group-title="📺 广东频道",佛山三水
+http://php.jdshipin.com:8880/fstv.php?id=fsss
 
 #📺 陕西频道
 #EXTINF:-1 tvg-id="陕西一套" tvg-name="陕西一套" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/陕西新闻资讯.png" group-title="📺 陕西频道",陕西新闻资讯
