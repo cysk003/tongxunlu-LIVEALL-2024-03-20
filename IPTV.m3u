@@ -395,7 +395,7 @@ http://v.vlanl.com:4022/udp/225.1.4.102:1131
 http://v.vlanl.com:4022/udp/225.1.4.99:1128
 #EXTINF:-1,tvg-id="收藏天下" tvg-name="收藏天下" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/河南收藏天下.png" group-title="📺 河南频道",收藏天下
 http://v.vlanl.com:4022/udp/225.1.4.100:1129
-#EXTINF:-1,tvg-id="中华功夫" tvg-name="中华功夫" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/河南中华功夫.png" group-title="📺 河南频道",中华功夫
+#EXTINF:-1,tvg-id="中华功夫" tvg-name="河南功夫" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/河南中华功夫.png" group-title="📺 河南频道",中华功夫
 http://v.vlanl.com:4022/udp/225.1.4.101:1130
 #EXTINF:-1,tvg-id="睛彩中原" tvg-name="睛彩中原" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/河南睛彩中原.png" group-title="📺 河南频道",睛彩中原
 http://v.vlanl.com:4022/udp/225.1.4.163:1203
@@ -403,7 +403,7 @@ http://v.vlanl.com:4022/udp/225.1.4.163:1203
 http://v.vlanl.com:4022/udp/225.1.4.206:1254
 #EXTINF:-1,tvg-id="移动电视" tvg-name="移动电视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/河南移动电视.png" group-title="📺 河南频道",移动电视
 http://v.vlanl.com:4022/udp/225.1.5.40:1350
-#EXTINF:-1,tvg-id="健康河南" tvg-name="健康河南" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/健康河南.png" group-title="📺 河南频道",健康河南
+#EXTINF:-1,tvg-id="健康河南" tvg-name="健康中原" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/健康河南.png" group-title="📺 河南频道",健康河南
 http://v.vlanl.com:4022/udp/225.1.5.48:1358
 #EXTINF:-1,tvg-id="河南导视" tvg-name="河南导视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/河南导视.png" group-title="📺 河南频道",河南导视
 http://v.vlanl.com:4022/udp/225.1.4.194:1244
