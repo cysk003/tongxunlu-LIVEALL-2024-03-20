@@ -261,10 +261,12 @@ http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226247/index.m3u8
 #EXTINF:-1 tvg-id="置业" tvg-name="置业" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/置业频道.png" group-title="📺 数字频道",置业频道
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226241/index.m3u8
-#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/重温经典.png" group-title="📺 数字频道",重温经典·北京
+#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/重温经典.png" group-title="📺 数字频道",重温经典•北京
 http://43.141.130.70/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
-#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/重温经典.png" group-title="📺 数字频道",重温经典·哈尔滨
+#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/重温经典.png" group-title="📺 数字频道",重温经典•哈尔滨
 http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
+#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/重温经典.png" group-title="📺 数字频道",重温经典•香港
+http://tvbox6.com/tv/dl/dl668/bfgd.php?id=635
 
 #📺 北京频道
 #EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/纪实科教.png" group-title="📺 北京频道",纪实科教
@@ -695,6 +697,60 @@ http://iptv.hiper25.com:42487/guangzhouxinwen/video.m3u8?token=1710447330
 http://iptv.hiper25.com:42487/jingbaotiyu/video.m3u8?token=1710447330
 #EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/新视觉.png" group-title="📺 廣電·IPv6",新視覺（廣電 IPv6）
 http://iptv.hiper25.com:42487/xinshijue/video.m3u8?token=1710447330
+
+#📺 埋堆堆•港剧
+#EXTINF:-1 tvg-id="埋堆堆" tvg-name="埋堆堆" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/埋堆堆.png" group-title="📺 埋堆堆•港剧",埋堆堆 1
+https://yang-1989.eu.org/huya/23740156
+#EXTINF:-1 tvg-id="埋堆堆" tvg-name="埋堆堆" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/埋堆堆.png" group-title="📺 埋堆堆•港剧",埋堆堆 2
+https://yang-1989.eu.org/huya/23749096
+#EXTINF:-1 tvg-id="埋堆堆" tvg-name="埋堆堆" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/埋堆堆.png" group-title="📺 埋堆堆•港剧",埋堆堆 3
+https://yang-1989.eu.org/huya/23735126
+#EXTINF:-1 tvg-id="埋堆堆" tvg-name="埋堆堆" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/埋堆堆.png" group-title="📺 埋堆堆•港剧",埋堆堆 4
+https://yang-1989.eu.org/huya/23903123
+#EXTINF:-1 tvg-id="埋堆堆" tvg-name="埋堆堆" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/埋堆堆.png" group-title="📺 埋堆堆•港剧",埋堆堆 5
+https://yang-1989.eu.org/huya/23734169
+#EXTINF:-1 tvg-id="埋堆堆" tvg-name="埋堆堆" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/埋堆堆.png" group-title="📺 埋堆堆•港剧",埋堆堆 6
+https://yang-1989.eu.org/huya/23863804
+#EXTINF:-1 tvg-id="埋堆堆" tvg-name="埋堆堆" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/埋堆堆.png" group-title="📺 埋堆堆•港剧",埋堆堆 7
+https://yang-1989.eu.org/huya/23865080
+#EXTINF:-1 tvg-id="埋堆堆" tvg-name="埋堆堆" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/埋堆堆.png" group-title="📺 埋堆堆•港剧",埋堆堆 8
+https://yang-1989.eu.org/huya/23864973
+#EXTINF:-1 tvg-id="埋堆堆" tvg-name="埋堆堆" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/埋堆堆.png" group-title="📺 埋堆堆•港剧",埋堆堆 9
+https://yang-1989.eu.org/huya/23903130
+#EXTINF:-1 tvg-id="埋堆堆" tvg-name="埋堆堆" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/埋堆堆.png" group-title="📺 埋堆堆•港剧",埋堆堆 10
+https://yang-1989.eu.org/huya/23860039
+#EXTINF:-1 tvg-id="埋堆堆" tvg-name="埋堆堆" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/埋堆堆.png" group-title="📺 埋堆堆•港剧",埋堆堆 11
+https://yang-1989.eu.org/huya/23903183
+#EXTINF:-1 tvg-id="埋堆堆" tvg-name="埋堆堆" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/埋堆堆.png" group-title="📺 埋堆堆•港剧",埋堆堆 12
+https://yang-1989.eu.org/huya/23903196
+#EXTINF:-1 tvg-id="埋堆堆" tvg-name="埋堆堆" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/埋堆堆.png" group-title="📺 埋堆堆•港剧",埋堆堆 13
+https://yang-1989.eu.org/huya/23728674
+#EXTINF:-1 tvg-id="埋堆堆" tvg-name="埋堆堆" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/埋堆堆.png" group-title="📺 埋堆堆•港剧",埋堆堆 14
+https://yang-1989.eu.org/huya/23865036
+#EXTINF:-1 tvg-id="埋堆堆" tvg-name="埋堆堆" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/埋堆堆.png" group-title="📺 埋堆堆•港剧",埋堆堆 15
+https://yang-1989.eu.org/huya/23829543
+#EXTINF:-1 tvg-id="埋堆堆" tvg-name="埋堆堆" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/埋堆堆.png" group-title="📺 埋堆堆•港剧",埋堆堆 16
+https://yang-1989.eu.org/huya/23865161
+#EXTINF:-1 tvg-id="埋堆堆" tvg-name="埋堆堆" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/埋堆堆.png" group-title="📺 埋堆堆•港剧",埋堆堆 17
+https://yang-1989.eu.org/huya/23865058
+#EXTINF:-1 tvg-id="埋堆堆" tvg-name="埋堆堆" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/埋堆堆.png" group-title="📺 埋堆堆•港剧",埋堆堆 18
+https://yang-1989.eu.org/huya/23824164
+#EXTINF:-1 tvg-id="埋堆堆" tvg-name="埋堆堆" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/埋堆堆.png" group-title="📺 埋堆堆•港剧",埋堆堆 19
+https://yang-1989.eu.org/huya/23863796
+#EXTINF:-1 tvg-id="埋堆堆" tvg-name="埋堆堆" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/埋堆堆.png" group-title="📺 埋堆堆•港剧",埋堆堆 20
+https://yang-1989.eu.org/huya/23734183
+#EXTINF:-1 tvg-id="埋堆堆" tvg-name="埋堆堆" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/埋堆堆.png" group-title="📺 埋堆堆•港剧",埋堆堆 21
+https://yang-1989.eu.org/huya/23728660
+#EXTINF:-1 tvg-id="埋堆堆" tvg-name="埋堆堆" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/埋堆堆.png" group-title="📺 埋堆堆•港剧",埋堆堆 22
+https://yang-1989.eu.org/huya/23865142
+#EXTINF:-1 tvg-id="埋堆堆" tvg-name="埋堆堆" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/埋堆堆.png" group-title="📺 埋堆堆•港剧",埋堆堆 23
+https://yang-1989.eu.org/huya/23734246
+#EXTINF:-1 tvg-id="埋堆堆" tvg-name="埋堆堆" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/埋堆堆.png" group-title="📺 埋堆堆•港剧",埋堆堆 24
+https://yang-1989.eu.org/huya/23865171
+#EXTINF:-1 tvg-id="埋堆堆" tvg-name="埋堆堆" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/埋堆堆.png" group-title="📺 埋堆堆•港剧",埋堆堆 25
+https://yang-1989.eu.org/huya/23734256
+#EXTINF:-1 tvg-id="埋堆堆" tvg-name="埋堆堆" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/埋堆堆.png" group-title="📺 埋堆堆•港剧",埋堆堆 26
+https://yang-1989.eu.org/huya/23749083
 
 #📺 NewTV系列
 #EXTINF:-1 tvg-id="newtv超级电视剧" tvg-name="超级电视剧" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/超级电视剧.png" group-title="📺 NewTV系列",超级电视剧
