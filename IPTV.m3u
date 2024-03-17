@@ -231,7 +231,7 @@ http://159.75.85.63:5679/cctv4k.php
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000008000023254/1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="苏州4K" tvg-name="苏州4K" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/苏州4K.png" group-title="📺 4K•频道",苏州•4K
 http://liveshowbak2.kan0512.com/ksznorecord/csztv4k_4k.m3u8
-#EXTINF:-1 tvg-id="4K影视" tvg-name="4K影视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/4K影视.png" group-title="📺 4K•频道",4K•影视
+#EXTINF:-1 tvg-id="华数4K" tvg-name="华数TV 4K" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/华数TV.png" group-title="📺 4K•频道",华数TV•4K
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/纯享4K.png" group-title="📺 4K•频道",纯享•4K
 http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011651/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
