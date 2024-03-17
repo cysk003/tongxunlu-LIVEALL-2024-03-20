@@ -2,3 +2,22 @@
 http://159.75.85.63:5679/cctv8k.php
 #EXTINF:-1 group-title="🦄4K-8K频道",CCTV4K
 http://159.75.85.63:5679/cctv4k.php
+
+#EXTINF:-1,tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://epg.112114.xyz/logo/北京文艺.png" group-title="北京",BTV文艺
+http://183.242.49.77:8787/live/BTV文艺/index.m3u8
+#EXTINF:-1,tvg-id="BTV科教" tvg-name="BTV科教" tvg-logo="https://epg.112114.xyz/logo/BTV科教.png" group-title="北京",BTV科教
+http://183.242.49.77:8787/live/BTV科教/index.m3u8
+#EXTINF:-1,tvg-id="北京影视" tvg-name="北京影视" tvg-logo="https://epg.112114.xyz/logo/北京影视.png" group-title="北京",BTV影视
+http://183.242.49.77:8787/live/BTV影视/index.m3u8
+#EXTINF:-1,tvg-id="北京财经" tvg-name="北京财经" tvg-logo="https://epg.112114.xyz/logo/北京财经.png" group-title="北京",BTV财经
+http://183.242.49.77:8787/live/BTV财经/index.m3u8
+#EXTINF:-1,tvg-id="北京体育休闲" tvg-name="北京体育休闲" tvg-logo="https://epg.112114.xyz/logo/北京体育休闲.png" group-title="北京",BTV体育
+http://183.242.49.77:8787/live/BTV体育/index.m3u8
+#EXTINF:-1,tvg-id="北京生活" tvg-name="北京生活" tvg-logo="https://epg.112114.xyz/logo/北京生活.png" group-title="北京",BTV生活
+http://183.242.49.77:8787/live/BTV生活/index.m3u8
+#EXTINF:-1,tvg-id="北京国际频道" tvg-name="北京国际频道" tvg-logo="https://epg.112114.xyz/logo/北京国际频道.png" group-title="北京",BTV国际
+http://183.242.49.77:8787/live/BTV国际/index.m3u8
+#EXTINF:-1,tvg-id="北京新闻" tvg-name="北京新闻" tvg-logo="https://epg.112114.xyz/logo/北京新闻.png" group-title="北京",BTV新闻
+http://183.242.49.77:8787/live/BTV新闻/index.m3u8
+#EXTINF:-1,tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://epg.112114.xyz/logo/卡酷少儿.png" group-title="北京",BTV卡酷少儿
+http://183.242.49.77:8787/live/BTV卡酷少儿/index.m3u8
