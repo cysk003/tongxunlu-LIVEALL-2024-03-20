@@ -1,2 +1,2 @@
-#EXTINF:-1 tvg-id="华数高清" tvg-name="华数高清" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/华数.png" group-title="数字",华数超清
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226664/index.m3u8
+#EXTINF:-1 tvg-id="华数亚洲影院" tvg-name="华数亚洲影院" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/华数TV.png" group-title="📺 数字频道",华数TV•4K
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId
