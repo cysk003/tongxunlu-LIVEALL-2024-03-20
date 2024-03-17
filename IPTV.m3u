@@ -682,38 +682,38 @@ http://116.9.204.242:9901/tsfile/live/0125_1.m3u8
 #EXTINF:-1 tvg-id="广西都市" tvg-name="广西都市" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/广西都市.png" group-title="📺 广西频道",广西都市
 http://116.9.204.242:9901/tsfile/live/1002_1.m3u8
 
-#📺 廣電·IPv6
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/翡翠台.png" group-title="📺 廣電·IPv6",翡翠台（廣電 IPv6）
+#📺 廣電•IPv6
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/翡翠台.png" group-title="📺 廣電•IPv6",翡翠台（廣電 IPv6）
 http://iptv.hiper25.com:42487/TVB/video.m3u8?token=1710447330
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/明珠台.png" group-title="📺 廣電·IPv6",明珠台（廣電 IPv6）
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/明珠台.png" group-title="📺 廣電•IPv6",明珠台（廣電 IPv6）
 http://iptv.hiper25.com:42487/Pearl/video.m3u8?token=1710447330
-#EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/澳视澳门.png" group-title="📺 廣電·IPv6",澳視澳門（廣電 IPv6）
+#EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/澳视澳门.png" group-title="📺 廣電•IPv6",澳視澳門（廣電 IPv6）
 http://iptv.hiper25.com:42487/TDM/video.m3u8?token=1710447330
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/广东卫视.png" group-title="📺 廣電·IPv6",廣東衛視（廣電 IPv6）
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/广东卫视.png" group-title="📺 廣電•IPv6",廣東衛視（廣電 IPv6）
 http://iptv.hiper25.com:42487/guangdongHD/video.m3u8?token=1710447330
-#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/广东珠江.png" group-title="📺 廣電·IPv6",廣東珠江（廣電 IPv6）
+#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/广东珠江.png" group-title="📺 廣電•IPv6",廣東珠江（廣電 IPv6）
 http://iptv.hiper25.com:42487/gdzhujiangHD/video.m3u8?token=1710447330
-#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/广东珠江.png" group-title="📺 廣電·IPv6",廣東體育（廣電 IPv6）
+#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/广东珠江.png" group-title="📺 廣電•IPv6",廣東體育（廣電 IPv6）
 http://iptv.hiper25.com:42487/guangdongtiyu/video.m3u8?token=1710447330
-#EXTINF:-1 tvg-id="广东新闻" tvg-name="广东新闻" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/广东新闻.png" group-title="📺 廣電·IPv6",廣東新聞（廣電 IPv6）
+#EXTINF:-1 tvg-id="广东新闻" tvg-name="广东新闻" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/广东新闻.png" group-title="📺 廣電•IPv6",廣東新聞（廣電 IPv6）
 http://iptv.hiper25.com:42487/guangdongnews/video.m3u8?token=1710447330
-#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/广东珠江.png" group-title="📺 廣電·IPv6",廣東民生（廣電 IPv6）
+#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/广东珠江.png" group-title="📺 廣電•IPv6",廣東民生（廣電 IPv6）
 http://iptv.hiper25.com:42487/guangdongmingsheng/video.m3u8?token=1710447330
-#EXTINF:-1 tvg-id="广东经济科教" tvg-name="广东经济科教" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/广东经济科教.png" group-title="📺 廣電·IPv6",廣東經濟科教（廣電 IPv6）
+#EXTINF:-1 tvg-id="广东经济科教" tvg-name="广东经济科教" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/广东经济科教.png" group-title="📺 廣電•IPv6",廣東經濟科教（廣電 IPv6）
 http://iptv.hiper25.com:42487/GDjingjikejiaoHD/video.m3u8?token=1710447330
-#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/大湾区卫视.png" group-title="📺 廣電·IPv6",大灣區衛視（廣電 IPv6）
+#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/大湾区卫视.png" group-title="📺 廣電•IPv6",大灣區衛視（廣電 IPv6）
 http://iptv.hiper25.com:42487/gdnanfang/video.m3u8?token=1710447330
-#EXTINF:-1 tvg-id="广东影视" tvg-name="广东影视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/广东影视.png" group-title="📺 廣電·IPv6",廣東影視（廣電 IPv6）
+#EXTINF:-1 tvg-id="广东影视" tvg-name="广东影视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/广东影视.png" group-title="📺 廣電•IPv6",廣東影視（廣電 IPv6）
 http://iptv.hiper25.com:42487/gdyingshi/video.m3u8?token=1710447330
-#EXTINF:-1 tvg-id="广东岭南戏曲" tvg-name="广东岭南戏曲" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/岭南戏曲.png" group-title="📺 廣電·IPv6",岭南戏曲（廣電 IPv6）
+#EXTINF:-1 tvg-id="广东岭南戏曲" tvg-name="广东岭南戏曲" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/岭南戏曲.png" group-title="📺 廣電•IPv6",岭南戏曲（廣電 IPv6）
 http://iptv.hiper25.com:42487/lingnanxiqu/video.m3u8?token=1710447330
-#EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/广州综合.png" group-title="📺 廣電·IPv6",廣州綜合（廣電 IPv6）
+#EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/广州综合.png" group-title="📺 廣電•IPv6",廣州綜合（廣電 IPv6）
 http://iptv.hiper25.com:42487/guangzhouzonghe/video.m3u8?token=1710447330
-#EXTINF:-1 tvg-id="广州新闻" tvg-name="广州新闻" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/广州新闻.png" group-title="📺 廣電·IPv6",廣州新聞（廣電 IPv6）
+#EXTINF:-1 tvg-id="广州新闻" tvg-name="广州新闻" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/广州新闻.png" group-title="📺 廣電•IPv6",廣州新聞（廣電 IPv6）
 http://iptv.hiper25.com:42487/guangzhouxinwen/video.m3u8?token=1710447330
-#EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/劲爆体育.png" group-title="📺 廣電·IPv6",勁爆體育（廣電 IPv6）
+#EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/劲爆体育.png" group-title="📺 廣電•IPv6",勁爆體育（廣電 IPv6）
 http://iptv.hiper25.com:42487/jingbaotiyu/video.m3u8?token=1710447330
-#EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/新视觉.png" group-title="📺 廣電·IPv6",新視覺（廣電 IPv6）
+#EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/新视觉.png" group-title="📺 廣電•IPv6",新視覺（廣電 IPv6）
 http://iptv.hiper25.com:42487/xinshijue/video.m3u8?token=1710447330
 
 #🎥 埋堆堆•港剧
