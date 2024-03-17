@@ -224,20 +224,20 @@ https://yang-1989.eu.org/jd/fhxg
 #EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/香港卫视.png" group-title="📺 卫视频道",香港衛視
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
-#📺 4K频道
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/CCTV4K.png" group-title="📺 4K频道",CCTV 4K
+#📺 4K•频道
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/CCTV4K.png" group-title="📺 4K•频道",CCTV•4K
 http://159.75.85.63:5679/cctv4k.php
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/CCTV16.png" group-title="📺 4K频道",CCTV16 4K
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/CCTV16.png" group-title="📺 4K•频道",CCTV16•4K
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000008000023254/1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="苏州4K" tvg-name="苏州4K" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/苏州4K.png" group-title="📺 4K频道",苏州4K
+#EXTINF:-1 tvg-id="苏州4K" tvg-name="苏州4K" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/苏州4K.png" group-title="📺 4K•频道",苏州•4K
 http://liveshowbak2.kan0512.com/ksznorecord/csztv4k_4k.m3u8
-#EXTINF:-1 tvg-id="4K影视" tvg-name="4K影视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/4K影视.png" group-title="📺 4K频道",4K影视
+#EXTINF:-1 tvg-id="4K影视" tvg-name="4K影视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/4K影视.png" group-title="📺 4K•频道",4K•影视
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/纯享4K.png" group-title="📺 4K频道",纯享4K
+#EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/纯享4K.png" group-title="📺 4K•频道",纯享•4K
 http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011651/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="4K测试" tvg-name="4K测试" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/4K测试.png" group-title="📺 4K频道",4K测试
+#EXTINF:-1 tvg-id="4K测试" tvg-name="4K测试" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/4K测试.png" group-title="📺 4K•频道",4K•测试
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
-#EXTINF:-1 tvg-id="Love Nrture 4K" tvg-name="Love Nrture 4K" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/4K自然.png" group-title="📺 4K频道",Love Nrture 4K「自然」
+#EXTINF:-1 tvg-id="Love Nrture 4K" tvg-name="Love Nrture 4K" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/4K自然.png" group-title="📺 4K•频道",Love Nrture 4K「自然」
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 #📺 数字频道
