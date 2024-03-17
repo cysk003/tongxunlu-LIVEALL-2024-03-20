@@ -4,9 +4,9 @@
 #EXTINF:-1 tvg-id="多屏实时" tvg-name="多屏实时" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/多屏实时.png" group-title="♻️ 多屏实时",多屏实时 I
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226337/index.m3u8
 #EXTINF:-1 tvg-id="多屏实时" tvg-name="多屏实时" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/多屏实时.png" group-title="♻️ 多屏实时",多屏实时 II
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001579/index.m3u8
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001579/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="多屏实时" tvg-name="多屏实时" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/多屏实时.png" group-title="♻️ 多屏实时",多屏实时 III
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001589/index.m3u8
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001589/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #🐼 熊宝频道
 #EXTINF:-1 tvg-id="iPanda" tvg-name="iPanda" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/熊宝频道.png" group-title="🐼 熊宝频道",都江堰青青
