@@ -283,6 +283,14 @@ http://43.141.130.70/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3
 http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/重温经典.png" group-title="📺 数字频道",重温经典•香港
 http://tvbox6.com/tv/dl/dl668/bfgd.php?id=635
+#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/重温经典.png" group-title="📺 数字频道",重温经典•乌鲁木齐
+http://36.108.172.237:10005/stream/channelid/1379387286?ticket=0bbf0fa9b0d03fc5f32588c5e4a19869f807b853&profile=pass
+#EXTINF:-1,tvg-id="高清剧场" tvg-name="高清剧场" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/高清剧场.png" group-title="📺 数字频道",高清剧场
+http://60.10.203.69:8000/4.m3u8
+#EXTINF:-1,tvg-id="经典功夫" tvg-name="经典功夫" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/经典功夫.png" group-title="📺 数字频道",经典功夫
+http://47.109.155.164/%E5%B0%8F%E6%9B%BE/yy.php?id=1355002394
+#EXTINF:-1,tvg-id="真武侠台" tvg-name="真武侠台" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/真武侠台.png" group-title="📺 数字频道",真武侠
+http://1.62.64.252/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/tx.flv.huya.com/src/1199632572132-1199632572132-7318565434771983384-2399265267720-10057-A-1703986510-1.flv
 
 #📺 北京频道
 #EXTINF:-1,tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/北京文艺.png" group-title="📺 北京频道",BTV文艺
