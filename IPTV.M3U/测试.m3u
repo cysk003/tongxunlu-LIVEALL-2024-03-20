@@ -1,16 +1,6 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/Discovery探索.png" group-title="📺 港澳台频道",Discovery•探索
-http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbjbvnjjsfjvbhfhcvbcvjfdvbnjcjjsjjjejjtspj.flv
+https://stray.serv00.net/ad.php?url=https://svipsvip.ffzyread1.com/20240316/25252_6b78a01e/index.m3u8
 #EXTINF:-1 tvg-id="动物星球" tvg-name="动物星球" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/动物星球.png" group-title="📺 港澳台频道",動物星球
-http://ali.hlspull.yximgs.com/live/huanqiuhklivexcvbpjyhvjcvnjjsfjvbhfhcjhbnjsjbcvjfdvjsfcbjbnjjwxj.flv
-#EXTINF:-1,tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://epg.112114.xyz/logo/重温经典.png" group-title="其他",重温经典
-http://36.108.172.237:10005/stream/channelid/1379387286?ticket=0bbf0fa9b0d03fc5f32588c5e4a19869f807b853&profile=pass
-#EXTINF:-1,tvg-id="高清剧场" tvg-name="高清剧场" tvg-logo="https://epg.112114.xyz/logo/高清剧场.png" group-title="其他",高清剧场
-http://60.10.203.69:8000/4.m3u8
-#EXTINF:-1,tvg-id="经典功夫" tvg-name="经典功夫" tvg-logo="https://epg.112114.xyz/logo/经典功夫.png" group-title="其他",经典功夫
-http://47.109.155.164/%E5%B0%8F%E6%9B%BE/yy.php?id=1355002394
-#EXTINF:-1,tvg-id="龙腾功夫" tvg-name="龙腾功夫" tvg-logo="https://epg.112114.xyz/logo/龙腾功夫.png" group-title="其他",龙腾功夫
-http://43.138.170.29:35455/douyu/11402750
-#EXTINF:-1,tvg-id="真武侠台" tvg-name="真武侠台" tvg-logo="https://epg.112114.xyz/logo/真武侠台.png" group-title="其他",真武侠台
-http://1.62.64.252/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/tx.flv.huya.com/src/1199632572132-1199632572132-7318565434771983384-2399265267720-10057-A-1703986510-1.flv
+https://stray.serv00.net/liangzi/a275259d604ade8252e03b91bea3aa05.m3u8
