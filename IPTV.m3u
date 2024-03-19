@@ -279,7 +279,7 @@ http://tvbox6.com/tv/dl/dl668/bfgd.php?id=635
 http://36.108.172.237:10005/stream/channelid/1379387286?ticket=0bbf0fa9b0d03fc5f32588c5e4a19869f807b853&profile=pass
 #EXTINF:-1,tvg-id="1905环球经典" tvg-name="1905环球经典" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/1905电影网.png" group-title="📺 数字频道",1905环球经典
 http://mywlkj.ddns.net:754/tv/1905.php?id=1905a
-#EXTINF:-1,tvg-id="1905电影" tvg-name="1905极限反转" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/1905电影网.png" group-title="📺 数字频道",1905电影
+#EXTINF:-1,tvg-id="1905真相影院" tvg-name="1905真相影院" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/1905电影网.png" group-title="📺 数字频道",1905真相·影院
 http://mywlkj.ddns.net:754/tv/1905.php?id=1905b
 
 #📺 北京频道
