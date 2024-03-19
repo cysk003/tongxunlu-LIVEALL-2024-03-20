@@ -277,6 +277,10 @@ http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcl
 http://tvbox6.com/tv/dl/dl668/bfgd.php?id=635
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/重温经典.png" group-title="📺 数字频道",重温经典•乌鲁木齐
 http://36.108.172.237:10005/stream/channelid/1379387286?ticket=0bbf0fa9b0d03fc5f32588c5e4a19869f807b853&profile=pass
+#EXTINF:-1,tvg-id="1905电影a" tvg-name="1905电影a" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/1905电影网.png" group-title="其他",1905电影Ⅰ
+http://mywlkj.ddns.net:754/tv/1905.php?id=1905a
+#EXTINF:-1,tvg-id="1905电影b" tvg-name="1905电影b" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/1905电影网.png" group-title="其他",1905电影Ⅱ
+http://mywlkj.ddns.net:754/tv/1905.php?id=1905b
 
 #📺 北京频道
 #EXTINF:-1,tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/北京文艺.png" group-title="📺 北京频道",BTV文艺
@@ -297,7 +301,21 @@ http://183.242.49.77:8787/live/BTV新闻/index.m3u8
 http://183.242.49.77:8787/live/BTV科教/index.m3u8
 #EXTINF:-1,tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/卡酷少儿.png" group-title="📺 北京频道",BTV卡酷少儿
 http://183.242.49.77:8787/live/BTV卡酷少儿/index.m3u8
-#EXTINF:-1 tvg-id="IPTV淘Baby" tvg-name="北京淘Baby" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/北京淘Baby.png" group-title="📺 北京频道",北京IPTV淘Baby
+#EXTINF:-1,tvg-id="北京淘剧场" tvg-name="北京淘剧场" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/北京淘剧场.png" group-title="📺 北京频道",北京淘剧场
+http://home4.kmo.ink:8888/udp/239.3.1.95:8001
+#EXTINF:-1,tvg-id="北京淘娱乐" tvg-name="北京淘娱乐" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/北京淘娱乐.png" group-title="📺 北京频道",北京淘娱乐
+http://home4.kmo.ink:8888/udp/239.3.1.100:8001
+#EXTINF:-1,tvg-id="北京萌宠 TV" tvg-name="北京萌宠 TV" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/北京萌宠TV.png" group-title="📺 北京频道",北京萌宠 TV
+http://home4.kmo.ink:8888/udp/239.3.1.102:8001
+#EXTINF:-1,tvg-id="北京淘精彩" tvg-name="北京淘精彩" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/北京淘精彩.png" group-title="📺 北京频道",北京淘精彩
+http://home4.kmo.ink:8888/udp/239.3.1.178:8001
+#EXTINF:-1,tvg-id="北京淘电影" tvg-name="北京淘电影" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/北京淘电影.png" group-title="📺 北京频道",北京淘电影
+http://home4.kmo.ink:8888/udp/239.3.1.250:8001
+#EXTINF:-1,tvg-id="北京大健康" tvg-name="北京大健康" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/北京大健康.png" group-title="📺 北京频道",北京大健康
+http://home4.kmo.ink:8888/udp/239.3.1.251:8001
+#EXTINF:-1,tvg-id="北京淘BABY" tvg-name="北京淘BABY" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/北京淘BABY.png" group-title="📺 北京频道",北京淘BABYⅠ
+http://home4.kmo.ink:8888/udp/239.3.1.238:8001
+#EXTINF:-1 tvg-id="IPTV淘Baby" tvg-name="北京淘Baby" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/北京淘Baby.png" group-title="📺 北京频道",北京IPTV淘BabyⅡ
 http://qnap.yjnhome.com:4000/udp/239.3.1.238:8001
 #EXTINF:-1 tvg-id="房山无线" tvg-name="房山无线" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/房山无线频道.png" group-title="📺 北京频道",房山无线
 http://live.funhillrm.com/2/sd/live.m3u8
@@ -633,6 +651,8 @@ http://liveflash.sxrtv.com/live/sxedu.m3u8?sub_m3u8=true&edge_slice=true
 http://liveflash.sxrtv.com/live/sxpublic.m3u8?sub_m3u8=true&edge_slice=true
 #EXTINF:-1 tvg-id="山西影视" tvg-name="山西影视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/山西影视.png" group-title="📺 山西频道",山西影视
 http://liveflash.sxrtv.com/live/sxfilm.m3u8?sub_m3u8=true&edge_slice=true
+#EXTINF:-1,tvg-id="黄河国际" tvg-name="黄河国际" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/黄河国际.png" group-title="其他",黄河国际
+http://liveflash.sxrtv.com/live/huanghe.m3u8?sub_m3u8=true&edge_slice=true
 
 #📺 辽宁频道
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/辽宁卫视.png" group-title="📺 辽宁频道", 辽宁卫视
@@ -722,8 +742,12 @@ http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/凤凰资讯.png" group-title="📺 港澳台頻道",鳳凰衛視資訊Ⅰ
 http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/凤凰中文.png" group-title="📺 港澳台頻道",鳳凰衛視中文Ⅱ
+http://171.214.225.189:5555/udp/239.93.0.162:2192
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/凤凰资讯.png" group-title="📺 港澳台頻道",鳳凰衛視資訊Ⅱ
+http://171.214.225.189:5555/udp/239.93.0.118:2191
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/凤凰中文.png" group-title="📺 港澳台頻道",鳳凰衛視中文Ⅲ
 http://ali.hlspull.yximgs.com/live/huanqiuhklivetvjjpcpvuejljydjjyfjoxvchjwhjwdojjjhjjlsjhbjfhjw.flv
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/凤凰资讯.png" group-title="📺 港澳台頻道",鳳凰衛視資訊Ⅱ
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/凤凰资讯.png" group-title="📺 港澳台頻道",鳳凰衛視資訊Ⅲ
 http://ali.hlspull.yximgs.com/live/huanqiuhklivetvjjpcpdvuejljyjjyfjoxvchjwhjwojjjhdjjlsjhbjfhjx.flv
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/翡翠台.png" group-title="📺 港澳台頻道",翡翠•TVB
 http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwwjpthjyjtjjjxcxbfhjjfjvhdtjdvbtvjsjxjfsjjcvbctvbfc.flv
