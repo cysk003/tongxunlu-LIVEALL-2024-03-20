@@ -305,7 +305,7 @@ http://183.242.49.77:8787/live/BTV卡酷少儿/index.m3u8
 http://home4.kmo.ink:8888/udp/239.3.1.95:8001
 #EXTINF:-1,tvg-id="北京淘娱乐" tvg-name="北京淘娱乐" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/北京淘娱乐.png" group-title="📺 北京频道",北京淘娱乐
 http://home4.kmo.ink:8888/udp/239.3.1.100:8001
-#EXTINF:-1,tvg-id="北京萌宠" tvg-name="北京萌宠TV" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/北京萌宠TV.png" group-title="📺 北京频道",北京萌宠TV
+#EXTINF:-1,tvg-id="北京萌宠" tvg-name="萌宠TV" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/北京萌宠TV.png" group-title="📺 北京频道",北京萌宠TV
 http://home4.kmo.ink:8888/udp/239.3.1.102:8001
 #EXTINF:-1,tvg-id="北京淘精彩" tvg-name="北京淘精彩" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/北京淘精彩.png" group-title="📺 北京频道",北京淘精彩
 http://home4.kmo.ink:8888/udp/239.3.1.178:8001
