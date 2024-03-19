@@ -57,3 +57,19 @@ https://i.mjh.nz/SamsungTVPlus/USAJ3000013FJ.m3u8
 http://live.kytv.co.kr:8080/hls/stream.m3u8
 #EXTINF:-1,tvg-id="国乐电视 " tvg-name="国乐电视 " tvg-logo="https://epg.112114.xyz/logo/国乐电视.png" group-title="其他",国乐电视 
 https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+#EXTINF:-1,tvg-id="环球电视台" tvg-name="环球电视台" tvg-logo="https://epg.112114.xyz/logo/环球电视台.png" group-title="其他",环球电视台
+http://zb.xzxwhcb.com:9999/hls/world.m3u8
+#EXTINF:-1,tvg-id="东森亚洲新闻台" tvg-name="东森亚洲新闻台" tvg-logo="https://epg.112114.xyz/logo/东森亚洲新闻台.png" group-title="其他",亚洲新闻
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1,tvg-id="亞太第一衛視綜合頻道" tvg-name="亞太第一衛視綜合頻道" tvg-logo="https://epg.112114.xyz/logo/亞太第一衛視綜合頻道.png" group-title="其他",亞太第一衛視綜合頻道
+http://play2.one-tv.com/live/onetv.m3u8
+#EXTINF:-1,tvg-id="香港佛陀" tvg-name="香港佛陀" tvg-logo="https://epg.112114.xyz/logo/香港佛陀.png" group-title="香港",香港佛陀
+http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
+#EXTINF:-1,tvg-id="华语电视2" tvg-name="华语电视2" tvg-logo="https://epg.112114.xyz/logo/华语电视2.png" group-title="其他",华语电视2
+http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
+#EXTINF:-1,tvg-id="金砖中文" tvg-name="金砖中文" tvg-logo="https://epg.112114.xyz/logo/金砖中文.png" group-title="其他",金砖中文
+http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+#EXTINF:-1,tvg-id="耀才财经" tvg-name="耀才财经" tvg-logo="https://epg.112114.xyz/logo/耀才财经.png" group-title="其他",耀才财经
+https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8#http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1,tvg-id="澳亚卫视" tvg-name="澳亚卫视" tvg-logo="https://epg.112114.xyz/logo/澳亚卫视.png" group-title="卫视",澳亚卫视
+https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
