@@ -311,7 +311,7 @@ http://home4.kmo.ink:8888/udp/239.3.1.102:8001
 http://home4.kmo.ink:8888/udp/239.3.1.178:8001
 #EXTINF:-1,tvg-id="北京淘电影" tvg-name="北京淘电影" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/北京淘电影.png" group-title="📺 北京频道",北京淘电影
 http://home4.kmo.ink:8888/udp/239.3.1.250:8001
-#EXTINF:-1,tvg-id="大健康" tvg-name="北京大健康" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/北京大健康.png" group-title="📺 北京频道",北京大健康
+#EXTINF:-1,tvg-id="北京大健康" tvg-name="IPTV大健康" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/北京大健康.png" group-title="📺 北京频道",北京大健康
 http://home4.kmo.ink:8888/udp/239.3.1.251:8001
 #EXTINF:-1,tvg-id="北京淘BABY" tvg-name="北京淘BABY" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/北京淘Baby.png" group-title="📺 北京频道",北京淘BABY Ⅰ
 http://home4.kmo.ink:8888/udp/239.3.1.238:8001
