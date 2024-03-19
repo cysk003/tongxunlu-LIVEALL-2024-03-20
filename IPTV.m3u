@@ -867,11 +867,11 @@ http://ali.hlspull.yximgs.com/live/huanqiuhklivexcvbpjyhvjbvnjjsfjvbhfhcjhbnjsjb
 http://ali.hlspull.yximgs.com/live/huanqiuhklivejjojjxcvyhjsjhtejwfhfvjjdvbdjsjjjhjljsjvcelevend.flv
 #EXTINF:-1,tvg-id="环球电视台" tvg-name="环球电视台" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/环球电视台.png" group-title="📺 港澳台頻道",環球電視台
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
-#EXTINF:-1,tvg-id="东森亚洲新闻台" tvg-name="东森亚洲新闻台" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/东森亚洲新闻.png" group-title="📺 港澳台頻道",東森亞洲新聞
+#EXTINF:-1,tvg-id="亚洲新闻" tvg-name="亚洲新闻台" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/东森亚洲新闻.png" group-title="📺 港澳台頻道",東森亞洲新聞
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1,tvg-id="亞太第一衛視" tvg-name="亞太第一衛視綜合" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/亞太第一衛視.png" group-title="📺 港澳台頻道",亞太第一衛視綜合
+#EXTINF:-1,tvg-id="亞太第一衛視" tvg-name="亞太第一衛視綜合" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/亞太第一衛視.png" group-title="📺 港澳台頻道",亞太第一衛視
 http://play2.one-tv.com/live/onetv.m3u8
-#EXTINF:-1,tvg-id="金砖中文" tvg-name="金砖中文" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/金砖中文.png" group-title="其他",金磚中文
+#EXTINF:-1,tvg-id="金砖中文" tvg-name="金砖中文" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/金砖中文.png" group-title="港澳台頻道",金磚中文
 http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 #EXTINF:-1,tvg-id="高清剧场" tvg-name="高清剧场" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/高清剧场.png" group-title="📺 港澳台頻道",高清剧场
 http://60.10.203.69:8000/4.m3u8
@@ -879,7 +879,7 @@ http://60.10.203.69:8000/4.m3u8
 http://47.109.155.164/%E5%B0%8F%E6%9B%BE/yy.php?id=1355002394
 #EXTINF:-1,tvg-id="真武侠台" tvg-name="真武侠台" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/真武侠台.png" group-title="📺 港澳台頻道",真武侠
 http://1.62.64.252/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/tx.flv.huya.com/src/1199632572132-1199632572132-7318565434771983384-2399265267720-10057-A-1703986510-1.flv
-#EXTINF:-1,tvg-id="香港佛陀" tvg-name="香港佛陀" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/香港佛陀.png" group-title="📺 港澳台頻道",香港佛陀
+#EXTINF:-1,tvg-id="香港佛陀" tvg-name="佛卫慈悲台" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/香港佛陀.png" group-title="📺 港澳台頻道",香港佛陀
 http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
 
 #🎥 埋堆堆•港剧
