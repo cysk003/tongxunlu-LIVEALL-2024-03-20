@@ -1,0 +1,567 @@
+#EXTINF:-1 group-title="体育频道",曼联官方 MUTV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+#EXTINF:-1 group-title="体育频道",广东体育
+http://iptv.eatuo.com:9901/tsfile/live/1004_1.m3u8
+#EXTINF:-1 group-title="体育频道",纬来体育
+https://cloud.yumixiu768.com/tmp/123.m3u8
+#EXTINF:-1 group-title="体育频道",安徽体育
+http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
+#EXTINF:-1 group-title="体育频道",CCTV5体育
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
+#EXTINF:-1 group-title="体育频道",CCTV5+体育赛事
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
+#EXTINF:-1 group-title="体育频道",风云足球
+https://live.goodiptv.club/api/yqgd.php?id=fyzq
+#EXTINF:-1 group-title="体育频道",皇马RMTV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+#EXTINF:-1 group-title="体育频道",劲爆体育
+https://live.goodiptv.club/api/yqgd.php?id=jbtyhd
+#EXTINF:-1 group-title="体育频道",劲爆体育
+https://live.v1.mk/api/ghyx.php?id=JinBaoTiYuHD_6000
+#EXTINF:-1 group-title="体育频道",五星体育
+http://222.71.90.218:8888/newlive/live/hls/56/live.m3u8
+#EXTINF:-1 group-title="体育频道",Bahrain Sports 2
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="体育频道",EDGEsport
+https://edgesport-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="体育频道",Red Bull TV HD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 group-title="体育频道",Red Bull TV HD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
+#EXTINF:-1 group-title="体育频道",Trace Sports Stars
+https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="体育频道",Астрахань.Ru Sport
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v5a1/index.m3u8
+#EXTINF:-1 group-title="体育频道",Астрахань.Ru Sport
+https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
+#EXTINF:-1 group-title="体育频道",Астрахань.Ru Sport
+https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="体育频道",红牛RedBull
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 group-title="体育频道",红牛RedBull
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+#EXTINF:-1 group-title="体育频道",beIN SPORTS-2
+https://live.9528.eu.org/783281f456d82f5fbb.m3u8
+#EXTINF:-1 group-title="体育频道",sky sport main event UHD 4K 50帧
+https://live.9528.eu.org/8ea1dd6e9a76dbc453e6dffe06879568.m3u8
+#EXTINF:-1 group-title="体育频道",爱尔达体育2
+http://198.16.100.90:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
+#EXTINF:-1 group-title="体育频道",纬来体育
+https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
+#EXTINF:-1 group-title="体育频道",纬来体育 FHD
+http://ali.hlspull.yximgs.com/live/7qvlzZeiRYNkx1Dwn6mLv3PM8GERr19J.flv
+#EXTINF:-1 group-title="体育频道",纬来体育
+https://cloud.yumixiu768.com/tmp/123.m3u8
+#EXTINF:-1 group-title="体育频道",纬来篮球
+http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
+#EXTINF:-1 group-title="体育频道",纬来篮球
+https://cloud.yumixiu768.com/tmp/123.m3u8
+#EXTINF:-1 group-title="体育频道",纬来篮球
+https://epg.pw/stream/65161be2ecd7c7b2e054dbac30922b2673b4eff6497b77c71bb81215aa826cc4.m3u8
+#EXTINF:-1 group-title="体育频道",晴彩篮球
+http://home4.kmo.ink:8888/udp/239.3.1.126:8001
+#EXTINF:-1 group-title="体育频道",晴彩竞技
+http://home4.kmo.ink:8888/udp/239.3.1.125:8001
+#EXTINF:-1 group-title="体育频道",CCTV-05
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+#EXTINF:-1 group-title="体育频道",CCTV+5+
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+#EXTINF:-1 group-title="体育频道",羽毛球台
+http://blc.zmychn.cn:4000/udp/225.1.2.1:5002
+#EXTINF:-1 group-title="体育频道",精品体育
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225674/1.m3u8
+#EXTINF:-1 group-title="体育频道",美国摔跤
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 group-title="体育频道",CCTV5-
+http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
+#EXTINF:-1 group-title="体育频道",体育1
+https://edge1.laotv.la/live/Bsport1/index.m3u8
+#EXTINF:-1 group-title="体育频道",体育2
+https://edge1.laotv.la/live/Bsport1/sc-gaFECQ/v0_index.m3u8
+#EXTINF:-1 group-title="体育频道",体育3
+https://edge1.laotv.la/live/Bsport1/sc-gaFECQ/a0_index.m3u8
+#EXTINF:-1 group-title="体育频道",beIN SPORTS 1
+https://edge1.laotv.la/live/Bsport1/index.m3u8
+#EXTINF:-1 group-title="体育频道",beIN SPORTS 1
+https://p2p.cdn-domain.com/hls/live/2000341/test/level_2.m3u8
+#EXTINF:-1 group-title="体育频道",beIN SPORTS 2
+https://edge2.laotv.la/live/Bsport2/index.m3u8
+#EXTINF:-1 group-title="体育频道",beIN SPORTS 2
+https://edge2.laotv.la/live/Bsport2/sc-gaFECQ/v0_index.m3u8
+#EXTINF:-1 group-title="体育频道",beIN SPORTS 2
+https://edge2.laotv.la/live/Bsport2/sc-gaFECQ/a0_index.m3u8
+#EXTINF:-1 group-title="体育频道",ky Sport
+https://donelfantastic.github.io/live/skysportsNz8.m3u8
+#EXTINF:-1 group-title="体育频道",Sky Sport 1
+https://donelfantastic.github.io/live/skysportsNz1.m3u8
+#EXTINF:-1 group-title="体育频道",Sky Sport 2
+https://donelfantastic.github.io/live/skysportsNz2.m3u8
+#EXTINF:-1 group-title="体育频道",Sky Sport 3
+https://donelfantastic.github.io/live/skysportsNz3.m3u8
+#EXTINF:-1 group-title="体育频道",Sky Sport 4
+https://donelfantastic.github.io/live/skysportsNz4.m3u8
+#EXTINF:-1 group-title="体育频道",Sky Sport 5
+https://donelfantastic.github.io/live/skysportsNz5.m3u8
+#EXTINF:-1 group-title="体育频道",Sky Sport 6
+https://donelfantastic.github.io/live/skysportsNz6.m3u8
+#EXTINF:-1 group-title="体育频道",Sky Sport 7
+https://donelfantastic.github.io/live/skysportsNz7.m3u8
+#EXTINF:-1 group-title="体育频道",Sky Sport 9
+https://donelfantastic.github.io/live/skysportsNz9.m3u8
+#EXTINF:-1 group-title="体育频道",Sky Sports
+https://hls.streambtw.com/live/stream_1.m3u8
+#EXTINF:-1 group-title="体育频道",Alfa Sport (1080p) [Not 24/7]
+https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx
+#EXTINF:-1 group-title="体育频道",欧洲体育2
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12048/index.m3u8
+#EXTINF:-1 group-title="体育频道",欧洲体育1
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/141/index.m3u8
+#EXTINF:-1 group-title="体育频道",极限运动
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/144/index.m3u8
+#EXTINF:-1 group-title="体育频道",俄罗斯体育
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/530/index.m3u8
+#EXTINF:-1 group-title="体育频道",拜仁体育
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6097/index.m3u8
+#EXTINF:-1 group-title="体育频道",天空体育 足球
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7336/index.m3u8
+#EXTINF:-1 group-title="体育频道",天空体育 新闻
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2477/index.m3u8
+#EXTINF:-1 group-title="体育频道",天空体育 板球
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7343/index.m3u8
+#EXTINF:-1 group-title="体育频道",纬来篮球
+http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
+#EXTINF:-1 group-title="体育频道",安徽体育
+http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
+#EXTINF:-1 group-title="体育频道",CCTV16
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
+#EXTINF:-1 group-title="体育频道",五星体育
+http://222.71.90.218:8888/newlive/live/hls/56/live.m3u8
+#EXTINF:-1 group-title="体育频道",先锋乒羽
+http://httpdvb.slave.yqdtv.com:13164/playurl?programid=4200000116&playtype=live&protocol=hls&playtoken=31603YEQXREOPEG10&accesstoken=G79E6023V21307D1TD05FABJB53102ABM786710FEI3282697DK98BDA6.m3u8
+#EXTINF:-1 group-title="体育频道",国外体育6
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="体育频道",小七直播不定时
+https://pull.lianggexinxi.xyz/live/stream-418311_lsd.m3u8?_=1698249099856
+#EXTINF:-1 group-title="体育频道",大邱直播不定时
+https://pull.lianggexinxi.xyz/live/stream-600428_lsd.m3u8?_=1697006121706
+#EXTINF:-1 group-title="体育频道",大神直播不定时
+https://pull.lianggexinxi.xyz/live/stream-600428_lsd.m3u8?_=1697004264631
+#EXTINF:-1 group-title="体育频道",米哥直播不定时
+https://pull.lianggexinxi.xyz/live/stream-431228_lsd.m3u8?_=1698248787521
+#EXTINF:-1 group-title="体育频道",Arryadia (360p) [Not 24/7]
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia.m3u8
+#EXTINF:-1 group-title="体育频道",ATG (432p)
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
+#EXTINF:-1 group-title="体育频道",Awapa Sports TV (1080p) [Not 24/7]
+https://mgv-awapa.akamaized.net/hls/live/2104282/MGV_CHANNEL15/master.m3u8
+#EXTINF:-1 group-title="体育频道",CAF TV (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCr5K057x3mHroPHsNk9OiwA.m3u8
+#EXTINF:-1 group-title="体育频道",CampusLore (720p)
+https://linear-235.frequency.stream/dist/glewedtv/235/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="体育频道",Canal 11 (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCMfEEaNYYX5w6nbvccTCHhg.m3u8
+#EXTINF:-1 group-title="体育频道",Canal do Inter (720p) [Not 24/7]
+https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
+#EXTINF:-1 group-title="体育频道",Canal Motor (720p)
+https://digicom.hls.iptvdc.com/canalmotor/index.m3u8
+#EXTINF:-1 group-title="体育频道",CazéTV (1080p) [Geo-blocked]
+https://ythls.armelin.one/channel/UCZiYbVptd3PVPf4f6eR6UaQ.m3u8
+#EXTINF:-1 group-title="体育频道",CCTV-5 (1080p)
+http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+#EXTINF:-1 group-title="体育频道",DD Sports (576p)
+http://103.199.161.254/Content/ddsports/Live/Channel%28DDSPORTS%29/index.m3u8
+#EXTINF:-1 group-title="体育频道",DeporTV (1080p) [Not 24/7]
+https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+#EXTINF:-1 group-title="体育频道",DSTV (720p)
+http://79.120.178.90:1935/dstv/dstvlive/playlist.m3u8
+#EXTINF:-1 group-title="体育频道",Fight Network (1080p)
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 group-title="体育频道",FightBox
+http://stream01.vnet.am/Fightbox/mono.m3u8
+#EXTINF:-1 group-title="体育频道",FTV (720p)
+https://master.tucableip.com/ftv/index.m3u8
+#EXTINF:-1 group-title="体育频道",fubo Sports Network (720p)
+https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8
+#EXTINF:-1 group-title="体育频道",FUEL TV (1080p)
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/fuel-tv/606c2f67-acff-4152-975a-e5bfef54eb61/2.m3u8
+#EXTINF:-1 group-title="体育频道",Gaora Sports (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
+#EXTINF:-1 group-title="体育频道",Golf Network (720p)
+http://203.162.235.41:28107
+#EXTINF:-1 group-title="体育频道",IMPACT Wrestling (1080p)
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 group-title="体育频道",J Sports 1 (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
+#EXTINF:-1 group-title="体育频道",J Sports 2 (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
+#EXTINF:-1 group-title="体育频道",J Sports 3 (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
+#EXTINF:-1 group-title="体育频道",J Sports 4 (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
+#EXTINF:-1 group-title="体育频道",La Redonda TV (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCG_S--F4wcdre2-8PG9YlhA.m3u8
+#EXTINF:-1 group-title="体育频道",M-Net Sport (720p)
+http://ares.mnet.mk/hls/mnet-sport.m3u8
+#EXTINF:-1 group-title="体育频道",MNB Sport (576p)
+https://live.mnb.mn/live/mnb_sport.stream/playlist.m3u8
+#EXTINF:-1 group-title="体育频道",MUTV (720p)
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+#EXTINF:-1 group-title="体育频道",Ovacion TV (720p) [Not 24/7]
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:-1 group-title="体育频道",Pac 12 Insider (1080p)
+https://pac12-roku-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="体育频道",Racing.com (720p)
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
+#EXTINF:-1 group-title="体育频道",Real Madrid
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
+#EXTINF:-1 group-title="体育频道",Red Bull TV (1080p)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 group-title="体育频道",San Marino RTV Sport (720p)
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
+#EXTINF:-1 group-title="体育频道",Ski TV (1080p) [Not 24/7]
+https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SynapseTV/193.m3u8
+#EXTINF:-1 group-title="体育频道",Swerve Sports (1080p)
+https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="体育频道",Teledeporte (1080p) [Geo-blocked]
+https://rtvelivestream.akamaized.net/rtvesec/tdp/tdp_main.m3u8
+#EXTINF:-1 group-title="体育频道",Teletrak (720p)
+https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+#EXTINF:-1 group-title="体育频道",TR Sport (480p)
+https://livetr.teleromagna.it/mia/live/playlist.m3u8
+#EXTINF:-1 group-title="体育频道",Trace Sports Stars
+https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="体育频道",Türkmenistan Sport (406p) [Not 24/7]
+https://alpha.tv.online.tm/hls/ch004.m3u8
+#EXTINF:-1 group-title="体育频道",TVMAX (720p)
+https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
+#EXTINF:-1 group-title="体育频道",Unbeaten (1080p)
+https://unbeaten-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="体育频道",Астрахань.Ru Sport (720p)
+https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
+#EXTINF:-1 group-title="体育频道",Бокс ТВ
+http://stream01.vnet.am/BoksTv/mono.m3u8
+#EXTINF:-1 group-title="体育频道",Старт (1080p) [Geo-blocked]
+https://strm.yandex.ru/kal/start/start0.m3u8
+#EXTINF:-1 group-title="体育频道",Старт Триумф (1080p) [Geo-blocked]
+https://strm.yandex.ru/kal/start_triumf/start_triumf0.m3u8
+
+#EXTINF:-1 group-title="NBA-CBA",NBA-01
+http://129.226.149.79:4785/html/SPlive.php?access_token=Star-Fairy&id=mgline01
+#EXTINF:-1 group-title="NBA-CBA",NBA-02
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mgline02
+#EXTINF:-1 group-title="NBA-CBA",NBA-03
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mgline03
+#EXTINF:-1 group-title="NBA-CBA",NBA-04
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mgline04
+#EXTINF:-1 group-title="NBA-CBA",NBA-05
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mgline05
+#EXTINF:-1 group-title="NBA-CBA",NBA-06
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mgline06
+#EXTINF:-1 group-title="NBA-CBA",NBA-07
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mgline07
+#EXTINF:-1 group-title="NBA-CBA",NBA-08
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mgline08
+#EXTINF:-1 group-title="NBA-CBA",NBA-09
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mgline09
+#EXTINF:-1 group-title="NBA-CBA",NBA-10
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mgline10
+#EXTINF:-1 group-title="NBA-CBA",NBA-11
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mgline11
+#EXTINF:-1 group-title="NBA-CBA",NBA-12
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mgline12
+#EXTINF:-1 group-title="NBA-CBA",腾讯NBA-01
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=txline01
+#EXTINF:-1 group-title="NBA-CBA",腾讯NBA-02
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=txline02
+#EXTINF:-1 group-title="NBA-CBA",腾讯NBA-03
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=txline03
+#EXTINF:-1 group-title="NBA-CBA",腾讯NBA-04
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=txline04
+#EXTINF:-1 group-title="NBA-CBA",腾讯NBA-05
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=txline05
+#EXTINF:-1 group-title="NBA-CBA",腾讯NBA-06
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=txline06
+#EXTINF:-1 group-title="NBA-CBA",腾讯NBA-07
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=txline07
+#EXTINF:-1 group-title="NBA-CBA",腾讯NBA-08
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=txline08
+#EXTINF:-1 group-title="NBA-CBA",腾讯NBA-09
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=txline09
+#EXTINF:-1 group-title="NBA-CBA",腾讯NBA-10
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=txline10
+#EXTINF:-1 group-title="NBA-CBA",腾讯NBA-11
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=txline11
+#EXTINF:-1 group-title="NBA-CBA",腾讯NBA-12
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=txline12
+#EXTINF:-1 group-title="NBA-CBA",帧享NBA-01
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=zxline01
+#EXTINF:-1 group-title="NBA-CBA",帧享NBA-02
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=zxline02
+#EXTINF:-1 group-title="NBA-CBA",帧享NBA-03
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=zxline03
+#EXTINF:-1 group-title="NBA-CBA",帧享NBA-04
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=zxline04
+#EXTINF:-1 group-title="NBA-CBA",帧享NBA-05
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=zxline05
+#EXTINF:-1 group-title="NBA-CBA",帧享NBA-06
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=zxline06
+#EXTINF:-1 group-title="NBA-CBA",帧享NBA-07
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=zxline07
+#EXTINF:-1 group-title="NBA-CBA",帧享NBA-08
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=zxline08
+#EXTINF:-1 group-title="NBA-CBA",帧享NBA-09
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=zxline09
+#EXTINF:-1 group-title="NBA-CBA",帧享NBA-10
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=zxline10
+#EXTINF:-1 group-title="NBA-CBA",帧享NBA-11
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=zxline11
+#EXTINF:-1 group-title="NBA-CBA",帧享NBA-12
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=zxline12
+#EXTINF:-1 group-title="NBA-CBA",英超-01
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=ycline01
+#EXTINF:-1 group-title="NBA-CBA",英超-02
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=ycline02
+#EXTINF:-1 group-title="NBA-CBA",英超-03
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=ycline03
+#EXTINF:-1 group-title="NBA-CBA",英超-04
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=ycline04
+#EXTINF:-1 group-title="NBA-CBA",英超-05
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=ycline05
+#EXTINF:-1 group-title="NBA-CBA",英超-06
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=ycline06
+#EXTINF:-1 group-title="NBA-CBA",英超-07
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=ycline07
+#EXTINF:-1 group-title="NBA-CBA",英超-08
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=ycline08
+#EXTINF:-1 group-title="NBA-CBA",英超-09
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=ycline09
+#EXTINF:-1 group-title="NBA-CBA",英超-10
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=ycline10
+#EXTINF:-1 group-title="NBA-CBA",体育赛事-01
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=spline01
+#EXTINF:-1 group-title="NBA-CBA",体育赛事-02
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=spline02
+#EXTINF:-1 group-title="NBA-CBA",体育赛事-03
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=spline03
+#EXTINF:-1 group-title="NBA-CBA",体育赛事-04
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=spline04
+#EXTINF:-1 group-title="NBA-CBA",体育赛事-05
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=spline05
+#EXTINF:-1 group-title="NBA-CBA",体育赛事-06
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=spline06
+#EXTINF:-1 group-title="NBA-CBA",体育赛事-07
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=spline07
+#EXTINF:-1 group-title="NBA-CBA",体育赛事-08
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=spline08
+#EXTINF:-1 group-title="NBA-CBA",体育赛事-09
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=spline09
+#EXTINF:-1 group-title="NBA-CBA",体育赛事-10
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=spline10
+#EXTINF:-1 group-title="NBA-CBA",游戏赛事-01
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=game01
+#EXTINF:-1 group-title="NBA-CBA",游戏赛事-02
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=game02
+#EXTINF:-1 group-title="NBA-CBA",游戏赛事-03
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=game03
+#EXTINF:-1 group-title="NBA-CBA",游戏赛事-04
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=game04
+#EXTINF:-1 group-title="NBA-CBA",游戏赛事-05
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=game05
+#EXTINF:-1 group-title="NBA-CBA",咪咕Live-1-4K
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg14k1
+#EXTINF:-1 group-title="NBA-CBA",咪咕Live-2-4K
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg14k2
+#EXTINF:-1 group-title="NBA-CBA",咪咕综合
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1tyzh
+#EXTINF:-1 group-title="NBA-CBA",咪咕足球
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zq
+#EXTINF:-1 group-title="NBA-CBA",咪咕健身
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1js
+#EXTINF:-1 group-title="NBA-CBA",咪咕Live-1
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb01
+#EXTINF:-1 group-title="NBA-CBA",咪咕Live-2
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb02
+#EXTINF:-1 group-title="NBA-CBA",咪咕Live-3
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb03
+#EXTINF:-1 group-title="NBA-CBA",咪咕Live-4
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb04
+#EXTINF:-1 group-title="NBA-CBA",咪咕Live-5
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb05
+#EXTINF:-1 group-title="NBA-CBA",咪咕Live-6
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb06
+#EXTINF:-1 group-title="NBA-CBA",咪咕Live-7
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb07
+#EXTINF:-1 group-title="NBA-CBA",咪咕Live-8
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb08
+#EXTINF:-1 group-title="NBA-CBA",咪咕Live-9
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb09
+#EXTINF:-1 group-title="NBA-CBA",咪咕Live-10
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb10
+#EXTINF:-1 group-title="NBA-CBA",咪咕Live-11
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb11
+#EXTINF:-1 group-title="NBA-CBA",咪咕Live-12
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb12
+#EXTINF:-1 group-title="NBA-CBA",咪咕Live-13
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb13
+#EXTINF:-1 group-title="NBA-CBA",咪咕Live-14
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb14
+#EXTINF:-1 group-title="NBA-CBA",咪咕Live-15
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb15
+#EXTINF:-1 group-title="NBA-CBA",咪咕Live-16
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb16
+#EXTINF:-1 group-title="NBA-CBA",咪咕Live-17
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb17
+#EXTINF:-1 group-title="NBA-CBA",咪咕Live-18
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb18
+#EXTINF:-1 group-title="NBA-CBA",咪咕Live-19
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb19
+#EXTINF:-1 group-title="NBA-CBA",咪咕Live-20
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb20
+#EXTINF:-1 group-title="NBA-CBA",咪咕Live-21
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb21
+#EXTINF:-1 group-title="NBA-CBA",咪咕Live-22
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb22
+#EXTINF:-1 group-title="NBA-CBA",咪咕Live-23
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb23
+#EXTINF:-1 group-title="NBA-CBA",咪咕Live-24
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb24
+#EXTINF:-1 group-title="NBA-CBA",咪咕Live-25
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb25
+#EXTINF:-1 group-title="NBA-CBA",咪咕Live-26
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb26
+#EXTINF:-1 group-title="NBA-CBA",咪咕Live-27
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb27
+#EXTINF:-1 group-title="NBA-CBA",咪咕Live-28
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb28
+#EXTINF:-1 group-title="NBA-CBA",咪咕Live-29
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb29
+#EXTINF:-1 group-title="NBA-CBA",咪咕Live-30
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb30
+#EXTINF:-1 group-title="NBA-CBA",咪咕Live-31
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb31
+#EXTINF:-1 group-title="NBA-CBA",咪咕Live-32
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb32
+#EXTINF:-1 group-title="NBA-CBA",咪咕Live-33
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb33
+#EXTINF:-1 group-title="NBA-CBA",咪咕Live-34
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb34
+#EXTINF:-1 group-title="NBA-CBA",咪咕Live-35
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb35
+#EXTINF:-1 group-title="NBA-CBA",咪咕Live-36
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb36
+#EXTINF:-1 group-title="NBA-CBA",咪咕Live-37
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb37
+#EXTINF:-1 group-title="NBA-CBA",咪咕Live-38
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb38
+#EXTINF:-1 group-title="NBA-CBA",咪咕Live-39
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb39
+#EXTINF:-1 group-title="NBA-CBA",咪咕Live-40
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb40
+#EXTINF:-1 group-title="NBA-CBA",咪咕Live-41
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb41
+#EXTINF:-1 group-title="NBA-CBA",咪咕Live-42
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb42
+#EXTINF:-1 group-title="NBA-CBA",咪咕Live-43
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb43
+#EXTINF:-1 group-title="NBA-CBA",咪咕Live-44
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb44
+#EXTINF:-1 group-title="NBA-CBA",咪咕Live-45
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb45
+#EXTINF:-1 group-title="NBA-CBA",咪咕Live-46
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb46
+#EXTINF:-1 group-title="NBA-CBA",咪咕Live-47
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb47
+#EXTINF:-1 group-title="NBA-CBA",咪咕Live-48
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb48
+#EXTINF:-1 group-title="NBA-CBA",咪咕Live-49
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb49
+#EXTINF:-1 group-title="NBA-CBA",咪咕Live-50
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb50
+#EXTINF:-1 group-title="NBA-CBA",咪咕Live-51
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb51
+#EXTINF:-1 group-title="NBA-CBA",咪咕Live-52
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb52
+#EXTINF:-1 group-title="NBA-CBA",咪咕Live-53
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb53
+#EXTINF:-1 group-title="NBA-CBA",咪咕Live-54
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb54
+#EXTINF:-1 group-title="NBA-CBA",咪咕Live-55
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb55
+#EXTINF:-1 group-title="NBA-CBA",咪咕Live-56
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb56
+#EXTINF:-1 group-title="NBA-CBA",咪咕Live-57
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb57
+#EXTINF:-1 group-title="NBA-CBA",咪咕Live-58
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb58
+#EXTINF:-1 group-title="NBA-CBA",咪咕Live-59
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb59
+#EXTINF:-1 group-title="NBA-CBA",咪咕Live-60
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb60
+#EXTINF:-1 group-title="NBA-CBA",咪咕Live-61
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb61
+#EXTINF:-1 group-title="NBA-CBA",Live-6134
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg2zb01
+#EXTINF:-1 group-title="NBA-CBA",Live-6137
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg2zb02
+#EXTINF:-1 group-title="NBA-CBA",Live-6140
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg2zb03
+#EXTINF:-1 group-title="NBA-CBA",Live-6143
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg2zb04
+#EXTINF:-1 group-title="NBA-CBA",Live-6146
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg2zb05
+#EXTINF:-1 group-title="NBA-CBA",Live-6149
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg2zb06
+#EXTINF:-1 group-title="NBA-CBA",Live-6151
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg2zb07
+#EXTINF:-1 group-title="NBA-CBA",Live-6152
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg2zb08
+#EXTINF:-1 group-title="NBA-CBA",Live-6154
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg2zb09
+#EXTINF:-1 group-title="NBA-CBA",Live-6157
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg2zb10
+#EXTINF:-1 group-title="NBA-CBA",Live-6160
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg2zb11
+#EXTINF:-1 group-title="NBA-CBA",Live-6177
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg2zb12
+#EXTINF:-1 group-title="NBA-CBA",Live-6183
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg2zb13
+#EXTINF:-1 group-title="NBA-CBA",Live-6186
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg2zb14
+#EXTINF:-1 group-title="NBA-CBA",Live-6223
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg2zb15
+#EXTINF:-1 group-title="NBA-CBA",Live-6227
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg2zb16
+#EXTINF:-1 group-title="NBA-CBA",Live-6226
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg2zb17
+#EXTINF:-1 group-title="NBA-CBA",Live-6229
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg2zb18
+#EXTINF:-1 group-title="NBA-CBA",Live-6230
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg2zb19
+#EXTINF:-1 group-title="NBA-CBA",Live-6233
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg2zb20
+#EXTINF:-1 group-title="NBA-CBA",Live-6236
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg2zb21
+#EXTINF:-1 group-title="NBA-CBA",Live-6258
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg2zb22
+#EXTINF:-1 group-title="NBA-CBA",Live-6261
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg2zb23
+#EXTINF:-1 group-title="NBA-CBA",Live-6264
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg2zb24
+#EXTINF:-1 group-title="NBA-CBA",Live-6323
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg2zb25
+#EXTINF:-1,tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://epg.112114.xyz/logo/纬来体育台.png" group-title="港澳台",纬来体育
+https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e12ea01.m3u8
+#EXTINF:-1,tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://epg.112114.xyz/logo/纬来体育台.png" group-title="港澳台",纬来体育
+http://198.16.100.90:8278/videolandsport/playlist.m3u8?tid=MF0F9609085796090857&ct=19254&tsum=6bf853a68e195475b4892428199568c7
+#EXTINF:-1,tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://epg.112114.xyz/logo/纬来体育台.png" group-title="港澳台",纬来体育
+http://198.16.100.90:8278/videolandsport/playlist.m3u8?tid=MA6A1192684511926845&ct=19226&tsum=0b7ca9a61e7371df68108a27dc358c68
+#EXTINF:-1,tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://epg.112114.xyz/logo/纬来体育台.png" group-title="港澳台",纬来体育
+https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8
+#EXTINF:-1,tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://epg.112114.xyz/logo/纬来体育台.png" group-title="港澳台",纬来体育
+https://epg.pw/stream/ab6df63b64d0cc44a1f4f029ed847a26fa54a7aebd455578fb05a63f02c22f4b.m3u8
+#EXTINF:-1,tvg-id="爱尔达体育1" tvg-name="爱尔达体育1" tvg-logo="https://epg.112114.xyz/logo/爱尔达体育1.png" group-title="其他",爱尔达体育
+http://198.16.100.90:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
+#EXTINF:-1,tvg-id="ELEVEN体育一台" tvg-name="ELEVEN体育一台" tvg-logo="https://epg.112114.xyz/logo/ELEVEN体育一台.png" group-title="港澳台",ELEVEN体育
+http://50.7.238.114:8278/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512c75a8882f121120
+#EXTINF:-1,tvg-id="ELEVEN体育一台" tvg-name="ELEVEN体育一台" tvg-logo="https://epg.112114.xyz/logo/ELEVEN体育一台.png" group-title="港澳台",ELEVEN体育
+http://50.7.238.114:8278/golfchannel_twn/playlist.m3u8?tid=m43df9270caf7&ct=18335&tsum=3bcc02e810e7073b86bb40d392e95f23
