@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1,tvg-id="黄河国际 http://liveflash.sxrtv.com/live/huanghe.m3u8?sub_m3u8=true&edge_slice=true" tvg-name="黄河国际 http://liveflash.sxrtv.com/live/huanghe.m3u8?sub_m3u8=true&edge_slice=true" tvg-logo="https://epg.112114.xyz/logo/黄河国际HTTP://LIVEFLASH.SXRTV.COM/LIVE/HUANGHE3U8?SUB_M3U8=TRUE&EDGE_SLICE=TRUE.png" group-title="其他",黄河国际 http://liveflash.sxrtv.com/live/huanghe.m3u8?sub_m3u8=true&edge_slice=true
-undefined
+#EXTINF:-1,tvg-id="黄河国际" tvg-name="黄河国际" tvg-logo="https://epg.112114.xyz/logo/黄河国际.png" group-title="其他",黄河国际
+http://liveflash.sxrtv.com/live/huanghe.m3u8?sub_m3u8=true&edge_slice=true
 #EXTINF:-1,tvg-id="1905电影a" tvg-name="1905电影a" tvg-logo="https://epg.112114.xyz/logo/电影A.png" group-title="其他",1905电影a
 http://mywlkj.ddns.net:754/tv/1905.php?id=1905a
 #EXTINF:-1,tvg-id="1905电影b" tvg-name="1905电影b" tvg-logo="https://epg.112114.xyz/logo/电影B.png" group-title="其他",1905电影b
