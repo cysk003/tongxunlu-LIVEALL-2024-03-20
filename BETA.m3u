@@ -1,25 +1,59 @@
 #EXTM3U
-#EXTINF:-1,tvg-id="黄河国际" tvg-name="黄河国际" tvg-logo="https://epg.112114.xyz/logo/黄河国际.png" group-title="其他",黄河国际
-http://liveflash.sxrtv.com/live/huanghe.m3u8?sub_m3u8=true&edge_slice=true
-#EXTINF:-1,tvg-id="1905电影a" tvg-name="1905电影a" tvg-logo="https://epg.112114.xyz/logo/电影A.png" group-title="其他",1905电影a
-http://mywlkj.ddns.net:754/tv/1905.php?id=1905a
-#EXTINF:-1,tvg-id="1905电影b" tvg-name="1905电影b" tvg-logo="https://epg.112114.xyz/logo/电影B.png" group-title="其他",1905电影b
-http://mywlkj.ddns.net:754/tv/1905.php?id=1905b
-#EXTINF:-1,tvg-id="北京淘剧场" tvg-name="北京淘剧场" tvg-logo="https://epg.112114.xyz/logo/北京淘剧场.png" group-title="北京",北京淘剧场
-http://home4.kmo.ink:8888/udp/239.3.1.95:8001
-#EXTINF:-1,tvg-id="北京淘娱乐" tvg-name="北京淘娱乐" tvg-logo="https://epg.112114.xyz/logo/北京淘娱乐.png" group-title="北京",北京淘娱乐
-http://home4.kmo.ink:8888/udp/239.3.1.100:8001
-#EXTINF:-1,tvg-id="北京萌宠 TV" tvg-name="北京萌宠 TV" tvg-logo="https://epg.112114.xyz/logo/北京萌宠TV.png" group-title="北京",北京萌宠 TV
-http://home4.kmo.ink:8888/udp/239.3.1.102:8001
-#EXTINF:-1,tvg-id="北京淘精彩" tvg-name="北京淘精彩" tvg-logo="https://epg.112114.xyz/logo/北京淘精彩.png" group-title="北京",北京淘精彩
-http://home4.kmo.ink:8888/udp/239.3.1.178:8001
-#EXTINF:-1,tvg-id="北京淘BABY" tvg-name="北京淘BABY" tvg-logo="https://epg.112114.xyz/logo/北京淘BABY.png" group-title="北京",北京淘BABY
-http://home4.kmo.ink:8888/udp/239.3.1.238:8001
-#EXTINF:-1,tvg-id="北京淘电影" tvg-name="北京淘电影" tvg-logo="https://epg.112114.xyz/logo/北京淘电影.png" group-title="北京",北京淘电影
-http://home4.kmo.ink:8888/udp/239.3.1.250:8001
-#EXTINF:-1,tvg-id="北京大健康" tvg-name="北京大健康" tvg-logo="https://epg.112114.xyz/logo/北京大健康.png" group-title="北京",北京大健康
-http://home4.kmo.ink:8888/udp/239.3.1.251:8001
-#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文
-http://171.214.225.189:5555/udp/239.93.0.162:2192
-#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="香港",凤凰资讯
-http://171.214.225.189:5555/udp/239.93.0.118:2191
+#EXTINF:-1,tvg-id="KBS1 " tvg-name="KBS1 " tvg-logo="https://epg.112114.xyz/logo/KBS1.png" group-title="其他",KBS1 
+https://code.vthanhtivi.pw/getlink/kbs/11/playlist.m3u8#https://code.vthanhtivi.pw/getlink/kbs/10_11/playlist.m3u8#https://code.vthanhtivi.pw/getlink/kbs/30_11/playlist.m3u8#https://code.vthanhtivi.pw/getlink/kbs/60_11/playlist.m3u8#https://code.vthanhtivi.pw/getlink/kbs/40_11/playlist.m3u8#https://code.vthanhtivi.pw/getlink/kbs/11_11/playlist.m3u8#http://mytv.dothome.co.kr/ch/public/1.php
+#EXTINF:-1,tvg-id="KBS2 " tvg-name="KBS2 " tvg-logo="https://epg.112114.xyz/logo/KBS2.png" group-title="其他",KBS2 
+https://code.vthanhtivi.pw/getlink/kbs/12/playlist.m3u8#http://mytv.dothome.co.kr/ch/public/3.php
+#EXTINF:-1,tvg-id="KBS新闻 " tvg-name="KBS新闻 " tvg-logo="https://epg.112114.xyz/logo/KBS新闻.png" group-title="其他",KBS新闻 
+https://code.vthanhtivi.pw/getlink/kbs/81/playlist.m3u8
+#EXTINF:-1,tvg-id="KBS电视剧 " tvg-name="KBS电视剧 " tvg-logo="https://epg.112114.xyz/logo/KBS电视剧.png" group-title="其他",KBS电视剧 
+https://code.vthanhtivi.pw/getlink/kbs/N91/playlist.m3u8#http://mytv.dothome.co.kr/ch/catv/2.php
+#EXTINF:-1,tvg-id="KBS娱乐 " tvg-name="KBS娱乐 " tvg-logo="https://epg.112114.xyz/logo/KBS娱乐.png" group-title="其他",KBS娱乐 
+https://code.vthanhtivi.pw/getlink/kbs/N92/playlist.m3u8#http://mytv.dothome.co.kr/ch/catv/3.php
+#EXTINF:-1,tvg-id="KBS生活 " tvg-name="KBS生活 " tvg-logo="https://epg.112114.xyz/logo/KBS生活.png" group-title="其他",KBS生活 
+https://code.vthanhtivi.pw/getlink/kbs/N93/playlist.m3u8#http://mytv.dothome.co.kr/ch/catv/5.php
+#EXTINF:-1,tvg-id="KBS故事 " tvg-name="KBS故事 " tvg-logo="https://epg.112114.xyz/logo/KBS故事.png" group-title="其他",KBS故事 
+https://code.vthanhtivi.pw/getlink/kbs/N94/playlist.m3u8#http://mytv.dothome.co.kr/ch/catv/4.php
+#EXTINF:-1,tvg-id="KBS少儿 " tvg-name="KBS少儿 " tvg-logo="https://epg.112114.xyz/logo/KBS少儿.png" group-title="其他",KBS少儿 
+https://code.vthanhtivi.pw/getlink/kbs/N96/playlist.m3u8
+#EXTINF:-1,tvg-id="SBS " tvg-name="SBS " tvg-logo="https://epg.112114.xyz/logo/SBS.png" group-title="其他",SBS 
+https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8#http://1.222.207.80:1935/live/cjbtv/playlist.m3u8#http://1.245.74.5:1935/live/tv/.m3u8#http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8#http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+#EXTINF:-1,tvg-id="华艺MBC" tvg-name="华艺MBC" tvg-logo="https://epg.112114.xyz/logo/华艺MBC.png" group-title="其他",MBC 
+http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8#https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8#https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8#http://vod.mpmbc.co.kr:1935/live/encoder-tv/chunklist_w927448341.m3u8#https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8#https://624a79c87201d.streamlock.net/MBCTV/TV1.stream/playlist.m3u8#http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8#http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8#http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
+#EXTINF:-1,tvg-id="TV Chosun " tvg-name="TV Chosun " tvg-logo="https://epg.112114.xyz/logo/TVCHOSUN.png" group-title="其他",TV Chosun 
+https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/chunklist_b1800000.m3u8#https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/chunklist_b900000.m3u8#https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/chunklist_b2500000.m3u8#https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/playlist.m3u8
+#EXTINF:-1,tvg-id="OCN " tvg-name="OCN " tvg-logo="https://epg.112114.xyz/logo/OCN.png" group-title="其他",OCN 
+http://202.60.106.14:8080/207/playlist.m3u8#http://202.60.106.14:21585/207/playlist.m3u8
+#EXTINF:-1,tvg-id="EBS1 " tvg-name="EBS1 " tvg-logo="https://epg.112114.xyz/logo/EBS1.png" group-title="其他",EBS1 
+http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1,tvg-id="EBS2 " tvg-name="EBS2 " tvg-logo="https://epg.112114.xyz/logo/EBS2.png" group-title="其他",EBS2 
+http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1,tvg-id="EBSE " tvg-name="EBSE " tvg-logo="https://epg.112114.xyz/logo/EBSE.png" group-title="其他",EBSE 
+http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1,tvg-id="YTN " tvg-name="YTN " tvg-logo="https://epg.112114.xyz/logo/YTN.png" group-title="其他",YTN 
+http://202.60.106.14:8080/214/playlist.m3u8#http://202.60.106.14:21585/214/playlist.m3u8#https://i.mjh.nz/SamsungTVPlus/KRBD2400001XD.m3u8
+#EXTINF:-1,tvg-id="ABN " tvg-name="ABN " tvg-logo="https://epg.112114.xyz/logo/ABN.png" group-title="其他",ABN 
+https://vod2.abn.co.kr/IPHONE/abn.m3u8
+#EXTINF:-1,tvg-id="OBS " tvg-name="OBS " tvg-logo="https://epg.112114.xyz/logo/OBS.png" group-title="其他",OBS 
+https://vod.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8
+#EXTINF:-1,tvg-id="TBS " tvg-name="TBS " tvg-logo="https://epg.112114.xyz/logo/TBS.png" group-title="其他",TBS 
+https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8#https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_720.smil/playlist.m3u8#https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_1080.smil/playlist.m3u8#https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_360.smil/playlist.m3u8
+#EXTINF:-1,tvg-id="JTBC新闻 " tvg-name="JTBC新闻 " tvg-logo="https://epg.112114.xyz/logo/JTBC新闻.png" group-title="其他",JTBC新闻 
+https://i.mjh.nz/SamsungTVPlus/KRBC46000173Y.m3u8
+#EXTINF:-1,tvg-id="联合新闻 " tvg-name="联合新闻 " tvg-logo="https://epg.112114.xyz/logo/联合新闻.png" group-title="其他",联合新闻 
+https://i.mjh.nz/SamsungTVPlus/KRBD1400001ED.m3u8
+#EXTINF:-1,tvg-id="光州台 " tvg-name="光州台 " tvg-logo="https://epg.112114.xyz/logo/光州台.png" group-title="其他",光州台 
+http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8#http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
+#EXTINF:-1,tvg-id="国民台 " tvg-name="国民台 " tvg-logo="https://epg.112114.xyz/logo/国民台.png" group-title="其他",国民台 
+https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+#EXTINF:-1,tvg-id="NBS农业台 " tvg-name="NBS农业台 " tvg-logo="https://epg.112114.xyz/logo/NBS农业台.png" group-title="其他",NBS农业台 
+https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8#https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+#EXTINF:-1,tvg-id="NHTV " tvg-name="NHTV " tvg-logo="https://epg.112114.xyz/logo/NHTV.png" group-title="其他",NHTV 
+http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
+#EXTINF:-1,tvg-id="국방 TV " tvg-name="국방 TV " tvg-logo="https://epg.112114.xyz/logo/국방TV.png" group-title="其他",국방 TV 
+http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+#EXTINF:-1,tvg-id="NEW KPOP " tvg-name="NEW KPOP " tvg-logo="https://epg.112114.xyz/logo/NEWKPOP.png" group-title="其他",NEW KPOP 
+https://i.mjh.nz/SamsungTVPlus/USAJ3000013FJ.m3u8
+#EXTINF:-1,tvg-id="Korean Song Channel " tvg-name="Korean Song Channel " tvg-logo="https://epg.112114.xyz/logo/KOREANSONGCHANNEL.png" group-title="其他",Korean Song Channel 
+http://live.kytv.co.kr:8080/hls/stream.m3u8
+#EXTINF:-1,tvg-id="国乐电视 " tvg-name="国乐电视 " tvg-logo="https://epg.112114.xyz/logo/国乐电视.png" group-title="其他",国乐电视 
+https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
