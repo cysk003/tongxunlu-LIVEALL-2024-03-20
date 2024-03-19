@@ -1,11 +1,11 @@
 #EXTM3U x-tvg-url="https://epg.erw.cc/e.xml,https://epg.112114.xyz/pp.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
-#♻️ 九宮格•實時
-#EXTINF:-1 tvg-id="九宮閣" tvg-name="九宮閣" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/多屏实时.png" group-title="♻️ 九宮閣•實時",多屏实时 I
+#♻️ 九宮閣•實時
+#EXTINF:-1 tvg-id="九宮閣" tvg-name="九宮閣" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/多屏实时.png" group-title="♻️ 九宮閣•實時",九宮閣•實時 Ⅰ
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001579/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="九宮閣" tvg-name="九宮閣" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/多屏实时.png" group-title="♻️ 九宮閣•實時",多屏实时 II
+#EXTINF:-1 tvg-id="九宮閣" tvg-name="九宮閣" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/多屏实时.png" group-title="♻️ 九宮閣•實時",九宮閣•實時 Ⅱ
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001589/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="九宮閣" tvg-name="九宮閣" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/多屏实时.png" group-title="♻️ 九宮閣•實時",多屏实时 III
+#EXTINF:-1 tvg-id="九宮閣" tvg-name="九宮閣" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/多屏实时.png" group-title="♻️ 九宮閣•實時",九宮閣•實時 Ⅲ
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226337/index.m3u8
 
 #🐼 熊寶頻道
