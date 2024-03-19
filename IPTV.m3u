@@ -680,6 +680,14 @@ http://175.147.76.205:8888/rtp/232.0.0.156:1234
 #EXTINF:-1 tvg-id="辽宁青少" tvg-name="辽宁教育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/辽宁教育青少.png" group-title="📺 遼甯頻道", 辽宁教育青少
 http://175.147.76.205:8888/rtp/232.0.0.241:1234
 
+#📺 安徽頻道
+#EXTINF:-1 tvg-id="安徽经济生活" tvg-name="安徽经济生活" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/安徽经济生活.png" group-title="📺 安徽頻道", 经济生活
+http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8?zanhd
+#EXTINF:-1 tvg-id="安徽影院" tvg-name="安徽影院" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/安徽影院.png" group-title="📺 安徽頻道", 安徽影院
+http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8?zanhd
+#EXTINF:-1 tvg-id="安徽综艺体育" tvg-name="安徽综艺体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/安徽综艺体育.png" group-title="📺 安徽頻道", 综艺•体育
+http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?zanhd
+
 #📺 海南频道
 #EXTINF:-1 tvg-id="海南新闻" tvg-name="海南新闻" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/海南新闻.png" group-title="📺 海南频道",海南新闻
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000321/index.m3u8?IAS
