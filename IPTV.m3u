@@ -674,23 +674,23 @@ http://liveflash.sxrtv.com/live/huanghe.m3u8?sub_m3u8=true&edge_slice=true
 
 #📺 遼甯頻道
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/辽宁卫视.png" group-title="📺 遼甯頻道", 辽宁卫视
-http://175.147.76.205:8888/rtp/232.0.0.126:1234
+http://jd.sy012.com:4000/udp/232.0.0.144:9108
 #EXTINF:-1 tvg-id="辽宁都市" tvg-name="辽宁都市" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/辽宁都市.png" group-title="📺 遼甯頻道", 辽宁都市
-http://175.147.76.205:8888/rtp/232.0.0.154:1234
+http://jd.sy012.com:4000/udp/232.0.0.42:8856
 #EXTINF:-1 tvg-id="辽宁体育" tvg-name="辽宁体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/辽宁体育.png" group-title="📺 遼甯頻道", 辽宁体育
-http://175.147.76.205:8888/rtp/232.0.0.164:1234
+http://jd.sy012.com:4000/udp/232.0.0.66:8820
 #EXTINF:-1 tvg-id="辽宁北方" tvg-name="辽宁北方" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/辽宁北方.png" group-title="📺 遼甯頻道", 辽宁北方
-http://175.147.76.205:8888/rtp/232.0.0.151:1234
+http://jd.sy012.com:4000/udp/232.0.0.211:9240
 #EXTINF:-1 tvg-id="辽宁影视剧" tvg-name="辽宁影视剧" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/辽宁影视剧.png" group-title="📺 遼甯頻道", 辽宁影视剧
-http://175.147.76.205:8888/rtp/232.0.0.25:1234
+http://jd.sy012.com:4000/udp/232.0.0.97:8534
 #EXTINF:-1 tvg-id="辽宁生活" tvg-name="辽宁生活" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/辽宁生活.png" group-title="📺 遼甯頻道", 辽宁生活
-http://175.147.76.205:8888/rtp/232.0.0.150:1234
+http://jd.sy012.com:4000/udp/232.0.0.212:9242
 #EXTINF:-1 tvg-id="辽宁公共" tvg-name="辽宁公共" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/辽宁公共.png" group-title="📺 遼甯頻道", 辽宁公共
-http://175.147.76.205:8888/rtp/232.0.0.168:1234
+http://jd.sy012.com:4000/udp/232.0.0.156:9322
 #EXTINF:-1 tvg-id="辽宁经济" tvg-name="辽宁经济" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/辽宁经济.png" group-title="📺 遼甯頻道", 辽宁经济
-http://175.147.76.205:8888/rtp/232.0.0.156:1234
+http://jd.sy012.com:4000/udp/232.0.0.155:9320
 #EXTINF:-1 tvg-id="辽宁青少" tvg-name="辽宁教育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/辽宁教育青少.png" group-title="📺 遼甯頻道", 辽宁教育青少
-http://175.147.76.205:8888/rtp/232.0.0.241:1234
+http://jd.sy012.com:4000/udp/232.0.0.230:9356
 
 #📺 安徽頻道
 #EXTINF:-1 tvg-id="安徽经济生活" tvg-name="安徽经济生活" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/安徽经济生活.png" group-title="📺 安徽頻道", 经济生活
