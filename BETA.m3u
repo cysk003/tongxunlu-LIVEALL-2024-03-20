@@ -150,17 +150,17 @@ http://39.135.129.165/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226764/index.m3
 http://39.135.129.163/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226738/index.m3u8
 
 #EXTINF:-1,tvg-id="辽宁体育" tvg-name="辽宁体育" tvg-logo="https://epg.112114.xyz/logo/辽宁体育.png" group-title="辽宁",辽宁体育
-http://www.zhongyunkj.com:58008/paiptv/LNTY.m3u8
+http://123.187.47.202:58008/paiptv/LNTY.m3u8
 #EXTINF:-1,tvg-id="辽宁公共" tvg-name="辽宁公共" tvg-logo="https://epg.112114.xyz/logo/辽宁公共.png" group-title="辽宁",辽宁公共
-http://www.zhongyunkj.com:58008/paiptv/LNGG.m3u8
+http://123.187.47.202:58008/paiptv/LNGG.m3u8
 #EXTINF:-1,tvg-id="辽宁生活" tvg-name="辽宁生活" tvg-logo="https://epg.112114.xyz/logo/辽宁生活.png" group-title="辽宁",辽宁生活
-http://www.zhongyunkj.com:58008/paiptv/LNSH.m3u8
+http://123.187.47.202:58008/paiptv/LNSH.m3u8
 #EXTINF:-1,tvg-id="辽宁经济" tvg-name="辽宁经济" tvg-logo="https://epg.112114.xyz/logo/辽宁经济.png" group-title="辽宁",辽宁经济
-http://www.zhongyunkj.com:58008/paiptv/LNJJ.m3u8
+http://123.187.47.202:58008/paiptv/LNJJ.m3u8
 #EXTINF:-1,tvg-id="辽宁都市" tvg-name="辽宁都市" tvg-logo="https://epg.112114.xyz/logo/辽宁都市.png" group-title="辽宁",辽宁都市
-http://www.zhongyunkj.com:58008/paiptv/LNDS.m3u8
+http://123.187.47.202:58008/paiptv/LNDS.m3u8
 #EXTINF:-1,tvg-id="辽宁青少" tvg-name="辽宁青少" tvg-logo="https://epg.112114.xyz/logo/辽宁青少.png" group-title="辽宁",辽宁青少
-http://www.zhongyunkj.com:58008/paiptv/LNQS.m3u8
+http://123.187.47.202:58008/paiptv/LNQS.m3u8
 
 #EXTINF:-1,tvg-id="发现之旅" tvg-name="发现之旅" tvg-logo="https://epg.112114.xyz/logo/发现之旅.png" group-title="其他",发现之旅
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8
