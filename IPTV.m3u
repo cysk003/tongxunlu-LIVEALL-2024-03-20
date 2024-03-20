@@ -337,10 +337,12 @@ http://home4.kmo.ink:8888/udp/239.3.1.238:8001
 http://qnap.yjnhome.com:4000/udp/239.3.1.238:8001
 #EXTINF:-1 tvg-id="房山无线" tvg-name="房山无线" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/房山无线频道.png" group-title="📺 北京頻道",房山无线
 http://live.funhillrm.com/2/sd/live.m3u8
-#EXTINF:-1 tvg-id="石景山" tvg-id="石景山" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/北京石景山频道.png" group-title="📺 北京頻道",石景山
+#EXTINF:-1 tvg-id="石景山无线" tvg-id="石景山无线" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/北京石景山频道.png" group-title="📺 北京頻道",石景山无线
 http://live.sjsrm.com/bjsjs/sd/live.m3u8
 #EXTINF:-1 tvg-id="京视剧场" tvg-name="京视剧场" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/京视剧场.png" group-title="📺 北京頻道",京视剧场
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226242/index.m3u8
+#EXTINF:-1 tvg-id="清华大学" tvg-name="清华大学" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/清华大学.png" group-title="📺 北京頻道",清华大学
+http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8?zbeid
 
 #📺 江蘇頻道
 #EXTINF:-1 tvg-id="江苏优漫卡通" tvg-name="江苏优漫卡通" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/优漫卡通.png" group-title="📺 江蘇頻道",优漫卡通
