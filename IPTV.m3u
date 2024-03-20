@@ -893,6 +893,8 @@ http://ali.hlspull.yximgs.com/live/huanqiuhklivexcvbpjyhvjbvnjjsfjvbhfhcjhbnjsjb
 http://ali.hlspull.yximgs.com/live/huanqiuhklivejjojjxcvyhjsjhtejwfhfvjjdvbdjsjjjhjljsjvcelevend.flv
 #EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/纬来体育.png" group-title="📺 港澳台頻道",緯來體育
 https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
+#EXTINF:-1,tvg-id="TVBS欢乐" tvg-name="TVBS欢乐台" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/TVBS欢乐.png" group-title="📺 港澳台頻道",歡樂•TVBS
+http://50.7.238.114:8278/tvbshuanle_twn/playlist.m3u8?tid=MA5A9262292692622926&ct=19254&tsum=cd369d68a5d2c1a2fa04df748cda142c
 #EXTINF:-1,tvg-id="环球电视台" tvg-name="环球电视台" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/环球电视台.png" group-title="📺 港澳台頻道",環球電視台
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
 #EXTINF:-1,tvg-id="亚洲新闻" tvg-name="亚洲新闻台" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/东森亚洲新闻.png" group-title="📺 港澳台頻道",東森亞洲新聞
